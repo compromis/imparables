@@ -1,0 +1,10 @@
+.navbar {
+  &-light {
+    background: $white;
+  }
+
+  &-brand {
+    color: $gray-700 !important;
+    width: 13rem;
+  }
+}
