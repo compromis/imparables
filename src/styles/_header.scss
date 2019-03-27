@@ -1,10 +1,112 @@
-.navbar {
+.navbar { 
+  &-nav {  
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+
   &-light {
     background: $white;
+
+    .social-icon {
+      font-size: 1.5rem;
+      display: none;
+    }
+
+    .navbar-brand {
+    color: $gray-700;
+    width: 13rem;
+  
+      &--open {
+        position: relative;
+        z-index: 10000;
+        color: $white;
+      }
+    }
+  }
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+  background-color: $orange;
+  position: fixed;
+  height: 100%;
+  left: 0;
+  right: 0;
+  top: 0;
+  z-index: 2000;
+  padding: 1rem;
+  padding-top: 5rem;
+  transition: .5s ease-in;
+
+  ul {
+    list-style-type: none; 
   }
 
-  &-brand {
-    color: $gray-700 !important;
-    width: 13rem;
+  a {
+    color: $white;
+    text-decoration: none;
+
+    &:hover{
+      color: black;
+      text-decoration: none;
+    }
+  }
+
+  .social-icon {
+    margin-right: 1rem;
+    font-size: 1.7rem;
+    justify-self: end;
+    align-self: end;
+
+    &.facebook:hover {
+      color: #3b5998;
+    }
+
+    &.twitter:hover {
+      color: #38A1F3;
+    }
+
+    &.instagram:hover {
+      color: #DD2A7B;
+    }
+
+    &.whatsapp:hover {
+      color: #25D366;
+    }
+  }
+
+  &-social {
+    justify-items: end;
+    align-self: end;
+    display: flex;
+    flex-direction: row;
+  }
+
+  &-button {
+    color: $gray-700;
+    z-index: 100000;
+    font-size: 1.5rem;
+  }
+
+  &-link {
+    text-transform: uppercase;
+    font-family: Oswald, sans-serif;
+    font-size: 4rem;
+  }
+
+  &-hidden {
+    top: -1080px;
+    display: none;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  .navbar{ 
+    .social-icon {
+      font-size: 1.5rem;
+      display: inline;
+    }
   }
 }
