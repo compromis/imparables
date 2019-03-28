@@ -1,4 +1,10 @@
-.navbar { 
+.navbar {
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+
   &-nav {  
     display: flex;
     align-items: center;
@@ -10,11 +16,10 @@
 
     .social-icon {
       font-size: 1.5rem;
-      display: none;
     }
 
     .navbar-brand {
-      color: $gray-700;
+      color: $gray-800;
       width: 13rem;
     }
   }
@@ -24,11 +29,22 @@
       position: relative;
       z-index: 10000;
       color: $white;
+
+      &:hover {
+        color: $white;
+      }
     }
 
     .menu-button {
       color: $white;
     }
+  }
+
+  .menu-languages {
+    padding: 0 1rem;
+    margin: 0 1rem;
+    border-left: 1px $gray-500 solid;
+    border-right: 1px $gray-500 solid;
   }
 }
 
@@ -47,23 +63,8 @@
   transition: .5s ease-in;
   overflow-y: scroll;
 
-  ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
-
-  a.menu-link {
-    color: $white;
-    text-decoration: none;
-
-    &:hover {
-      color: black;
-      text-decoration: none;
-    }
-  }
-
   .social-icon {
+    display: inline-block;
     margin-right: 1rem;
     font-size: 1.7rem;
     justify-self: end;
@@ -100,13 +101,49 @@
   &-button {
     color: $gray-700;
     z-index: 10000;
-    font-size: 1.5rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+
+    svg {
+      position: relative;
+      top: -2px;
+      font-size: 1.5rem;
+      margin-left: .25rem;
+    }
   }
 
   &-link {
+    display: block;
     text-transform: uppercase;
-    font-family: Oswald, sans-serif;
-    font-size: 4rem;
+    font-family: $font-family-headings;
+    font-size: 5rem;
+    color: $white;
+    text-decoration: none;
+    line-height: 100%;
+
+    span {
+      position: relative;
+
+      &::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        height: .25rem;
+        width: 0;
+        background: $white;
+        transition: .25s ease-in-out;
+      }
+    }
+
+    &:hover {
+      color: $white;
+      text-decoration: none;
+
+      span::after {
+        width: 100%;
+      }
+    }
   }
 
   &-closed {
@@ -114,11 +151,3 @@
   }
 }
 
-@include media-breakpoint-up(lg) {
-  .navbar {
-    .social-icon {
-      font-size: 1.5rem;
-      display: inline;
-    }
-  }
-}

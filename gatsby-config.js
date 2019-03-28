@@ -31,18 +31,6 @@ module.exports = {
     },
     `gatsby-plugin-sass`,
     {
-      resolve: `gatsby-plugin-prefetch-google-fonts`,
-      options: {
-        fonts: [
-          {
-            family: `Oswald`,
-            subsets: [`latin`],
-            variants: [`700`]
-          }
-        ],
-      },
-    },
-    {
       resolve: 'gatsby-plugin-i18n',
       options: {
         langKeyDefault: 'val',

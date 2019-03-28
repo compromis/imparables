@@ -19,3 +19,14 @@
   font-weight: bold;
   font-style: normal;
 }
+
+@font-face {
+  font-family: 'Fixture';
+  src: url('../fonts/Fixture-CondensedMedium.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Fixture-CondensedMedium.otf') format('opentype'),
+       url('../fonts/Fixture-CondensedMedium.woff') format('woff'),
+       url('../fonts/Fixture-CondensedMedium.ttf') format('truetype'),
+       url('../fonts/Fixture-CondensedMedium.svg#Fixture-CondensedMedium') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
