@@ -46,12 +46,14 @@ class Header extends React.Component {
             <li><Nav.Link href="https://api.whatsapp.com/send?phone=34607812839&text=Vull%20rebre%20informaci%C3%B3%20de%20Comprom%C3%ADs%20al%20meu%20WhatsApp&source=&data=" className="social-icon whatsapp" target="_blank" rel="noopener"><FaWhatsapp /></Nav.Link></li>
           </ul>
           <ul className="menu-languages">
-            { locale === 'es' ? <li><Link to="/" className="nav-link language-option">Valencià</Link></li> : '' }
-            { locale === 'ca' ? <li><Link to="/cas" className="nav-link language-option">Castellano</Link></li> : '' }
+            { locale === 'es' ? <li><Link to="/" className="nav-link language-option"><span className="d-md-none">VAL</span><span className="d-none d-md-inline">Valencià</span></Link></li> : '' }
+            { locale === 'ca' ? <li><Link to="/cas" className="nav-link language-option"><span className="d-md-none">CAS</span><span className="d-none d-md-inline">Castellano</span></Link></li> : '' }
           </ul>
-          <button className="btn menu-button" onClick={() => { this.toggleMenu() }}> Menú {menuIsOpen ? <FaTimes /> : <FaBars />}</button>
+          <button className="btn menu-button" onClick={() => { this.toggleMenu() }} aria-controls="menu">
+            <span className="d-none d-md-inline">Menú</span> {menuIsOpen ? <FaTimes /> : <FaBars />}
+          </button>
         </Nav>
-        <nav className={['menu', (menuIsOpen) ? 'menu-open' : 'menu-closed'].join(' ')}>
+        <div id="menu" className={['menu', menuIsOpen ? 'menu-open' : 'menu-closed'].join(' ')} aria-expanded={ menuIsOpen ? false : true }>
           <div className="container">
             <ul className="menu-main">
               <li><Link className="menu-link" to="/"><span>Imparables</span></Link></li>
@@ -66,7 +68,7 @@ class Header extends React.Component {
               <li><a href="https://api.whatsapp.com/send?phone=34607812839&text=Vull%20rebre%20informaci%C3%B3%20de%20Comprom%C3%ADs%20al%20meu%20WhatsApp&source=&data=" className="social-icon whatsapp" target="_blank" rel="noopener noreferrer"><FaWhatsapp /></a></li>
             </ul>
           </div>
-        </nav>
+        </div>
       </Navbar>
     )
   }

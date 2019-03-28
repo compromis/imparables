@@ -5,7 +5,7 @@
     margin: 0;
   }
 
-  &-nav {  
+  &-nav {
     display: flex;
     align-items: center;
     justify-items: center;
@@ -39,13 +39,6 @@
       color: $white;
     }
   }
-
-  .menu-languages {
-    padding: 0 1rem;
-    margin: 0 1rem;
-    border-left: 1px $gray-500 solid;
-    border-right: 1px $gray-500 solid;
-  }
 }
 
 .menu {
@@ -73,6 +66,11 @@
     padding: .25rem .75rem;
     border-radius: .25rem;
     margin-left: -.5rem;
+
+    svg {
+      position: relative;
+      top: -2px;
+    }
 
     &.facebook:hover {
       background-color: #3b5998;
@@ -151,3 +149,13 @@
   }
 }
 
+@include media-breakpoint-up(md) {
+  .navbar {
+    .menu-languages {
+      padding: 0 1rem;
+      margin: 0 1rem;
+      border-left: 1px $gray-500 solid;
+      border-right: 1px $gray-500 solid;
+    }
+  }
+}
