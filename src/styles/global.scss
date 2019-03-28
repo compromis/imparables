@@ -7,6 +7,12 @@ body {
   padding-top: 68px;
 }
 
+html.menu-is-open {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
 .container-fluid {
   max-width: 2000px;
 }

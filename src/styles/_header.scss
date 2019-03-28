@@ -3,7 +3,7 @@
     display: flex;
     align-items: center;
     justify-items: center;
-}
+  }
 
   &-light {
     background: $white;
@@ -14,14 +14,20 @@
     }
 
     .navbar-brand {
-    color: $gray-700;
-    width: 13rem;
-  
-      &--open {
-        position: relative;
-        z-index: 10000;
-        color: $white;
-      }
+      color: $gray-700;
+      width: 13rem;
+    }
+  }
+
+  &-open {
+    .navbar-brand {
+      position: relative;
+      z-index: 10000;
+      color: $white;
+    }
+
+    .menu-button {
+      color: $white;
     }
   }
 }
@@ -39,16 +45,19 @@
   padding: 1rem;
   padding-top: 5rem;
   transition: .5s ease-in;
+  overflow-y: scroll;
 
   ul {
-    list-style-type: none; 
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
   }
 
-  a {
+  a.menu-link {
     color: $white;
     text-decoration: none;
 
-    &:hover{
+    &:hover {
       color: black;
       text-decoration: none;
     }
@@ -59,21 +68,25 @@
     font-size: 1.7rem;
     justify-self: end;
     align-self: end;
+    color: $white;
+    padding: .25rem .75rem;
+    border-radius: .25rem;
+    margin-left: -.5rem;
 
     &.facebook:hover {
-      color: #3b5998;
+      background-color: #3b5998;
     }
 
     &.twitter:hover {
-      color: #38A1F3;
+      background-color: #38A1F3;
     }
 
     &.instagram:hover {
-      color: #DD2A7B;
+      background-color: #DD2A7B;
     }
 
     &.whatsapp:hover {
-      color: #25D366;
+      background-color: #25D366;
     }
   }
 
@@ -86,7 +99,7 @@
 
   &-button {
     color: $gray-700;
-    z-index: 100000;
+    z-index: 10000;
     font-size: 1.5rem;
   }
 
@@ -96,14 +109,13 @@
     font-size: 4rem;
   }
 
-  &-hidden {
-    top: -1080px;
-    display: none;
+  &-closed {
+    top: -100%;
   }
 }
 
 @include media-breakpoint-up(lg) {
-  .navbar{ 
+  .navbar {
     .social-icon {
       font-size: 1.5rem;
       display: inline;

@@ -6,10 +6,10 @@ const Logo = (props) => (
   <g>
     <g>
       <linearGradient id="compromisGradient" gradientUnits="userSpaceOnUse" x1="132.5364" y1="29.2869" x2="132.5364" y2="211.4052">
-        <stop  offset="0" style={{'stop-color': '#E28226'}} />
-        <stop  offset="1" style={{'stop-color': '#D44127'}} />
+        <stop offset="0" style={{stopColor: '#E28226'}} />
+        <stop offset="1" style={{stopColor: '#D44127'}} />
       </linearGradient>
-      <path style={!props.monochrome ? {fill: 'url(#compromisGradient)'} : {}} fill={props.monochrome ? 'currentColor' : false} d="M218.1,30.2H47c-4.9,0-8.8,3.8-8.8,8.4v163.3c0,4.6,4,8.4,8.8,8.4h171.1c4.8,0,8.8-3.8,8.8-8.4V38.6
+      <path style={!props.monochrome ? {fill: 'url(#compromisGradient)'} : {}} fill={props.monochrome ? 'currentColor' : undefined} d="M218.1,30.2H47c-4.9,0-8.8,3.8-8.8,8.4v163.3c0,4.6,4,8.4,8.8,8.4h171.1c4.8,0,8.8-3.8,8.8-8.4V38.6
         C226.9,34,222.9,30.2,218.1,30.2z M147.5,79.4h19.7v18.8h-19.7V79.4z M84.8,80.1c3.4,7,7.6,8.6,14.5,8.6v-9.3h19.7v18.8h-18.2
         c-11.4,0-18.8-2.7-23.6-13.7L84.8,80.1z M133.6,166.5c-24.9,0-45.3-7.7-63.3-22.7l6.9-8.8c17.9,12.7,32.5,18.6,56.4,18.6
         c23.9,0,38.5-5.8,56.4-18.6l6.9,8.8C178.9,158.8,158.6,166.5,133.6,166.5z"/>
@@ -75,7 +75,7 @@ const Logo = (props) => (
 )
 
 Logo.propTypes = {
-  monochrome: PropTypes.bool,
+  monochrome: PropTypes.number,
 }
 
 Logo.defaultProps = {
