@@ -3,13 +3,13 @@ import React from "react"
 import Layout from "../layouts/val"
 import SEO from "../components/seo"
 
-const IndexPage = () => (
+const ProgramaPage = () => (
   <Layout>
-    <SEO lang="es" title="Imparables" />
+    <SEO lang="es" title="Programa 2019" />
     <div className="container-fluid">
-      Test
+      Programa
     </div>
   </Layout>
 )
 
-export default IndexPage
+export default ProgramaPage
