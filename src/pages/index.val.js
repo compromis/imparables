@@ -5,7 +5,7 @@ import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
-    <SEO lang="es" title="Imparables" />
+    <SEO lang="ca" />
     <div className="container-fluid">
       Test
     </div>

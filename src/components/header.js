@@ -59,7 +59,7 @@ class Header extends React.Component {
               <li><Link className="menu-link" to="/"><span>Imparables</span></Link></li>
               <li><Link className="menu-link" to="/"><span>Actua</span></Link></li>
               <li><Link className="menu-link" to="/"><span>Candidatura</span></Link></li>
-              <li><Link className="menu-link" to="/"><span>Programa</span></Link></li>
+              <li><Link className="menu-link" to="/programa"><span>Programa</span></Link></li>
             </ul>
             <ul className="mt-4 menu-social">
               <li><a href="https://www.facebook.com/coaliciocompromis" className="social-icon facebook" target="_blank" rel="noopener noreferrer"><FaFacebook /></a></li>
