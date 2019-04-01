@@ -6,7 +6,7 @@ import "intl";
 
 import Header from "../components/header"
 
-const Layout = ({ locale, messages, children }) => (
+const Layout = ({ isFrontPage, locale, messages, children }) => (
   <StaticQuery
     query={graphql`
       query SiteTitleQuery {
@@ -20,7 +20,7 @@ const Layout = ({ locale, messages, children }) => (
     render={data => (
       <IntlProvider locale={locale} messages={messages}>
         <>
-          <Header siteTitle={data.site.siteMetadata.title} locale={locale} />
+          <Header siteTitle={data.site.siteMetadata.title} locale={locale} isFrontPage={isFrontPage} />
           <main>{children}</main>
         </>
       </IntlProvider>

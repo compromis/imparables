@@ -41,14 +41,14 @@ class Header extends React.Component {
   }
 
   render () {
-    const { locale } = this.props
+    const { locale, isFrontPage } = this.props
     const { menuIsOpen, isTop } = this.state
 
     return (
-      <Navbar bg="light" fixed="top" className={[isTop ? 'navbar--transparent' : '', menuIsOpen ? 'navbar-open' : ''].join(' ')}>
+      <Navbar bg="light" fixed="top" className={[isTop && isFrontPage ? 'navbar--transparent' : '', menuIsOpen ? 'navbar-open' : ''].join(' ')}>
         <div className="container-fluid">
           <IntLink to="/" className="navbar-brand">
-            <Logo monochrome={menuIsOpen || isTop ? 1 : 0} />
+            <Logo monochrome={menuIsOpen || (isTop && isFrontPage) ? 1 : 0} />
           </IntLink>
           <Nav className="ml-auto">
             <ul className="menu-social d-none d-md-flex">
@@ -93,12 +93,14 @@ class Header extends React.Component {
 
 Header.propTypes = {
   siteTitle: PropTypes.string,
-  locale: PropTypes.string
+  locale: PropTypes.string,
+  isFrontPage: PropTypes.bool
 }
 
 Header.defaultProps = {
   siteTitle: ``,
-  locale: `ca`
+  locale: `ca`,
+  isFrontPage: false
 }
 
 export default Header
