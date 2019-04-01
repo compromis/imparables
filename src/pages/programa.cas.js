@@ -1,6 +1,6 @@
 import React from "react"
 
-import Layout from "../layouts/val"
+import Layout from "../layouts/cas"
 import SEO from "../components/seo"
 
 const ProgramaPage = () => (
