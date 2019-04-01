@@ -2,13 +2,12 @@ import React from "react"
 
 import Layout from "../layouts/cas"
 import SEO from "../components/seo"
+import Hero from "../components/hero"
 
 const IndexPage = () => (
   <Layout>
     <SEO lang="es" />
-    <div className="container-fluid">
-      Test
-    </div>
+    <Hero />
   </Layout>
 )
 

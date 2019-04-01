@@ -1,0 +1,71 @@
+.hero {
+  min-height: 100vh;
+  background: $gray-500;
+  background-size: cover;
+  background-position: center;
+  padding: 6rem 1rem;
+
+  &-claim {
+    svg {
+      color: $white;
+      max-width: 100%;
+    }
+  }
+
+  h2 {
+    font-weight: bold;
+    margin-top: 4rem;
+    margin-top: calc(1.25rem + 2vh);
+    font-size: 2rem;
+    font-size: calc(1rem + 2vh);
+    color: rgba($white, .75);
+  }
+
+  &-ctas {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    margin-top: 4rem;
+    margin-top: calc(1.25rem + 2vh);
+    list-style: none;
+  }
+
+  &-cta {
+    display: block;
+    padding: .5rem 1.25rem;
+    font-size: 1.25rem;
+    font-size: calc(1rem + .5vh);
+    border: 3px $white solid;
+    margin-right: 1.5rem;
+    color: $white;
+    transition: .25s ease-in-out;
+
+    &:hover {
+      background: $white;
+      color: $orange;
+      text-decoration: none;
+    }
+
+    &--primary {
+      background: $orange;
+      border-color: $orange;
+
+      &:hover {
+        border-color: $white;
+      }
+    }
+  }
+}
+
+@include media-breakpoint-up(md) {
+  .hero {
+    padding-top: calc(8rem + 10vh);
+
+    &-claim {
+      svg {
+        height: 20rem;
+        height: calc(10rem + 18vh);
+      }
+    }
+  }
+}

@@ -1,7 +1,9 @@
 module.exports = {
-  donate: "Hacer donación",
-  whatsapp_header: "Canal de Whatsapp",
-  whatsapp_text: "Mantente al dia de toda la información de la campaña",
-  whatsapp_instructions: "Escribe ALTA al 607 812 839 y guarda el número en tus contactos",
-  whatsapp_cta: "Suscríbete!"
+  menu_imparables: "Imparables",
+  menu_candidatura: "Candidatura",
+  menu_actua: "Actúa",
+  menu_programa: "Programa",
+  hero_intro: "(CAS)Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  hero_cta1: "(CAS) Cta 1",
+  hero_cta2: "(CAS) Cta 2"
 };
