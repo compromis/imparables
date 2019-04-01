@@ -45,9 +45,9 @@ class Header extends React.Component {
             <li><Nav.Link href="https://www.instagram.com/compromis_net/" className="social-icon instagram" target="_blank" rel="noopener"><FaInstagram /></Nav.Link></li>
             <li><Nav.Link href="https://api.whatsapp.com/send?phone=34607812839&text=Vull%20rebre%20informaci%C3%B3%20de%20Comprom%C3%ADs%20al%20meu%20WhatsApp&source=&data=" className="social-icon whatsapp" target="_blank" rel="noopener"><FaWhatsapp /></Nav.Link></li>
           </ul>
-          <ul className="menu-languages">
-            { locale === 'es' ? <li><IntLink to="/" locale="ca" className="nav-link language-option"><span className="d-md-none">VAL</span><span className="d-none d-md-inline">Valencià</span></IntLink></li> : '' }
-            { locale === 'ca' ? <li><IntLink to="/" locale="es" className="nav-link language-option"><span className="d-md-none">CAS</span><span className="d-none d-md-inline">Castellano</span></IntLink></li> : '' }
+          <ul className="navbar-languages">
+            { locale === 'es' ? <li><IntLink to="/" locale="ca" className="nav-link"><span className="d-md-none">VAL</span><span className="d-none d-md-inline">Valencià</span></IntLink></li> : '' }
+            { locale === 'ca' ? <li><IntLink to="/" locale="es" className="nav-link"><span className="d-md-none">CAS</span><span className="d-none d-md-inline">Castellano</span></IntLink></li> : '' }
           </ul>
           <button className="btn menu-button" onClick={() => { this.toggleMenu() }} aria-controls="menu">
             <span className="d-none d-md-inline">Menú</span> {menuIsOpen ? <FaTimes /> : <FaBars />}
@@ -66,6 +66,10 @@ class Header extends React.Component {
               <li><a href="https://twitter.com/compromis" className="social-icon twitter" target="_blank" rel="noopener noreferrer"><FaTwitter /></a></li>
               <li><a href="https://www.instagram.com/compromis_net/" className="social-icon instagram" target="_blank" rel="noopener noreferrer"><FaInstagram /></a></li>
               <li><a href="https://api.whatsapp.com/send?phone=34607812839&text=Vull%20rebre%20informaci%C3%B3%20de%20Comprom%C3%ADs%20al%20meu%20WhatsApp&source=&data=" className="social-icon whatsapp" target="_blank" rel="noopener noreferrer"><FaWhatsapp /></a></li>
+            </ul>
+            <ul className="mt-4 menu-languages">
+              { locale === 'es' ? <li><IntLink to="/" locale="ca">En valencià</IntLink></li> : '' }
+              { locale === 'ca' ? <li><IntLink to="/" locale="es">En castellano</IntLink></li> : '' }
             </ul>
           </div>
         </div>
