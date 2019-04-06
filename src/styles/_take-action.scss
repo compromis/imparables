@@ -112,7 +112,6 @@
   .action {
     &-container {
       border: .25rem $white solid;
-      margin: 0 2rem 2rem 0;
       padding: 1.5rem 1.5rem 4rem 1.5rem;
     }
 
@@ -125,6 +124,7 @@
         width: 50%;
 
         &-container {
+          margin: 0 2rem 2rem 0;
           min-height: 15rem;
         }
       }
