@@ -13,6 +13,41 @@
     justify-items: center;
   }
 
+  &-brand {
+    padding: 0;
+
+    .brand-logo {
+      display: inline-block;
+      overflow: hidden;
+      width: 208px;
+      transition: .25s ease-in-out;
+      vertical-align: middle;
+      
+      svg {
+        width: 208px;
+        transform: translateY(-2px);
+      }
+
+      &--compact {
+        width: 50px;
+      }
+    }
+
+    .brand-campaign {
+      font-weight: bold;
+      font-size: 1.75rem;
+      position: relative;
+      top: 3px;
+      letter-spacing: -1px;
+      overflow: hidden;
+      transition: .25s ease-in-out;
+
+      &--compact {
+        opacity: 0;
+      }
+    }
+  }
+
   &-light {
     background: $white !important;
 
@@ -212,12 +247,18 @@
   }
 }
 
-@include media-breakpoint-up(xl) {
+@include media-breakpoint-up(lg) {
   .menu {
     padding-top: 8rem;
 
     &-link {
       font-size: 7rem;
     }
+  }
+}
+
+@media (max-width: 320px) {
+  .navbar-languages {
+    display: none;
   }
 }

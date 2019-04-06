@@ -1,6 +1,7 @@
 .take-action {
   background: $orange;
   color: $white;
+  overflow: hidden;
 
   h2 {
     font-family: $font-family-headings;
@@ -62,10 +63,10 @@
     content: '';
     position: absolute;
     z-index: 1;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
+    top: -1rem;
+    left: -2rem;
+    right: -2rem;
+    bottom: .5rem;
     opacity: .25;
     transition: .25s ease-in-out;
     background-size: cover;
@@ -171,6 +172,7 @@
     &.cyber {
       &::before {
         width: 50%;
+        height: 75%;
       }
     }
   

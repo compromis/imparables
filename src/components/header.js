@@ -14,16 +14,23 @@ class Header extends React.Component {
 
     this.state = {
       menuIsOpen: false,
-      isTop: true
+      isTop: true,
+      isImparables: false
     }
 
     this.handleScroll = this.handleScroll.bind(this)
   }
 
   handleScroll () {
-    const isTop = window.scrollY < 10;
+    const isTop = window.scrollY < 10
+    const isImparables = window.scrollY > 400
+    
     if (isTop !== this.state.isTop) {
-        this.setState({ isTop })
+      this.setState({ isTop })
+    }
+
+    if (isImparables !== this.state.isImparables) {
+      this.setState({ isImparables })
     }
   }
 
@@ -50,13 +57,18 @@ class Header extends React.Component {
 
   render () {
     const { locale, isFrontPage } = this.props
-    const { menuIsOpen, isTop } = this.state
+    const { menuIsOpen, isTop, isImparables } = this.state
 
     return (
       <Navbar bg="light" fixed="top" className={[isTop && isFrontPage ? 'navbar--transparent' : '', menuIsOpen ? 'navbar-open' : ''].join(' ')}>
         <div className="container-fluid">
           <IntLink to="/" className="navbar-brand">
-            <Logo monochrome={menuIsOpen || (isTop && isFrontPage) ? 1 : 0} />
+            <span className={['brand-logo', isImparables ? 'brand-logo--compact' : ''].join(' ')}>
+              <Logo monochrome={menuIsOpen || (isTop && isFrontPage) ? 1 : 0} />
+            </span>
+            <span className={['brand-campaign', isImparables ? '' : 'brand-campaign--compact'].join(' ')}>
+              #Imparables
+            </span>
           </IntLink>
           <Nav className="ml-auto">
             <ul className="menu-social d-none d-md-flex">
@@ -92,6 +104,12 @@ class Header extends React.Component {
                   <ul className="mt-4 menu-languages">
                     { locale === 'es' ? <li><IntLink to="/" locale="ca">En valencià</IntLink></li> : '' }
                     { locale === 'ca' ? <li><IntLink to="/" locale="es">En castellano</IntLink></li> : '' }
+                  </ul>
+                  <ul className="mt-4 menu-languages">
+                    <li><a href="https://compromis.net/arxiu/"><FormattedMessage id="menu_news" /></a></li>
+                    <li><a href="https://compromis.net/info/transparencia/"><FormattedMessage id="menu_transparency" /></a></li>
+                    <li><a href="https://compromis.net/vot-correu"><FormattedMessage id="menu_absenteeballot" /></a></li>
+                    <li><a href="https://compromis.net/?skip=1">compromis.net</a></li>
                   </ul>
                 </div>
                 <div className="col-md-5">
