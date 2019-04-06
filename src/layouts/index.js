@@ -5,6 +5,7 @@ import { IntlProvider } from "react-intl"
 import "intl";
 
 import Header from "../components/header"
+import Footer from "../components/footer"
 
 const Layout = ({ isFrontPage, locale, messages, children }) => (
   <StaticQuery
@@ -22,6 +23,7 @@ const Layout = ({ isFrontPage, locale, messages, children }) => (
         <>
           <Header siteTitle={data.site.siteMetadata.title} locale={locale} isFrontPage={isFrontPage} />
           <main>{children}</main>
+          <Footer />
         </>
       </IntlProvider>
     )}

@@ -17,5 +17,7 @@ module.exports = {
   actions_cyber_text: "...",
   actions_events_title: "Vine als actes",
   actions_events_text: "Plenem tots els actes de campanya...",
-  actions_events_button: "Calendari d'actes"
+  actions_events_button: "Calendari d'actes",
+  footer_follow: "Segueix l'activitat de",
+  footer_campaign: "{imparables} és una campanya de {compromis}"
 };
