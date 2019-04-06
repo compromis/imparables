@@ -1,5 +1,5 @@
 import React from "react"
-import IntLink from "./IntLink"
+import IntLink from "./elements/IntLink"
 import Imparables from "./elements/imparables"
 import { FormattedMessage } from "react-intl"
 import Fade from "react-reveal/Fade"
