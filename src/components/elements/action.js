@@ -19,14 +19,14 @@ class Action extends React.Component {
   static Call = Call
 
   render () {
-    const { children, delay } = this.props
+    const { name, delay, children } = this.props
     const header = children.find(child => child.type['displayName'] === 'Header')
     const description = children.find(child => child.type['displayName'] === 'Description')
     const call = children.find(child => child.type['displayName'] === 'Call')
 
     return (
       <Fade bottom delay={delay}>
-        <div className="action col-md-6">
+        <div className={['action', name].join(' ')}>
           <div className="action-container">
             <h3 className="action-header">{ header ? header.props.children : null }</h3>
             <p className="action-description">{ description ? description.props.children : null }</p>

@@ -96,14 +96,14 @@ class Header extends React.Component {
                 </div>
                 <div className="col-md-5">
                   <Action>
-                    <Action.Header>Ajuda'ns a fer la campanya</Action.Header>
-                    <Action.Description>Amb una simple donació, contribuixes a fer realitat...</Action.Description>
+                    <Action.Header><FormattedMessage id="actions_donate_title" /></Action.Header>
+                    <Action.Description><FormattedMessage id="actions_donate_text" /></Action.Description>
                     <Action.Call>
                       <a href="https://compromis.net/espai/donacions/campanya2019?preselect=5" className="action-button" target="_blank" rel="noopener noreferrer">5€</a>
                       <a href="https://compromis.net/espai/donacions/campanya2019?preselect=10" className="action-button" target="_blank" rel="noopener noreferrer">10€</a>
                       <a href="https://compromis.net/espai/donacions/campanya2019?preselect=20" className="action-button" target="_blank" rel="noopener noreferrer">20€</a>
                       <a href="https://compromis.net/espai/donacions/campanya2019?preselect=50" className="action-button" target="_blank" rel="noopener noreferrer">50€</a>
-                      <a href="https://compromis.net/espai/donacions/campanya2019" className="action-button" target="_blank" rel="noopener noreferrer">Altra...</a>
+                      <a href="https://compromis.net/espai/donacions/campanya2019" className="action-button" target="_blank" rel="noopener noreferrer"><FormattedMessage id="actions_donate_other" /></a>
                     </Action.Call>
                   </Action>
                 </div>
