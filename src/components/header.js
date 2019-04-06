@@ -16,15 +16,23 @@ class Header extends React.Component {
       menuIsOpen: false,
       isTop: true
     }
+
+    this.handleScroll = this.handleScroll.bind(this)
+  }
+
+  handleScroll () {
+    const isTop = window.scrollY < 10;
+    if (isTop !== this.state.isTop) {
+        this.setState({ isTop })
+    }
   }
 
   componentDidMount () {
-    document.addEventListener('scroll', () => {
-      const isTop = window.scrollY < 10;
-      if (isTop !== this.state.isTop) {
-          this.setState({ isTop })
-      }
-    })
+    document.addEventListener('scroll', this.handleScroll, false)
+  }
+
+  componentWillUnmount () {
+    document.removeEventListener('scroll', this.handleScroll, false)
   }
 
   toggleMenu () {
@@ -68,7 +76,7 @@ class Header extends React.Component {
           <div id="menu" className={['menu', menuIsOpen ? 'menu-open' : 'menu-closed'].join(' ')} aria-expanded={ menuIsOpen ? false : true }>
             <div className="container-fluid">
               <div className="row">
-                <div className="col-md-6">
+                <div className="col-md-7">
                   <ul className="menu-main">
                     <li><IntLink className="menu-link" to="/"><span><FormattedMessage id="menu_imparables" /></span></IntLink></li>
                     <li><IntLink className="menu-link" to="/candidatura"><span><FormattedMessage id="menu_candidatura" /></span></IntLink></li>
@@ -86,7 +94,7 @@ class Header extends React.Component {
                     { locale === 'ca' ? <li><IntLink to="/" locale="es">En castellano</IntLink></li> : '' }
                   </ul>
                 </div>
-                <div className="col-md-6">
+                <div className="col-md-5">
                   <Action>
                     <Action.Header>Ajuda'ns a fer la campanya</Action.Header>
                     <Action.Description>Amb una simple donació, contribuixes a fer realitat...</Action.Description>
