@@ -19,6 +19,7 @@ class Header extends React.Component {
     }
 
     this.handleScroll = this.handleScroll.bind(this)
+    this.toggleMenu = this.toggleMenu.bind(this)
   }
 
   handleScroll () {
@@ -81,19 +82,19 @@ class Header extends React.Component {
               { locale === 'es' ? <li><IntLink to="/" locale="ca" className="nav-link"><span className="d-md-none">VAL</span><span className="d-none d-md-inline">Valencià</span></IntLink></li> : '' }
               { locale === 'ca' ? <li><IntLink to="/" locale="es" className="nav-link"><span className="d-md-none">CAS</span><span className="d-none d-md-inline">Castellano</span></IntLink></li> : '' }
             </ul>
-            <button className="btn menu-button" onClick={() => { this.toggleMenu() }} aria-controls="menu">
+            <button className="btn menu-button" onClick={this.toggleMenu} aria-controls="menu">
               <span className="d-none d-md-inline">Menú</span> {menuIsOpen ? <FaTimes /> : <FaBars />}
             </button>
           </Nav>
           <div id="menu" className={['menu', menuIsOpen ? 'menu-open' : 'menu-closed'].join(' ')} aria-expanded={ menuIsOpen ? false : true }>
             <div className="container-fluid">
               <div className="row">
-                <div className="col-md-7">
+                <div className="col-lg-6 col-xl-8">
                   <ul className="menu-main">
-                    <li><IntLink className="menu-link" to="/"><span><FormattedMessage id="menu_imparables" /></span></IntLink></li>
-                    <li><IntLink className="menu-link" to="/candidatura"><span><FormattedMessage id="menu_candidatura" /></span></IntLink></li>
-                    <li><IntLink className="menu-link" to="/actua"><span><FormattedMessage id="menu_actua" /></span></IntLink></li>
-                    <li><IntLink className="menu-link" to="/programa"><span><FormattedMessage id="menu_programa" /></span></IntLink></li>
+                    <li><IntLink className="menu-link" to="/" onClick={this.toggleMenu}><span><FormattedMessage id="menu_imparables" /></span></IntLink></li>
+                    <li><IntLink className="menu-link" to="/candidatura" onClick={this.toggleMenu}><span><FormattedMessage id="menu_candidatura" /></span></IntLink></li>
+                    <li><IntLink className="menu-link" to="/actua" onClick={this.toggleMenu}><span><FormattedMessage id="menu_actua" /></span></IntLink></li>
+                    <li><IntLink className="menu-link" to="/programa" onClick={this.toggleMenu}><span><FormattedMessage id="menu_programa" /></span></IntLink></li>
                   </ul>
                   <ul className="mt-4 menu-social">
                     <li><a href="https://www.facebook.com/coaliciocompromis" className="social-icon facebook" target="_blank" rel="noopener noreferrer"><FaFacebook /></a></li>
@@ -102,8 +103,8 @@ class Header extends React.Component {
                     <li><a href="https://api.whatsapp.com/send?phone=34607812839&text=Vull%20rebre%20informaci%C3%B3%20de%20Comprom%C3%ADs%20al%20meu%20WhatsApp&source=&data=" className="social-icon whatsapp" target="_blank" rel="noopener noreferrer"><FaWhatsapp /></a></li>
                   </ul>
                   <ul className="mt-4 menu-languages">
-                    { locale === 'es' ? <li><IntLink to="/" locale="ca">En valencià</IntLink></li> : '' }
-                    { locale === 'ca' ? <li><IntLink to="/" locale="es">En castellano</IntLink></li> : '' }
+                    { locale === 'es' ? <li><IntLink to="/" locale="ca" onClick={this.toggleMenu}>En valencià</IntLink></li> : '' }
+                    { locale === 'ca' ? <li><IntLink to="/" locale="es" onClick={this.toggleMenu}>En castellano</IntLink></li> : '' }
                   </ul>
                   <ul className="mt-4 menu-languages">
                     <li><a href="https://compromis.net/arxiu/"><FormattedMessage id="menu_news" /></a></li>
@@ -112,7 +113,7 @@ class Header extends React.Component {
                     <li><a href="https://compromis.net/?skip=1">compromis.net</a></li>
                   </ul>
                 </div>
-                <div className="col-md-5">
+                <div className="col-lg-6 col-xl-4">
                   <Action>
                     <Action.Header><FormattedMessage id="actions_donate_title" /></Action.Header>
                     <Action.Description><FormattedMessage id="actions_donate_text" /></Action.Description>

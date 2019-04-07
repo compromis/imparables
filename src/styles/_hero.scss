@@ -1,4 +1,6 @@
 .hero {
+  display: flex;
+  align-items: center;
   margin-top: -$nav-height;
   min-height: 100vh;
   background: $gray-500;
@@ -60,8 +62,6 @@
 
 @include media-breakpoint-up(md) {
   .hero {
-    padding-top: calc(8rem + 10vh);
-
     &-claim {
       svg {
         height: 20rem;

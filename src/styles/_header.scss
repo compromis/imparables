@@ -5,7 +5,7 @@
     list-style-type: none;
     padding: 0;
     margin: 0;
-    margin-left: .25rem;
+    margin-left: -.25rem;
   }
 
   &-nav {
@@ -128,7 +128,7 @@
   right: 0;
   top: 0;
   z-index: 2000;
-  padding-top: 5rem;
+  padding: 5rem 0;
   transition: .5s ease-in;
   overflow-y: scroll;
 
@@ -242,6 +242,9 @@
 
 @include media-breakpoint-up(md) {
   .navbar {
+    padding-left: 0;
+    padding-right: 0;
+
     &-languages {
       padding: 0 1rem !important;
       margin: 0 1rem !important;

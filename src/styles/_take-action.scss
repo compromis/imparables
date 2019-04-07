@@ -152,6 +152,11 @@
       overflow-x: auto;
       margin: 0;
       padding: 1.25rem;
+      flex-wrap: wrap;
+    }
+
+    &-button {
+      margin-top: 1rem;
     }
 
     &::before {
