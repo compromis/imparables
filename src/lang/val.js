@@ -21,6 +21,7 @@ module.exports = {
   actions_events_title: "Vine als actes",
   actions_events_text: "Plenem tots els actes de campanya...",
   actions_events_button: "Calendari d'actes",
+  bcampaign_BANDERAS: "I les persones?",
   footer_follow: "Segueix l'activitat de",
   footer_campaign: "{imparables} és una campanya de {compromis}"
 };
