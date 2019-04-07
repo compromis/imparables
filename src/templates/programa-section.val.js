@@ -1,19 +1,18 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../layouts/index"
+import SEO from "../components/seo"
+import Programa from "./programa"
 import messages from "../lang/val"
 import { addLocaleData } from "react-intl"
 import localeData from "react-intl/locale-data/ca"
 addLocaleData(localeData)
 
-export default ({ data }) => {
-  const post = data.markdownRemark
+export default ({...props}) => {
   return (
     <Layout locale="ca" messages={messages}>
-      <div className="container-fluid">
-        <h1>{post.frontmatter.title}</h1>
-        <div dangerouslySetInnerHTML={{ __html: post.html }} />
-      </div>
+      <SEO lang="ca" title="Programa 2019" />
+      <Programa {...props} />
     </Layout>
   )
 }
@@ -26,6 +25,22 @@ export const query = graphql`
         title,
         category,
         class
+      }
+    },
+    allMarkdownRemark(filter: { fields: { langKey: { eq: "val" }} }, sort: { order: ASC, fields: [frontmatter___order]}) {
+      edges {
+        node {
+          frontmatter {
+            title,
+            category,
+            order,
+            class
+          },
+          fields {
+            slug,
+            langKey,
+          }
+        }
       }
     }
   }

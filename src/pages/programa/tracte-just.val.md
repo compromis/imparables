@@ -1,5 +1,5 @@
 ---
-title: "Secció 1"
+title: "Tracte Just"
 category: "Tracte Just"
 order: 0
 class: "tracte-just"

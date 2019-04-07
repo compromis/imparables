@@ -1,39 +1,47 @@
 // Colors
+$orange: #E35205;
 $beige: #F6F2ED;
 $blue: #447F98;
 $indigo: #4D5099;
 $pink: #DE8999;
-$orange: #E35205;
 $green: #477F50;
 $primary: $orange;
 
-// Posters
-$posters: (
-  '1': (
-    'background': $pink,
-    'text': $blue,
-    'align': right
-  ),
-  '2': (
+// Programa sections
+$programa: (
+  'tracte-just': (
     'background': $orange,
-    'text': $indigo,
-    'align': left
   ),
-  '3': (
-    'background': $green,
-    'text': $pink,
-    'align': right
+  'serveis-socials': (
+    'background': $orange,
   ),
-  '4': (
-    'background': $blue,
-    'text': $pink,
-    'align': left
+  'educacio': (
+    'background': $orange,
   ),
-  '5': (
-    'background': $indigo,
-    'text': $orange,
-    'align': right
-  )
+  'salut': (
+    'background': $orange,
+  ),
+  'ocupacio': (
+    'background': $orange,
+  ),
+  'canvi-climatic': (
+    'background': $orange,
+  ),
+  'territori': (
+    'background': $orange,
+  ),
+  'model-economic': (
+    'background': $orange,
+  ),
+  'drets-ciutadania': (
+    'background': $orange,
+  ),
+  'joves': (
+    'background': $orange,
+  ),
+  'feminismes': (
+    'background': $orange,
+  ),
 );
 
 // Fonts

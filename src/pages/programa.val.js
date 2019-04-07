@@ -14,7 +14,7 @@ const ProgramaPage = ({...props}) => (
 
 export const query = graphql`
   query {
-    allMarkdownRemark(filter: { fields: { langKey: { eq: "val" }} }, sort: { order: DESC, fields: [frontmatter___order]}) {
+    allMarkdownRemark(filter: { fields: { langKey: { eq: "val" }} }, sort: { order: ASC, fields: [frontmatter___order]}) {
       edges {
         node {
           frontmatter {

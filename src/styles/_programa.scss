@@ -1,0 +1,110 @@
+.programa {
+  padding-top: 3rem;
+
+  &-content {
+    position: relative;
+    z-index: 10;
+  }
+
+  &-background {
+    display: block;
+    font-family: $font-family-headings;
+    color: $gray-400;
+    text-transform: uppercase;
+    font-size: 6rem;
+    line-height: .8;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+
+  &-category {
+    display: none;
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    margin-bottom: .5rem;
+    color: $gray-800;
+
+    &.serveis-socials,
+    &.canvi-climatic,
+    &.drets-ciutadania {
+      display: block;
+    }
+  }
+
+  &-content {
+    .programa-block {
+      display: block;
+      font-family: $font-family-headings;
+      font-size: 3rem;
+      text-transform: uppercase;
+      line-height: 1;
+      padding: 1rem;
+      margin: 0 1rem 1rem 0;
+      min-height: 7rem;
+      background: $gray-200;
+      color: $white;
+      border: .25rem $gray-200 solid;
+      -webkit-box-decoration-break: clone;
+      transition: .25s ease-in-out;
+
+      &:hover {
+        text-decoration: none;
+      }
+
+      span {
+        position: relative;
+        top: -.25rem;
+      }
+
+      @each $id, $colors in $programa {
+        &.#{$id} {
+          background-color: map-get($colors, 'background');
+          border-color: map-get($colors, 'background');
+
+          &:hover {
+            color: map-get($colors, 'background');
+            background-color: $white;
+            border-color: map-get($colors, 'background');
+          }
+        }
+      }
+
+      &.tracte-just {
+        font-size: 5rem;
+      }
+    }
+  }
+}
+
+@include media-breakpoint-up(md) {
+  .programa {
+    &-nav {
+      order: 1;
+    }
+
+    &-content {
+      order: 2;
+    }
+
+    &-background {
+      padding-top: 4rem;
+      font-size: 15rem;
+    }
+
+    &-content {
+      .programa-block {
+        display: inline-block;
+        padding-right: 4rem;
+
+        &.tracte-just {
+          width: 70%;
+          font-size: 7rem;
+          padding-bottom: 2rem;
+        }
+      }
+    }
+  }
+}
