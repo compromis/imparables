@@ -10,7 +10,7 @@ export default ({ data }) => {
   const post = data.markdownRemark
   return (
     <Layout locale="es" messages={messages}>
-      <div>
+      <div className="container-fluid">
         <h1>{post.frontmatter.title}</h1>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
       </div>
@@ -24,7 +24,8 @@ export const query = graphql`
       html
       frontmatter {
         title,
-        lang
+        category,
+        class
       }
     }
   }

@@ -1,7 +1,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { FormattedMessage } from "react-intl"
-import IntLink from "./elements/IntLink"
+import IntLink from "./elements/int-link"
 import Navbar from "react-bootstrap/Navbar"
 import Nav from "react-bootstrap/Nav"
 import Logo from "./elements/logo"
