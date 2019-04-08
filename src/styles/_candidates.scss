@@ -1,0 +1,60 @@
+.candidates{
+
+  &-txt {
+    h2 {
+      font-weight: bold;
+    }
+    h3 {
+      font-size: 1.35rem;
+    }
+    &-lg {
+      display: none;
+    }
+  }
+
+  &-img {
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+
+    &-first {
+      background-image:  url('../images/candidates/monica-oltra.jpg');
+    }
+
+    &-second {
+      background-image:  url('../images/candidates/joan-baldovi.jpg');
+    }
+  }
+
+  a {
+    display: block;
+    width: 100%;
+  }
+
+}
+
+@include media-breakpoint-up(lg) {
+  .candidates {
+      display: flex;
+      flex-direction: row;
+
+    &-txt  {
+      display: none;
+
+      &-lg {
+        display: flex;
+        flex-direction: column;
+        justify-items: flex-end;
+
+        h2 {
+          font-weight: bold;
+        }
+        h3 {
+          font-size: 1.35rem;
+        }
+
+      }
+
+    }
+  }
+}
