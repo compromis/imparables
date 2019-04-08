@@ -8,7 +8,7 @@ import Programa from "../templates/programa"
 const ProgramaPage = ({...props}) => (
   <Layout>
     <SEO lang="es" title="Programa 2019" />
-    <Programa {...props} />
+    <Programa isFrontPage={true} {...props} />
   </Layout>
 )
 

@@ -52,7 +52,7 @@ class BCampaign extends React.Component {
         <div className="b-campaign-poster">
           <div className={!posterVisible ? 'd-none' : ''}>
             <div className="b-campaign-poster-image">
-              <Fade duration={1000}><img src={posters[currentPoster].image} alt="BANDERAS" /></Fade>
+              <Fade duration={1000}><img src={posters[currentPoster].image} alt={posters[currentPoster].word} /></Fade>
             </div>
             <div className="b-campaign-poster-word">
               <div><Fade duration={1} delay={500}>{posters[currentPoster].word}</Fade> <Fade duration={1} delay={600}>{posters[currentPoster].word}</Fade></div>

@@ -86,7 +86,7 @@ class Header extends React.Component {
               <span className="d-none d-md-inline">Menú</span> {menuIsOpen ? <FaTimes /> : <FaBars />}
             </button>
           </Nav>
-          <div id="menu" className={['menu', menuIsOpen ? 'menu-open' : 'menu-closed'].join(' ')} aria-expanded={ menuIsOpen ? false : true }>
+          <div id="menu" className={['menu d-print-none', menuIsOpen ? 'menu-open' : 'menu-closed'].join(' ')} aria-expanded={ menuIsOpen ? false : true }>
             <div className="container-fluid">
               <div className="row">
                 <div className="col-lg-6 col-xl-8">

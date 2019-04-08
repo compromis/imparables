@@ -12,7 +12,7 @@ export default ({...props}) => {
   return (
     <Layout locale="es" messages={messages}>
       <SEO lang="es" title="Programa 2019" />
-      <Programa {...props} />
+      <Programa isFrontPage={false} {...props} />
     </Layout>
   )
 }
