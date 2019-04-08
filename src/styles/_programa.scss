@@ -142,6 +142,12 @@
       font-weight: bold;
       color: $orange;
       margin-bottom: 1.5rem;
+
+      em {
+        color: $gray-600;
+        font-weight: normal;
+        font-style: normal;
+      }
     }
 
     ul,
@@ -245,6 +251,23 @@
     .programa-background {
       left: 0;
     }
+
+    .programa-download {
+      border-top: 0;
+    }
+  }
+
+  &-download {
+    margin: 2rem 0;
+    padding: 2rem 0;
+    list-style: none;
+    border-top: 1px $gray-300 solid;
+    border-bottom: 1px $gray-300 solid;
+    color: $gray-500;
+
+    a {
+      color: $gray-700;
+    }
   }
 
   /* Color-coded sections */
@@ -309,6 +332,21 @@
           width: 70%;
           font-size: 7rem;
           padding-bottom: 2rem;
+        }
+      }
+    }
+
+    &-download {
+      max-width: 300px;
+    }
+
+    &-frontpage {
+      .programa-download {
+        padding-top: 32rem;
+        border-bottom: 0;
+
+        a {
+          font-size: 1.25rem;
         }
       }
     }

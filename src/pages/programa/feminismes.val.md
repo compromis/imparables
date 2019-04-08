@@ -10,6 +10,7 @@ class: "feminismes"
 Vivim en un moment històric del feminisme on les dones, a través de les xarxes i les connexions globals, estan generant un canvi, una revolució que no té marxa enrere i que ho ha d’impregnar tot. Des de Compromís com a partit feminista, utilitzem esta ideologia com a eina de transformació social perquè pensem que és fonamental incorporar la perspectiva de gènere en cada política pública per tal d’aconseguir que les dones i els homes reben el mateix tracte.
 
 El feminisme, com a veritable eina transformadora, és l’eix que ha de vertebrar totes les polítiques del govern, per tant, seguirem impulsant de forma transversal les polítiques d’igualtat, per a que cada acció del Govern Valencià tinga en compte la perspectiva de gènere.
+
 </div>
 
 <div class="programa-box programa-targets">
@@ -23,12 +24,12 @@ Desenvolupar les polítiques d’igualtat i equitat mitjançant els següents à
 - Campanyes de sensibilització. Les campanyes promocionals i de sensibilització han de passar a una planificació anual i global. És a dir, campanyes permanents i per a cadascun dels àmbits socials.
 - Igualtat laboral. A una societat treballcentrista, l'ocupació i la cultura empresarial ha de ser un dels camps d'acció per a trencar tant l'escletxa salarial com els sostre de vidre i del terra enganxós així com d'altres constructes que frenen la igualtat total dintre del món laboral. Incorporarem a la nova llei d’Igualtat mesures concretes per al seu compliment:
 - Llenguatge i mitjans. La comunicació és la forma amb la qual ens arriba la informació, per això cal incidir en les formes que utilitzem per descriure el món i substituir la visió patriarcal per una igualitària. Per eixa raó cal indicir en aspectes tan diversos com ara: 
+
 </div>
 
 <div class="programa-box programa-proposals">
 
-#### Accions de govern
-##### Generalitat Valenciana
+#### Accions de govern */ Generalitat Valenciana*
 1. Desenvoluparem el primer Pla Estratègic Valencià per al foment de la igualtat, la diversitat i la felicitat, coordinant totes les accions de la Generalitat i les Diputacions i la FVMP.
 
 2. Elaborarem la Nova llei d'igualtat i pels drets de les dones que a més d’incorporar una visió integradora de la igualtat, ha d’innovar en els següents eixos: 
@@ -50,8 +51,7 @@ Desenvolupar les polítiques d’igualtat i equitat mitjançant els següents à
 </div>
 <div class="programa-box programa-proposals">
 
-#### Accions de govern
-##### Congrés
+#### Accions de govern */ Congrés*
 
 10. Articularan organismes adients per a l’aplicació de la transversalitat de les polítiques feministes en totes les administracions.
 
@@ -66,11 +66,12 @@ Desenvolupar les polítiques d’igualtat i equitat mitjançant els següents à
 15. La prostitució és, per tant, la conseqüència de l'estat patriarcal i cal prendre mesures per a eradicar des de l'origen. Així cal treballar contra l'acceptació social del consum de prostitució
 
 16. Per a això s'elaborarà una llei proteccionista amb els drets i necessitats de les dones en situació de prostitució, amb la finalitat de perseguir el proxenetisme, la terceria locativa i el consum, destinada a l'abolició d'aquesta.
+
 </div>
 
 <div class="programa-box programa-eu">
 
-#### Accions de govern
-##### Europa
+#### Accions de govern */ Europa*
 Les institucions europees han de treballar per harmonitzar la vida laboral i privada de tota la ciutadania com a element bàsic per a la igualtat. S’han de regular les condicions i drets laborals a nivell europeu per tal que el pes de la cura de les persones i de l’espai domèstic no continue sent responsabilitat particularment de les dones. Cal fer directrius i campanyes per als diversos grups, problemàtiques i sensibilitats per tal de produir una transformació real.
+
 </div>

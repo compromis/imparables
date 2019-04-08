@@ -2,6 +2,7 @@ import React from "react"
 import IntLink from "../components/elements/int-link"
 import { Link } from "gatsby"
 import { StickyContainer, Sticky } from "react-sticky"
+import { FaFileAlt } from "react-icons/fa"
 
 const ProgramaList = ({ list, current }) => (
   <div className="programa-sections">
@@ -21,7 +22,7 @@ const ProgramaBlock = ({ fields, frontmatter, current }) => (
 
 const ProgramaContent = ({ content }) => (
   <div className={content.frontmatter['class']}>
-    <h2 className="programa-breadcrumbs">/ { content.frontmatter.category }</h2>
+    <h2 className="programa-breadcrumbs"><IntLink to="/programa" className="d-md-none">Programa 2019</IntLink> / { content.frontmatter.category }</h2>
     <h3>{ content.frontmatter.title }</h3>
     <div dangerouslySetInnerHTML={{__html: content.html}} />
   </div>
@@ -43,9 +44,12 @@ const Programa = ({ isFrontPage, data }) => (
             {({ style, isSticky }) => (
               <div style={style}>
                 <div style={ isSticky ? {marginTop: 70} : null}>
-                  <div className="programa-background" style={ isSticky ? {marginTop: 70} : null}>Programa<br />2019</div>
+                  <div className="programa-background d-none d-md-block" style={ isSticky ? {marginTop: 70} : null}>Programa<br />2019</div>
                   { data.markdownRemark ? <ProgramaList list={data.allMarkdownRemark.edges} current={false} /> : '' }
-                  <a href="/">Descarrega en PDF</a>
+                  <ul className="programa-download">
+                    <li><a href="/"><FaFileAlt /> Descarrega en PDF</a> (Valencià)</li>
+                    <li><a href="/"><FaFileAlt /> Descargar en PDF</a> (Castellano)</li>
+                  </ul>
                 </div>
               </div>
             )}
