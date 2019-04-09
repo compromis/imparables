@@ -1,32 +1,65 @@
 import React from "react"
-//import { FormattedMessage } from "react-intl"
-//import Fade from "react-reveal/Fade"
+import IntLink from "./elements/int-link"
+import { FormattedMessage } from "react-intl"
 
-const Candidates = () => (
-  <div className="container-fluid row">
-    <div className="candidates-txt-lg col-lg-6">
-        <h2>Mónica Oltra</h2>
-        <h3>Candidata a la Presidència del Govern</h3>
-    </div>
+class Candidates extends React.Component {
+  constructor (props) {
+    super(props)
 
-    <div className="candidates col-lg-6">
-      <a href="/">
-        <div className="candidates-img candidates-img-first"></div>
-        <div className="candidates-txt">
-          <h2>Mónica Oltra</h2>
-          <h3>Candidata a la Presidència del Govern</h3>
+    this.state = {
+      focused: 'monica'
+    }
+  }
+
+  focusCandidate (candidate) {
+    this.setState({
+      focused: candidate
+    })
+  }
+
+  render () {
+    const { focused } = this.state
+
+    return (
+      <div className="container-fluid candidates">
+        <div className="row">
+          <div className="candidates-txt-lg col-lg-5">
+              <div className="candidates-txt-lg-button">
+                <IntLink to="/candidatura"><FormattedMessage id="candidates_header" /></IntLink>
+              </div>
+              <div className="candidates-txt-lg-names">
+                <IntLink to="/monica-oltra" className={['candidates-txt-lg-name monica', focused === 'monica' ? 'focused' : ''].join(' ')}>
+                  <h2>Mónica Oltra</h2>
+                  <p><FormattedMessage id="candidates_monica_desc" /></p>
+                </IntLink>
+                <IntLink to="/joan-baldovi" className={['candidates-txt-lg-name baldo', focused === 'baldo' ? 'focused' : ''].join(' ')}>
+                  <h2>Joan Baldoví</h2>
+                  <p><FormattedMessage id="candidates_baldo_desc" /></p>
+                </IntLink>
+              </div>
+          </div>
+
+          <div className="candidates-imgs col-lg-7">
+            <IntLink to="/monica-oltra" onMouseEnter={() => this.focusCandidate('monica')} className={['candidates-img-wrapper', focused === 'monica' ? 'focused' : ''].join(' ')}>
+              <div className="candidates-img candidates-img-monica"></div>
+              <div className="candidates-txt">
+                <h2>Mónica Oltra</h2>
+                <p><FormattedMessage id="candidates_monica_desc" /></p>
+              </div>
+            </IntLink>
+            <IntLink to="/joan-baldovi" onMouseEnter={() => this.focusCandidate('baldo')} className={['candidates-img-wrapper', focused === 'baldo' ? 'focused' : ''].join(' ')}>
+              <div className="candidates-img candidates-img-baldo"></div>
+              <div className="candidates-txt">
+                <h2>Joan Baldoví</h2>
+                <p><FormattedMessage id="candidates_baldo_desc" /></p>
+              </div>  
+            </IntLink>
+            <IntLink to="/candidatura" className="candidates-all"><FormattedMessage id="candidates_all" /></IntLink>
+          </div>
         </div>
-      </a>
-      <a href="/">
-        <div className="candidates-img candidates-img-second"></div>
-        <div className="candidates-txt">
-          <h2>Joan Baldoví</h2>
-          <h3>Candidat al Congrés</h3>
-        </div>  
-      </a>
-    </div>
-
-  </div>
-)
+      </div>
+    )
+  }
+}
 
 export default Candidates

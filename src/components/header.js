@@ -113,7 +113,7 @@ class Header extends React.Component {
                     <li><a href="https://compromis.net/?skip=1">compromis.net</a></li>
                   </ul>
                 </div>
-                <div className="col-lg-6 col-xl-4">
+                <div className="col-lg-6 col-xl-4 d-none d-lg-block">
                   <Action>
                     <Action.Header><FormattedMessage id="actions_donate_title" /></Action.Header>
                     <Action.Description><FormattedMessage id="actions_donate_text" /></Action.Description>

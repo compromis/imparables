@@ -1,14 +1,39 @@
-.candidates{
+.candidates {
+  margin: 1rem auto;
 
   &-txt {
+    margin-bottom: 4rem;
+
     h2 {
       font-weight: bold;
+      margin-bottom: .25rem;
+      font-size: 1.75rem;
     }
-    h3 {
+
+    p {
       font-size: 1.35rem;
+      line-height: 1;
     }
+
     &-lg {
-      display: none;
+      margin: 1rem 0;
+
+      &-names {
+        display: none;
+      }
+
+      &-button {
+        font-family: $font-family-headings;
+        text-transform: uppercase;
+        font-size: 4rem;
+        margin-top: -1.75rem;
+
+        a {
+          &:hover {
+            color: $gray-800;
+          }
+        }
+      }
     }
   }
 
@@ -16,45 +41,115 @@
     background-size: cover;
     width: 100%;
     height: 300px;
+    margin-bottom: 1rem;
 
-    &-first {
+    &-wrapper {
+      display: block;
+      color: $gray-800;
+
+      &:hover {
+        opacity: .75;
+      }
+
+      &:active {
+        color: $gray-800;
+      }
+    }
+
+    &-monica {
       background-image:  url('../images/candidates/monica-oltra.jpg');
+      background-position: right top;
     }
 
-    &-second {
+    &-baldo {
       background-image:  url('../images/candidates/joan-baldovi.jpg');
+      background-position: center;
     }
   }
 
-  a {
-    display: block;
-    width: 100%;
+  &-all {
+    font-size: 1.25rem;
   }
-
 }
 
 @include media-breakpoint-up(lg) {
   .candidates {
+    margin: 3rem auto;
+
+    &-imgs {
       display: flex;
       flex-direction: row;
 
-    &-txt  {
+      a {
+        padding: 1rem;
+      }
+    }
+
+    &-img {
+      height: 60vh;
+      max-height: 600px;
+      margin-bottom: 0;
+
+      &-wrapper {
+        width: 50%;
+        transition: 1s ease-in-out;
+
+        &.focused {
+          width: 75%;
+        }
+      }
+    }
+
+    &-txt {
       display: none;
 
       &-lg {
+        position: relative;
         display: flex;
         flex-direction: column;
-        justify-items: flex-end;
 
         h2 {
           font-weight: bold;
+          margin-bottom: 0;
         }
-        h3 {
+
+        p {
           font-size: 1.35rem;
+          margin-bottom: 0;
         }
 
-      }
+        &-names {
+          display: block;
 
+          a {
+            color: $gray-800;
+
+            &:hover {
+              text-decoration: none;
+            }
+          }
+        }
+
+        &-name {
+          position: absolute;
+          bottom: 0;
+          left: 1rem;
+          transition: .25s ease-in-out;
+          opacity: 0;
+
+          &.focused {
+            opacity: 1;
+          }
+        }
+
+        &-button {
+          font-size: 6rem;
+        }
+      }
+    }
+
+    &-all {
+      display: none;
     }
   }
 }
