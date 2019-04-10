@@ -1,0 +1,17 @@
+.candidate-list{
+  h2 {
+    font-weight: bold;
+  }
+  p {
+    font-size: 1.35rem;
+  }
+  img {
+    width: 100%;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  .candidates-list {
+
+  }
+}
