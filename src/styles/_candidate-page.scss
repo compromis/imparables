@@ -1,0 +1,92 @@
+.candidate-page {
+  .candidate-header {
+    color: $orange;
+    margin-bottom: 1rem;
+  }
+
+  .candidate-photo {
+    margin-bottom: 1rem;
+    max-height: 450px;
+    overflow: hidden;
+
+    img {
+      width: 100%;
+    }
+  }
+
+  .candidate-name {
+    h3 {
+      font-weight: bold;
+      margin-bottom: 0;
+    }
+
+    p {
+      font-size: 1.25rem;
+    }
+  }
+
+  .candidate-social {
+    ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+
+      a {
+        display: inline-block;
+        padding: .25rem .75rem;
+        border-radius: .25rem;
+        margin-bottom: .5rem;
+        color: $white;
+
+        &:hover {
+          text-decoration: none;
+        }
+      }
+    }
+
+    .facebook a {
+      background: #3b5998;
+
+      &:hover {
+        background: darken(#3b5998, 20%);
+      }
+    }
+
+    .twitter a {
+      background: #38A1F3;
+
+      &:hover {
+        background: darken(#38A1F3, 20%);
+      }
+    }
+
+    .instagram a {
+      background: #e1306c;
+
+      &:hover {
+        background: darken(#e1306c, 20%);
+      }
+    }
+  }
+
+  .candidate-letter {
+    max-width: 600px;
+    line-height: 2;
+  }
+
+  .candidate-signature {
+    width: 150px;
+  }
+
+  .embed-responsive {
+    margin: 1rem 0;
+  }
+}
+
+@include media-breakpoint-up(md) {
+  .candidate-page {
+    .candidate-photo {
+      max-height: none;
+    }
+  }
+}
