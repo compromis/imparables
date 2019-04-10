@@ -43,7 +43,9 @@ const IndexPage = () => (
             <p>Estem fent justícia amb les víctimes de la crisi, però també hem protegit el nostre territori, lluitem contra els efectes del canvi climàtic i ara som exemple de transparència i bon govern.</p>
             <p>Per això i tot el que queda per fer, hui te torne a demanar el teu compromís. I ho faig amb la mateixa il·lusió, alegria i estima. Per a que la política siga una ferramenta per a la felicitat de les persones.</p>
             <p>Perquè amb el teu vot, serem imparables.</p>
+
             <p><img src={MonicaSignature} alt="Signatura de Mónica Oltra" className="candidate-signature" /></p>
+            <p>Mónica Oltra</p>
           </div>
         </div>
         <div className="col-md-12">
