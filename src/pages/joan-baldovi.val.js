@@ -36,15 +36,17 @@ const IndexPage = () => (
         </div>
         <div className="col-md-8">
           <div className="candidate-letter">
-            <p>Estimada amiga,<br />estimat amic:</p>
+            <p>Hola!</p>
 
-            <p>Fa quatre anys et vaig demanar el teu compromís per a combatre amb valentia els corruptes i treballar infatigablement per recuperar els drets de les persones que la crisi i els mals governs havien abandonat.</p>
-            <p>El vot valent de milers de persones va produir un canvi polític tan desitjat com necessari. Gràcies a això hem millorat la vida de la gent des del govern de la Generalitat: les famílies ja no paguen els llibres del col·legi, les persones majors ja no paguen els medicaments, les persones en situació de dependència ja no esperen anys i anys a ser ateses ni paguen el copagament confiscatori, molta gent jove ha trobat faena i donem suport a les persones empresàries i autònomes que cada dia alcen la persiana amb esperança.</p>
-            <p>Estem fent justícia amb les víctimes de la crisi, però també hem protegit el nostre territori, lluitem contra els efectes del canvi climàtic i ara som exemple de transparència i bon govern.</p>
-            <p>Per això i tot el que queda per fer, hui te torne a demanar el teu compromís. I ho faig amb la mateixa il·lusió, alegria i estima. Per a que la política siga una ferramenta per a la felicitat de les persones.</p>
-            <p>Perquè amb el teu vot, serem imparables.</p>
+            <p>Sóc Joan Baldoví i em presente a les eleccions del 28 d’abril per a ser la teua veu a Madrid i defensar els interessos valencians. Els interessos de totes i tots.</p>
+            <p>Durant estos anys Compromís hem demostrat al Congrés i el Senat que els valencians i valencianes som un poble digne, honest i treballador. Hem explicat a tota Espanya el que hem aconseguit a la nostra terra: acabar amb la corrupció del Partit Popular i posar en el centre de la política a les persones i el seu benestar. I hem treballat sense descans per a traslladar a l’Estat el que ja funciona a la Generalitat i als Ajuntaments valencians: acords plurals i estables de forces progressistes per a millorar la vida de la gent.</p>
+            <p>En les últimes dècades, els valencians i valencianes hem rebut menys recursos dels que necessitem per culpa d’un model de finançament autonòmic que ens discrimina. No volem ser més que ningú, però tampoc volem ser ciutadans de segona. Volem un tracte just per a invertir més recursos en sanitat, educació, serveis socials i creació d’ocupació. Cal a Madrid una veu valenciana, nítida, valenta i decidida per a acabar amb esta injustícia.</p>
+            <p>El pròxim 28 d’abril, amb el teu vot, podem fer que les coses canvien. Amb el teu vot pots fer possible un grup parlamentari valencià potent amb més diputats i diputades que coneguen la realitat dels nostres pobles i ciutats, que entenguen els problemes que enfrontem en el dia a dia i que s’impliquen en buscar solucions. Un grup que quan haja de prendre decisions no ho faça pensant en el que manen des de la seu del partit a Madrid o Barcelona, sinó que ho faça pensant en la vida dels 4.963.703 de valencians i valencianes. Un grup que defense els drets socials de totes i tots i plante cara a l’odi i la intolerància.</p>
+            <p>Amb el teu vot, podrem aconseguir un grup parlamentari que siga aliat del pròxim govern valencià presidit per Mónica Oltra; i que siga garantia de que la dreta no torne ni al govern central ni a les institucions valencianes.</p>
+            <p>Et demane que el pròxim 28 d’abril votes amb il·lusió a qui penses que millor ens pot representar a Madrid. Si finalment ho fas per Compromís, em compromet a que el teu vot siga útil tots i cadascun dels dies de la legislatura. Amb el teu vot, serem imparables.</p>
 
             <p><img src={BaldoSignature} alt="Signatura de Joan Baldoví" className="candidate-signature" /></p>
+            <p>Joan Baldoví</p>
           </div>
         </div>
         <div className="col-md-12">

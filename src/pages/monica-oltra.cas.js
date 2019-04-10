@@ -23,7 +23,7 @@ const IndexPage = () => (
           </div>
           <div className="candidate-name">
             <h3>Mónica Oltra</h3>
-            <p>Candidata a la Presidència de la Generalitat</p>
+            <p>Candidata a la Presidencia de la Generalitat</p>
             
             <div className="candidate-social">
               <ul>
@@ -36,14 +36,16 @@ const IndexPage = () => (
         </div>
         <div className="col-md-8">
           <div className="candidate-letter">
-            <p>Estimada amiga,<br />estimat amic:</p>
+            <p>Estimada amiga,<br />estimado amigo:</p>
 
-            <p>Fa quatre anys et vaig demanar el teu compromís per a combatre amb valentia els corruptes i treballar infatigablement per recuperar els drets de les persones que la crisi i els mals governs havien abandonat.</p>
-            <p>El vot valent de milers de persones va produir un canvi polític tan desitjat com necessari. Gràcies a això hem millorat la vida de la gent des del govern de la Generalitat: les famílies ja no paguen els llibres del col·legi, les persones majors ja no paguen els medicaments, les persones en situació de dependència ja no esperen anys i anys a ser ateses ni paguen el copagament confiscatori, molta gent jove ha trobat faena i donem suport a les persones empresàries i autònomes que cada dia alcen la persiana amb esperança.</p>
-            <p>Estem fent justícia amb les víctimes de la crisi, però també hem protegit el nostre territori, lluitem contra els efectes del canvi climàtic i ara som exemple de transparència i bon govern.</p>
-            <p>Per això i tot el que queda per fer, hui te torne a demanar el teu compromís. I ho faig amb la mateixa il·lusió, alegria i estima. Per a que la política siga una ferramenta per a la felicitat de les persones.</p>
-            <p>Perquè amb el teu vot, serem imparables.</p>
+            <p>Hace cuatro años te pedí tu compromiso para combatir con valentía los corruptos y trabajar infatigablemente para recuperar los derechos de las personas que la crisis y los malos gobiernos habían abandonado.</p>
+            <p>El voto valiente de miles de personas produjo un cambio político tan deseado como necesario. Gracias a ello hemos mejorado la vida de la gente desde el gobierno de la Generalitat: las familias ya no pagan los libros del colegio, las personas mayores ya no pagan los medicamentos, las personas en situación de dependencia ya no esperan años y años a ser atendidas ni pagan el copago confiscatorio, mucha gente joven ha encontrado trabajo y apoyamos a las personas empresarias y autónomas que cada día levantan la persiana con esperanza.</p>
+            <p>Estamos haciendo justicia con las víctimas de la crisis, pero también hemos protegido nuestro territorio, luchamos contra los efectos del cambio climático y ahora somos ejemplo de transparencia y buen gobierno.</p>
+            <p>Por eso y todo lo que queda por hacer, hoy te vuelvo a pedir tu compromiso. Y lo hago con la misma ilusión, alegría y amor. Para que la política sea una herramienta para la felicidad de las personas, llenemos las urnas de sonrisas.</p>
+            <p>Porque con tu voto, seremos imparables.</p>
+
             <p><img src={MonicaSignature} alt="Signatura de Mónica Oltra" className="candidate-signature" /></p>
+            <p>Mónica Oltra</p>
           </div>
         </div>
         <div className="col-md-12">
