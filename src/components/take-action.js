@@ -32,17 +32,17 @@ const TakeAction = () => (
             <Action.Header><FormattedMessage id="actions_cyber_title" /></Action.Header>
             <Action.Description><FormattedMessage id="actions_cyber_text" /></Action.Description>
             <Action.Call>
-              <a href="https://garantiademocratica.compromis.net" className="action-button" target="_blank" rel="noopener noreferrer">Facebook</a>
-              <a href="https://garantiademocratica.compromis.net" className="action-button" target="_blank" rel="noopener noreferrer">Twitter</a>
-              <a href="https://garantiademocratica.compromis.net" className="action-button" target="_blank" rel="noopener noreferrer">WhatsApp</a>
-              <a href="https://garantiademocratica.compromis.net" className="action-button" target="_blank" rel="noopener noreferrer">Telegram</a>
+              <a href="https://www.facebook.com/coaliciocompromis/" className="action-button" target="_blank" rel="noopener noreferrer">Facebook</a>
+              <a href="https://twitter.com/compromis" className="action-button" target="_blank" rel="noopener noreferrer">Twitter</a>
+              <a href="https://compromis.net/whatsapp" className="action-button" target="_blank" rel="noopener noreferrer">WhatsApp</a>
+              <a href="https://t.me/compromis" className="action-button" target="_blank" rel="noopener noreferrer">Telegram</a>
             </Action.Call>
           </Action>
           <Action name="events" delay={600}>
             <Action.Header><FormattedMessage id="actions_events_title" /></Action.Header>
             <Action.Description><FormattedMessage id="actions_events_text" /></Action.Description>
             <Action.Call>
-              <a href="https://garantiademocratica.compromis.net" className="action-button" target="_blank" rel="noopener noreferrer"><FormattedMessage id="actions_events_button" /></a>
+              <a href="https://www.facebook.com/pg/coaliciocompromis/events/" className="action-button" target="_blank" rel="noopener noreferrer"><FormattedMessage id="actions_events_button" /></a>
             </Action.Call>
           </Action>
         </div>
