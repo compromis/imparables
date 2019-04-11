@@ -30,11 +30,11 @@ class Candidates extends React.Component {
               <div className="candidates-txt-lg-names">
                 <IntLink to="/monica-oltra" className={['candidates-txt-lg-name monica', focused === 'monica' ? 'focused' : ''].join(' ')}>
                   <h2>Mónica Oltra</h2>
-                  <p><FormattedMessage id="candidates_monica_desc" /></p>
+                  <p><FormattedMessage id="candidates_monicaoltra_desc" /></p>
                 </IntLink>
                 <IntLink to="/joan-baldovi" className={['candidates-txt-lg-name baldo', focused === 'baldo' ? 'focused' : ''].join(' ')}>
                   <h2>Joan Baldoví</h2>
-                  <p><FormattedMessage id="candidates_baldo_desc" /></p>
+                  <p><FormattedMessage id="candidates_joanbaldovi_desc" /></p>
                 </IntLink>
               </div>
           </div>

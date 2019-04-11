@@ -10,42 +10,43 @@ import MarzaPhoto from "../images/candidates/vicent-marza.jpg"
 import IgnasiPhoto from "../images/candidates/ignasi-candela.jpg"
 import MartaPhoto from "../images/candidates/marta-sorli.jpg"
 
-//import { FormattedMessage } from "react-intl"
-//import Fade from "react-reveal/Fade"
-
 const CandidateList = () => (
   <div className="container candidate-list">
-    <ImparablesShort />
-    <div class="row">
+    <div className="row candidate-list-header">
+      <div className="col-lg-8 candidate-list-title">
+        <ImparablesShort />
+      </div>
+      <div className="col-lg-4 candidate-list-subtitle text-right">
+        <h2>Candidatura</h2>
+      </div>
+    </div>
+    <div className="row">
       <div className="col-lg-6">    
-        <CandidateItem to="/monica-oltra" image={MonicaPhoto} name="Mónica Oltra" description="Candidata a la presidència" size="lg" />
+        <CandidateItem to="/monica-oltra" image={MonicaPhoto} name="Mónica Oltra" id="monicaoltra" size="lg" />
       </div>
       <div className="col-lg-6">    
-        <CandidateItem to="/joan-baldovi" image={BaldoviPhoto} name="Joan Baldoví" description="Candidat al Congrés" size="lg" />
+        <CandidateItem to="/joan-baldovi" image={BaldoviPhoto} name="Joan Baldoví" id="joanbaldovi" size="lg" />
       </div>
     </div>
-    <div class="row">
+    <div className="row">
       <div className="col-lg-4">    
-        <CandidateItem image={AitanaPhoto} name="Aitana Mas" description="Candidat al Congrés" size="sm" />
+        <CandidateItem image={AitanaPhoto} name="Aitana Mas" id="aitanamas" size="sm" />
       </div>
       <div className="col-lg-4">    
-        <CandidateItem image={FranPhoto} name="Fran Ferri" description="Candidat al Congrés" size="sm" />
+        <CandidateItem image={FranPhoto} name="Fran Ferri" id="franferri" size="sm" />
       </div>
       <div className="col-lg-4">    
-        <CandidateItem image={MartaPhoto} name="Marta Sorlí" description="Candidat al Congrés" size="sm" />
-      </div>
-    </div>
-    <div class="row">
-      <div className="col-lg-4">    
-        <CandidateItem image={MarzaPhoto} name="Vicent Marzà" description="Candidata a la presidència" size="sm" />
-      </div>
-      <div className="col-lg-4">    
-        <CandidateItem image={IgnasiPhoto} name="Ignasi Candela" description="Candidat al Congrés" size="sm" />
+        <CandidateItem image={MarzaPhoto} name="Vicent Marzà" id="vicentmarza" size="sm" />
       </div>
     </div>
-    
-
-
+    <div className="row">
+      <div className="col-lg-4 offset-lg-2">
+        <CandidateItem image={IgnasiPhoto} name="Ignasi Candela" id="ignasicandela" size="sm" />
+      </div>
+      <div className="col-lg-4">
+        <CandidateItem image={MartaPhoto} name="Marta Sorlí" id="martasorli" size="sm" />
+      </div>
+    </div>
   </div>
 )
 
