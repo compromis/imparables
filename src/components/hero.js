@@ -20,7 +20,7 @@ const Hero = () => (
       </ul>
     </div>
     <div className="hero-video">
-      <video autoPlay muted playsInline loop poster={VideoCover}>
+      <video autoPlay muted playsInline loop preload="true" poster={VideoCover}>
         <source src={VideoWebM} type="video/webm" />
         <source src={VideoMp4} type="video/mp4" />
       </video>

@@ -1,17 +1,17 @@
 import React from "react"
 import Fade from "react-reveal/Fade"
 
-function Header() {
-  return null
-}
+const Header = ({ children }) => (
+  <h3 className="action-header">{ children }</h3>
+)
 
-function Description() {
-  return null
-}
+const Description = ({ children }) => (
+  <p className="action-description">{ children }</p>
+)
 
-function Call() {
-  return null
-}
+const Call = ({ children }) => (
+  <div className="action-call">{ children }</div>
+)
 
 class Action extends React.Component {
   static Header = Header
@@ -20,18 +20,12 @@ class Action extends React.Component {
 
   render () {
     const { name, delay, children } = this.props
-    const header = children.find(child => child.type['displayName'] === 'Header')
-    const description = children.find(child => child.type['displayName'] === 'Description')
-    const call = children.find(child => child.type['displayName'] === 'Call')
-    console.log(children)
 
     return (
       <Fade bottom delay={delay}>
         <div className={['action', name].join(' ')}>
           <div className="action-container">
-            <h3 className="action-header">{ header ? header.props.children : null }</h3>
-            <p className="action-description">{ description ? description.props.children : null }</p>
-            <div className="action-call">{ call ? call.props.children : null }</div>
+            {React.Children.map(children, child => child)}
           </div>
         </div>
       </Fade>
