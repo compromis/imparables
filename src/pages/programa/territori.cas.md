@@ -15,7 +15,7 @@ Al mismo tiempo, hay que enfrentarse con medidas concretas y eficientes al grave
 
 <div class="programa-box">
 
-#### Propostes
+#### Propuestas
 
 1.	Desplegaremos intensamente la nueva Ley de Urbanismo para promover un modelo territorial al servicio de las personas, que nos permita un futuro sostenible y que no deprede el medio ni especule con el suelo.
 2.	Adaptaremos las ciudades y pueblos al cambio climático, con el estudio de su funcionamiento bioclimático, y diseñaremos programas de reintroducción de arbolado y espacios verdes ajardinados en las ciudades, con el fin de mitigar el efecto isla de calor. 

@@ -15,7 +15,7 @@ Defenderemos la promoción de la salud como modelo útil y necesario para proteg
 
 <div class="programa-box">
 
-#### Propostes
+#### Propuestas
 
 1.	Impulsaremos un plan de choque contra las listas de espera, mediante la contratación de más personal sanitario y la mejora de los servicios.
 2.	Mejoraremos las contrataciones de profesionales sanitarios de atención continuada y de sustituciones, con la creación de las plazas necesarias. Trabajaremos contra la precariedad en la atención primaria y aumentaremos la tasa de profesionales de enfermería, para llegar a la media de los estados de la UE. También reclamaremos al Estado el aumento de las plazas de formación MIR, en especial de MIR pediátrico, para ajustarlas a la demanda real del Sistema Nacional de Salud, con la actualización de los estándares y el diseño de las especializaciones médicas y de enfermería.

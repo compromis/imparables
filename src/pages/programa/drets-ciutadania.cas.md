@@ -15,7 +15,7 @@ Debemos seguir avanzando para garantizar los derechos de ciudadanía, que en est
 
 <div class="programa-box">
 
-#### Propostes
+#### Propuestas
 
 1.	Impulsaremos una Ley de Gobierno Abierto, que abra las puertas de la administración a la ciudadanía, que fomente su participación en la toma de decisiones y que garantice la transparencia en la gestión del dinero público.
 2.	Tal como hemos hecho en el gobierno valenciano, impulsaremos en el Estado la aprobación del código ético de buen gobierno y también la regulación de la actividad de los lobbies o grupos de presión, garantizando la transparencia en la participación de los grupos de interés en la toma de decisiones de políticas públicas y en la elaboración de proyectos normativos, siempre de acuerdo con los principios de legalidad, publicidad, transparencia, rendición de cuentas y responsabilidad en la gestión pública.

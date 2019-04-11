@@ -15,7 +15,7 @@ Queremos una economía para las personas, que priorice su bienestar, su autorrea
 
 <div class="programa-box">
 
-#### Propostes
+#### Propuestas
 
 1.	Desarrollaremos el Plan Estratégico de la Industria Valenciana (PEIV) y lo ampliaremos a nuevos clústeres emergentes y potenciales, sobre los criterios de sostenibilidad, y potenciaremos y pondremos en valor sectores productivos como la ganadería, la química verde, la cultura y el sector audiovisual, la artesanía o la prestación de servicios de cuidados.
 2.	Impulsaremos programas específicos para apoyar a las pymes industriales, que contarán con las necesidades de financiación productiva y de inversiones, para la transformación digital, la incorporación de I+D+i, la diversificación productiva y la internacionalización. También trabajaremos a nivel estatal para crear un Plan Integral de apoyo especial a las pymes y microempresas, por su importancia para la disminución del desempleo. Facilitaremos el acceso al crédito de las pequeñas empresas que sean económicamente viables.

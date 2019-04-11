@@ -15,7 +15,7 @@ Las condiciones naturales del País Valenciano han consolidado a lo largo del ti
 
 <div class="programa-box">
 
-#### Propostes
+#### Propuestas
 
 1.	Impulsaremos la Ley para las Elecciones en el Campo Valenciano y el Consejo Agrario Valenciano, como órgano consultivo de la Conselleria, con representación de las organizaciones profesionales agrarias más representativas. Además, promoveremos el Consejo Agroalimentario Valenciano: un instrumento de participación y consulta con presencia de las entidades representativas en el ámbito del mundo rural y la cadena alimentaria.
 2.	Mejoraremos el modelo de servicio del sector agrario, mediante la reactivación de las oficinas comarcales como oficinas de atención y promoción del sector primario valenciano, desarrollando un papel impulsor y promotor del sector agroalimentario y del medio rural valenciano.

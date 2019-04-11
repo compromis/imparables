@@ -15,7 +15,7 @@ Además, estas políticas de juventud deben estar muy coordinadas, suficientemen
 
 <div class="programa-box">
 
-#### Propostes
+#### Propuestas
 
 1.	Desarrollaremos la Estrategia Valenciana de la Juventud como eje vertebrador de las políticas de juventud de la Generalitat, con el presupuesto necesario para su ejecución.
 2.	Crearemos un Observatorio de la Juventud en el seno del IVAJ, con capacidad para realizar estudios y conocer la realidad de la juventud valenciana y para orientar las políticas de todas las Conselleries.

@@ -17,7 +17,7 @@ Las políticas inclusivas también incorporan las propuestas en materia de soluc
 
 <div class="programa-box">
 
-#### Propostes
+#### Propuestas
 
 1.	Desplegaremos intensamente la nueva Ley de Servicios Sociales Inclusivos, para garantizar los derechos sociales de la ciudadanía. En este sentido, diseñaremos el Sistema de Información Valenciano en Servicios Sociales, para poder desarrollar la Historia Social Única, y crearemos el Comité Valenciano de Ética para velar por un funcionamiento profesional y de calidad, con garantías y empatía en los servicios sociales.
 2.	Potenciaremos e implementaremos el Plan Valenciano de Inclusión y Cohesión Social como hoja de ruta compartida del Govern y la sociedad civil, para garantizar una sociedad más justa, igualitaria y feliz.

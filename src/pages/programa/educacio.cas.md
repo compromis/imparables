@@ -14,7 +14,7 @@ La diversidad del alumnado y de las familias y las nuevas causas de exclusión s
 
 <div class="programa-box">
 
-#### Propostes
+#### Propuestas
 
 1.	Aumentaremos la oferta pública de Educación Infantil del nivel 2-3 años en centros públicos de educación infantil y primaria y seguiremos ampliando la oferta gratuita de plazas 0-3 en las escuelas infantiles en todo el territorio. 
 2.	Seguiremos bajando la ratio en todos los niveles y enseñanzas y recuperaremos la jornada lectiva del profesorado de 18 horas de docencia directa en enseñanza secundaria y bachillerato y de 23 horas en enseñanza infantil y primaria. Así mismo, impulsaremos la mejora continuada de las condiciones económicas y laborales de los equipos docentes valencianos.

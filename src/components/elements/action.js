@@ -23,6 +23,7 @@ class Action extends React.Component {
     const header = children.find(child => child.type['displayName'] === 'Header')
     const description = children.find(child => child.type['displayName'] === 'Description')
     const call = children.find(child => child.type['displayName'] === 'Call')
+    console.log(children)
 
     return (
       <Fade bottom delay={delay}>

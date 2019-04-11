@@ -18,12 +18,12 @@ Farem especial incidència en la igualtat laboral. L'ocupació i la cultura empr
 #### Propostes
 
 1.	Impulsarem una nova Llei d’igualtat capdavantera en tot l’Estat que garantisca la igualtat real entre dones i homes des d’un vessant feminista, transversal i inclusiu per construir una societat realment democràtica.
-2.	Implementarem un programa d’educació afectiu-sexual a les aules, a partir dels 6 anys, com eina de prevenció de la violència masclista, de foment dels bons tractes i de dret a la sexualitat.
-3.	Reformarem la Llei d'igualtat estatal per garantir la paritat en els espais de decisió de tots els àmbits, incloent-hi les grans empreses. Així com, impulsarem un nou Pacte “Empresa i Gènere” que incloga la perspectiva de gènere en l’òptica empresarial i laboral amb mesures de corresponsabilitat, igualtat salarial i participació de les dones en els òrgans de decisió.
-4.	Desenvoluparem una estratègia valenciana per l’erradicació de la violència sexual que incorpore la prostitució com una forma de violència cap a les dones.
+2.	Implementarem un programa d’educació afectivosexual a les aules, a partir dels 6 anys, com eina de prevenció de la violència masclista, de foment dels bons tractes i de dret a la sexualitat.
+3.	Reformarem la Llei d'igualtat estatal per garantir la paritat en els espais de decisió de tots els àmbits, incloent-hi les grans empreses. A més, impulsarem un nou Pacte “Empresa i Gènere” que incloga la perspectiva de gènere en l’òptica empresarial i laboral amb mesures de corresponsabilitat, igualtat salarial i participació de les dones en els òrgans de decisió.
+4.	Desenvoluparem una estratègia valenciana per a l’erradicació de la violència sexual que incorpore la prostitució com una forma de violència cap a les dones.
 5.	Desenvoluparem el Pacte valencià contra la violència de gènere i masclista, i el dotarem amb pressupost necessari perquè siga efectiu.
-6.	Implementació, en tres anys de forma progressiva, dels permisos iguals, intransferibles i irrenunciables per naixement, acolliment i adopció fins a les 24 setmanes per part de les dues persones progenitores. En el cas, de les famílies monoparentals, es disfrutará de la suma dels dos permisos. A més, en el cas, que els xiquets i xiquetes amb diversitat funcional o necessitats especials s’ampliarà fins a les 26 setmanes.
-7.	Crearem una programa específic contra l'escletxa salarial i lluitarem contra les formes de precarietat que castiguen especialment les dones.
+6.	Implementarem, en tres anys de forma progressiva, els permisos iguals, intransferibles i irrenunciables per naixement, acolliment i adopció fins a les 24 setmanes per part de les dues persones progenitores. En el cas de les famílies monoparentals, es disfrutará de la suma dels dos permisos. A més, en el cas dels xiquets i xiquetes amb diversitat funcional o necessitats especials s’ampliarà fins a les 26 setmanes.
+7.	Crearem un programa específic contra l'escletxa salarial i lluitarem contra les formes de precarietat que castiguen especialment les dones.
 8.	Eliminarem de la normativa estatal l'obligatorietat de mantindre els concerts educatius als centres que segreguen l'alumnat per raó de sexe, i impulsarem mesures que enfortisquen la coeducació entre els xiquets i xiquetes.
 
 </div>

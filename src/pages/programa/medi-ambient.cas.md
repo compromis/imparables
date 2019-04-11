@@ -1,5 +1,5 @@
 ---
-title: "Medio Ambiente"
+title: "Medio ambiente"
 category: "Protegemos la tierra"
 order: 6
 class: "medi-ambient"

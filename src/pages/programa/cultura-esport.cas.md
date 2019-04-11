@@ -15,7 +15,7 @@ Al mismo tiempo, apostamos por que el deporte sea un elemento de cohesión socia
 
 <div class="programa-box">
 
-#### Propostes
+#### Propuestas
 
 1.	Crearemos la campaña “Elige un libro” para impulsar los hábitos de lectura a través de las librerías: regalaremos un libro a cada niño/a al cumplir 6 años y profundizaremos en el plan de fomento del libro y la lectura que ya hemos iniciado.
 2.	Impulsaremos una plaza virtual de encuentro (Market Place) entre creativos de contenidos, productores de contenidos y exhibidores de contenidos para intercambiar talentos, contenidos, conocimientos y know-how.

@@ -15,7 +15,7 @@ Haremos especial hincapié en la igualdad laboral. El empleo y la cultura empres
 
 <div class="programa-box">
 
-#### Propostes
+#### Propuestas
 
 1.	Impulsaremos una nueva Ley de Igualdad puntera en todo el Estado que garantice la igualdad real entre mujeres y hombres desde una vertiente feminista, transversal e inclusiva para construir una sociedad realmente democrática.
 2.	Implementaremos un programa de educación afectivo-sexual a las aulas, a partir de los 6 años, como herramienta de prevención de la violencia machista, de fomento de los buenos tratos y de derecho a la sexualidad.

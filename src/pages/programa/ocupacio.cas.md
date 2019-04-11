@@ -15,7 +15,7 @@ Hace falta aplicar medidas concretas para generar empleo estable y de calidad, q
 
 <div class="programa-box">
 
-#### Propostes
+#### Propuestas
 
 1.	Elaboraremos una Ley Valenciana de Empleo que estructure todo el sistema de agentes e instituciones que intervienen en materia de políticas de empleo y desarrollo territorial.
 2.	Propondremos el establecimiento, a nivel estatal, de la jornada laboral de 32 horas como instrumento para la creación de empleo. Mientras tanto, desde la Generalitat pondremos en marcha un programa de ayudas para empresas que quieran, voluntariamente, reducir su jornada laboral, manteniendo los salarios y creando nuevos puestos de trabajo.
