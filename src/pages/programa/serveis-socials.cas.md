@@ -7,9 +7,12 @@ class: "serveis-socials"
 
 <div class="programa-intro">
 
-L’actual model de finançament autonòmic, vigent des de 2009 i caducat des de 2014, discrimina els valencians i valencianes i no ens permet desenvolupar les nostres competències, especialment en matèria social i promoció de l’ocupació. Per això és inajornable reformar-lo de manera immediata.
+L’aprovació de la Llei de serveis socials inclusius suposa crear, estructurar i generar un vertader Sistema Públic de Serveis Socials que els reconeix com d’interés general i essencials per a les persones, i garanteix l’exercici efectiu dels seus drets fonamentals i un elevat nivell de protecció social, que reforça la cohesió social i territorial.
 
-La proposta d’un nou model de finançament definida pel grup d’experts nomenats pel Govern Valencià respon a criteris que permetrien a totes les comunitats autònomes accedir a un finançament equilibrat amb les competències que té transferides; assegurar que els serveis es puguen prestar en les mateixes condicions a tota la ciutadania, amb independència del seu lloc de residència, i permetre l’exercici real de l’autonomia de cada comunitat en el desenvolupament de les seus polítiques d’ingressos i despeses.
+Recuperem la centralitat de la persona en tot el sistema, garantint els seus drets i oferint una atenció continuada al llarg del seu cicle vital, amb l’acompanyament de professionals.
+
+Les polítiques inclusives també incorporen les propostes en matèria de solucions residencials i d'habitatge públic  i de 
+migració i cooperació internacional, perquè són una continuïtat dels drets socials.
 
 </div>
 
@@ -17,11 +20,15 @@ La proposta d’un nou model de finançament definida pel grup d’experts nomen
 
 #### Propostes
 
-1. Exigirem al Govern de l’Estat l’establiment d’un calendari per a la reforma immediata del sistema de finançament autonòmic, basada en les recomanacions dels experts nomenats pel Consell; així com l'aprovació de mecanismes temporals de compensació mentre aquesta reforma no es produïsca
-2. Defensarem que la reforma immediata i profunda del sistema de finançament autonòmic es produïsca amb efectes d'1 de gener de 2014 i possibilite als valencians i a les valencianes disposar d'uns serveis públics fonamentals (sanitat, educació, serveis socials i protecció social) de qualitat, i permeta, d'igual manera, l'exercici de les competències pròpies (ocupació, habitatge, medi ambient, infraestructures, cultura, promoció econòmica, etc.) per tal d’assolir,  almenys, la mitjana de finançament per habitant del conjunt de comunitats autònomes.
-3. Proposarem que el nou sistema de finançament contemple un tram a través del qual les administracions autonòmiques puguen desenvolupar un altre tipus de competències no bàsiques. Aquest tram hauria de poder ser finançat, en bona mesura, amb tributs propis que recaptara la pròpia Comunitat Autònoma o, en cas d’insuficiència fiscal, amb transferències d’anivellament. A través d’aquest mecanisme asseguraríem una major corresponsabilitat fiscal i, al mateix temps, un major grau d’autonomia.
-4. Exigirem el reconeixement del deute històric des que es van dur a terme les transferències de competències a la Generalitat Valenciana, xifrats en, si més no, 20.000 milions d'euros; com també la definició i l'establiment d'un mecanisme de compensació d'aquests dèficits.
-5. Continuarem desplegant l’Agència Tributària Valenciana com a instrument per assumir la descentralització dels ingressos i millorar l’eficiència i l’autonomia en la gestió dels tributs propis, aprofitant el coneixement i la implantació territorial de la Generalitat.
-6. Defensarem una reforma del sistema de finançament de les entitats locals que els garantisca un espai fiscal propi amb el qual fer front a les seues competències i que tinga en compte la diversitat del món local amb vista a una segona descentralització.
+1.	Desplegarem intensament la nova Llei de serveis socials inclusius, per garantir els drets socials de la ciutadania. En aquest sentit, dissenyarem el Sistema d'Informació Valencià en Serveis Socials, per poder desenvolupar la Història Social Única, i crearem el Comité Valencià d'Ètica per vetlar per un funcionament professional i de qualitat, amb garanties i empatia en els serveis socials.
+2.	Potenciarem i implementarem el Pla Valencià d’Inclusió i Cohesió Social com a full de ruta compartit del govern i la societat civil, per garantir una societat més justa, igualitària i feliç.
+3.	Regularem la professionalització de les persones cuidadores en l'entorn familiar.
+4.	Posarem en marxa, en col·laboració amb les diputacions provincials, una xarxa de centres socials públics, comarcals, basats en un model que fomente l'autonomia personal, la solidaritat intergeneracional i evite el desarrelament.
+5.	Impulsarem l'Estratègia Estatal d’Envelliment Actiu 2020-2025 la qual, junt als programes d’estances vacacionals i el termalisme, incloga una programació cultural, esportiva i social que fomente l’envelliment actiu, saludable i inclusiu.
+6.	Flexibilitzarem la regla de despesa que actualment s'aplica als ajuntaments i que dificulta la reinversió dels superàvits, perquè es puguen destinar recursos a habitatge i lloguer social.
+7.	Elaborarem i posarem en marxa la Llei valenciana d'accessibilitat universal, per garantir els drets de les persones en el seu accés a tots els espais públics i privats, entorns naturals, sistemes de transport, mitjans de comunicació i serveis d’atenció a la ciutadania.
+8.	Desenvoluparem la Llei per la funció social de l'habitatge, per fer efectiu el dret a un habitatge digne i acabar amb els desnonaments de les persones més vulnerables de la societat. En aquesta línia, ampliarem el parc públic d'habitatges per posar-lo a disposició del lloguer social i del lloguer assequible, de manera que cap unitat familiar hi destine més del 30% dels ingressos.
+9.	Promourem una Llei estatal que garantisca el dret a un habitatge digne, que contemple la regulació del preu del lloguer, la dació en pagament de la primera vivenda, la destinació d'un 30% de la nova construcció a vivenda protegida, de la qual un 7% anirà destinada a lloguer jove, i que ature els desnonaments.
+10.	Simplificarem i unificarem les diferents prestacions per desocupació de llarga durada, com la renda activa d’inserció (RAI) i el programa d'activació per a l’ocupació (PAO),  i  el dotarem de major estabilitat i el referenciarem al 60% del SMI. A més, afegirem un increment sobre la prestació del 20% per cada filla o fill menor d’edat, i facilitarem la complementarietat amb la Renda Valenciana d’Inclusió.
 
 </div>

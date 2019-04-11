@@ -7,9 +7,9 @@ class: "agricultura"
 
 <div class="programa-intro">
 
-L’actual model de finançament autonòmic, vigent des de 2009 i caducat des de 2014, discrimina els valencians i valencianes i no ens permet desenvolupar les nostres competències, especialment en matèria social i promoció de l’ocupació. Per això és inajornable reformar-lo de manera immediata.
+L’agricultura, la ramaderia, la pesca i el desenvolupament rural constitueixen una part fonamental de la nostra economia, del nostre paisatge i de la nostra manera d’entendre el món. Les persones han de poder viure del camp, per això l’aplicació de polítiques encaminades a la seua sostenibilitat són fonamentals per garantir un territori amb futur i que al mateix temps genere oportunitats laborals dignes.
 
-La proposta d’un nou model de finançament definida pel grup d’experts nomenats pel Govern Valencià respon a criteris que permetrien a totes les comunitats autònomes accedir a un finançament equilibrat amb les competències que té transferides; assegurar que els serveis es puguen prestar en les mateixes condicions a tota la ciutadania, amb independència del seu lloc de residència, i permetre l’exercici real de l’autonomia de cada comunitat en el desenvolupament de les seus polítiques d’ingressos i despeses.
+Les condicions naturals del País Valencià han consolidat al llarg del temps un sector econòmic clau i potent com és l’agroalimentari, essencial i estratègic per a la nostra comunitat a molts nivells: polític, territorial, econòmic, social i ambiental. L’estima per la terra implica un sentiment comú de defensa del territori.
 
 </div>
 
@@ -17,11 +17,17 @@ La proposta d’un nou model de finançament definida pel grup d’experts nomen
 
 #### Propostes
 
-1. Exigirem al Govern de l’Estat l’establiment d’un calendari per a la reforma immediata del sistema de finançament autonòmic, basada en les recomanacions dels experts nomenats pel Consell; així com l'aprovació de mecanismes temporals de compensació mentre aquesta reforma no es produïsca
-2. Defensarem que la reforma immediata i profunda del sistema de finançament autonòmic es produïsca amb efectes d'1 de gener de 2014 i possibilite als valencians i a les valencianes disposar d'uns serveis públics fonamentals (sanitat, educació, serveis socials i protecció social) de qualitat, i permeta, d'igual manera, l'exercici de les competències pròpies (ocupació, habitatge, medi ambient, infraestructures, cultura, promoció econòmica, etc.) per tal d’assolir,  almenys, la mitjana de finançament per habitant del conjunt de comunitats autònomes.
-3. Proposarem que el nou sistema de finançament contemple un tram a través del qual les administracions autonòmiques puguen desenvolupar un altre tipus de competències no bàsiques. Aquest tram hauria de poder ser finançat, en bona mesura, amb tributs propis que recaptara la pròpia Comunitat Autònoma o, en cas d’insuficiència fiscal, amb transferències d’anivellament. A través d’aquest mecanisme asseguraríem una major corresponsabilitat fiscal i, al mateix temps, un major grau d’autonomia.
-4. Exigirem el reconeixement del deute històric des que es van dur a terme les transferències de competències a la Generalitat Valenciana, xifrats en, si més no, 20.000 milions d'euros; com també la definició i l'establiment d'un mecanisme de compensació d'aquests dèficits.
-5. Continuarem desplegant l’Agència Tributària Valenciana com a instrument per assumir la descentralització dels ingressos i millorar l’eficiència i l’autonomia en la gestió dels tributs propis, aprofitant el coneixement i la implantació territorial de la Generalitat.
-6. Defensarem una reforma del sistema de finançament de les entitats locals que els garantisca un espai fiscal propi amb el qual fer front a les seues competències i que tinga en compte la diversitat del món local amb vista a una segona descentralització.
+1.	Impulsarem la Llei per a les eleccions al camp valencià i el Consell Agrari Valencià, com a òrgan consultiu de la Conselleria, amb representació de les organitzacions professionals agràries més representatives. A més, promourem el Consell Agroalimentari Valencià:  un instrument de participació i consulta amb presència de les entitats representatives en l’àmbit del món rural i la cadena alimentària.
+2.	Millorarem el model de servei del sector agrari, mitjançant la reactivació de les oficines comarcals com a oficines d’atenció i promoció del sector primari valencià, desenvolupant un paper impulsor i promotor del sector agroalimentari i del medi rural valencià.
+3.	Incorporarem especialistes en matèria agrària a l’Oficina de la Comunitat Valenciana a Brussel·les, nexe de la Generalitat Valenciana amb la UE i els subsectors agraris valencians, referència i vehicle per la vertebració dels subsectors agraris valencians, amb l’objecte d’articular un lobby valencià real a les institucions comunitàries. 
+4.	Impulsarem una estratègia per a la indústria agroalimentària valenciana basada en el producte de proximitat, de qualitat i ecològic, prioritzant el finançament d’inversions i/o nous projectes que donen valor a la cadena.
+5.	Elaborarem una Llei valenciana d’estructures comercials que unifique la legislació actual i incorpore una nova regulació sobre mercats locals i de proximitat, així com mesures de millora de la competitivitat.
+6.	Impulsarem iniciatives per a la conversió de l’agricultura de secà i la ramaderia extensiva cap a la producció ecològica, que haurà de contemplar mesures econòmiques i fiscals, mesures de R+D+i i de formació continuada i instruments de finançament.
+7.	Implementarem la Llei d’estructures agràries de la Comunitat Valenciana, que afavorirà la viabilitat i racionalitat de les explotacions agràries, mantenint la biodiversitat dels agrosistemes, béns patrimonials i tots aquells factors de diferenciació que vagen en benefici de la qualitat agroalimentària.
+8.	Promourem la Llei de pasturatge racional, en la qual es reconega el seu valor ambiental, amb l’equilibri de les càrregues ramaderes a les nostres muntanyes, i es garantisquen els serveis necessaris per a la transhumància, transtermitància i la pastura.
+9.	Desenvoluparem la Llei de pesca marítima i aqüicultura per promoure la diversificació de l’activitat pesquera l’atur biològic i el foment de la gastronomia i el turisme d’aquest sector primari.
+10.	Presentarem el Pla director citrícola de la Comunitat Valenciana (2019-2023), amb l'objectiu de millorar la posició competitiva de la citricultura valenciana.
+11.	Defensarem que l’agroalimentació quede fora del acords comercials extracomunitaris per protegir la seguretat fitosanitària i alimentària de les nostres produccions, la sobirania alimentària i el futur del món agrari i el seu desenvolupament rural; així com tots els serveis ecosistèmics que aporta al conjunt de la UE.
+12.	Reclamarem al govern de l’Estat que recupere les taxes d’inversió pressupostària per tal de realitzar polítiques efectives de manteniment i defensa dels recursos agraris, ramaders, forestals i pesquers.
 
 </div>

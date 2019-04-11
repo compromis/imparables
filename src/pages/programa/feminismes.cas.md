@@ -7,9 +7,9 @@ class: "feminismes"
 
 <div class="programa-intro">
 
-L’actual model de finançament autonòmic, vigent des de 2009 i caducat des de 2014, discrimina els valencians i valencianes i no ens permet desenvolupar les nostres competències, especialment en matèria social i promoció de l’ocupació. Per això és inajornable reformar-lo de manera immediata.
+Vivim en un moment històric del feminisme, en el qual les dones, a través de les xarxes i les connexions globals, estan generant un canvi, una revolució que no té marxa enrere i que ho ha d’impregnar tot. Des de Compromís desenvoluparem les polítiques d’igualtat, mitjançant polítiques públiques dirigides a promoure la igualtat en totes les polítiques i accions, a tots els nivells i en totes les fases de planificació, execució i avaluació.
 
-La proposta d’un nou model de finançament definida pel grup d’experts nomenats pel Govern Valencià respon a criteris que permetrien a totes les comunitats autònomes accedir a un finançament equilibrat amb les competències que té transferides; assegurar que els serveis es puguen prestar en les mateixes condicions a tota la ciutadania, amb independència del seu lloc de residència, i permetre l’exercici real de l’autonomia de cada comunitat en el desenvolupament de les seus polítiques d’ingressos i despeses.
+Farem especial incidència en la igualtat laboral. L'ocupació i la cultura empresarial han de ser els camps d'acció per a trencar tant l'escletxa salarial com el sostre de vidre i el terra enganxós, així com d'altres elements que frenen la igualtat en el món laboral. També en l’àmbit del llenguatge i els mitjans. La comunicació és la forma amb la qual ens arriba la informació, per això cal incidir en les formes que utilitzem per descriure el món i substituir la visió patriarcal per una d’igualitària. 
 
 </div>
 
@@ -17,11 +17,13 @@ La proposta d’un nou model de finançament definida pel grup d’experts nomen
 
 #### Propostes
 
-1. Exigirem al Govern de l’Estat l’establiment d’un calendari per a la reforma immediata del sistema de finançament autonòmic, basada en les recomanacions dels experts nomenats pel Consell; així com l'aprovació de mecanismes temporals de compensació mentre aquesta reforma no es produïsca
-2. Defensarem que la reforma immediata i profunda del sistema de finançament autonòmic es produïsca amb efectes d'1 de gener de 2014 i possibilite als valencians i a les valencianes disposar d'uns serveis públics fonamentals (sanitat, educació, serveis socials i protecció social) de qualitat, i permeta, d'igual manera, l'exercici de les competències pròpies (ocupació, habitatge, medi ambient, infraestructures, cultura, promoció econòmica, etc.) per tal d’assolir,  almenys, la mitjana de finançament per habitant del conjunt de comunitats autònomes.
-3. Proposarem que el nou sistema de finançament contemple un tram a través del qual les administracions autonòmiques puguen desenvolupar un altre tipus de competències no bàsiques. Aquest tram hauria de poder ser finançat, en bona mesura, amb tributs propis que recaptara la pròpia Comunitat Autònoma o, en cas d’insuficiència fiscal, amb transferències d’anivellament. A través d’aquest mecanisme asseguraríem una major corresponsabilitat fiscal i, al mateix temps, un major grau d’autonomia.
-4. Exigirem el reconeixement del deute històric des que es van dur a terme les transferències de competències a la Generalitat Valenciana, xifrats en, si més no, 20.000 milions d'euros; com també la definició i l'establiment d'un mecanisme de compensació d'aquests dèficits.
-5. Continuarem desplegant l’Agència Tributària Valenciana com a instrument per assumir la descentralització dels ingressos i millorar l’eficiència i l’autonomia en la gestió dels tributs propis, aprofitant el coneixement i la implantació territorial de la Generalitat.
-6. Defensarem una reforma del sistema de finançament de les entitats locals que els garantisca un espai fiscal propi amb el qual fer front a les seues competències i que tinga en compte la diversitat del món local amb vista a una segona descentralització.
+1.	Impulsarem una nova Llei d’igualtat capdavantera en tot l’Estat que garantisca la igualtat real entre dones i homes des d’un vessant feminista, transversal i inclusiu per construir una societat realment democràtica.
+2.	Implementarem un programa d’educació afectiu-sexual a les aules, a partir dels 6 anys, com eina de prevenció de la violència masclista, de foment dels bons tractes i de dret a la sexualitat.
+3.	Reformarem la Llei d'igualtat estatal per garantir la paritat en els espais de decisió de tots els àmbits, incloent-hi les grans empreses. Així com, impulsarem un nou Pacte “Empresa i Gènere” que incloga la perspectiva de gènere en l’òptica empresarial i laboral amb mesures de corresponsabilitat, igualtat salarial i participació de les dones en els òrgans de decisió.
+4.	Desenvoluparem una estratègia valenciana per l’erradicació de la violència sexual que incorpore la prostitució com una forma de violència cap a les dones.
+5.	Desenvoluparem el Pacte valencià contra la violència de gènere i masclista, i el dotarem amb pressupost necessari perquè siga efectiu.
+6.	Implementació, en tres anys de forma progressiva, dels permisos iguals, intransferibles i irrenunciables per naixement, acolliment i adopció fins a les 24 setmanes per part de les dues persones progenitores. En el cas, de les famílies monoparentals, es disfrutará de la suma dels dos permisos. A més, en el cas, que els xiquets i xiquetes amb diversitat funcional o necessitats especials s’ampliarà fins a les 26 setmanes.
+7.	Crearem una programa específic contra l'escletxa salarial i lluitarem contra les formes de precarietat que castiguen especialment les dones.
+8.	Eliminarem de la normativa estatal l'obligatorietat de mantindre els concerts educatius als centres que segreguen l'alumnat per raó de sexe, i impulsarem mesures que enfortisquen la coeducació entre els xiquets i xiquetes.
 
 </div>

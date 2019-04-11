@@ -7,9 +7,9 @@ class: "cultura-esports"
 
 <div class="programa-intro">
 
-L’actual model de finançament autonòmic, vigent des de 2009 i caducat des de 2014, discrimina els valencians i valencianes i no ens permet desenvolupar les nostres competències, especialment en matèria social i promoció de l’ocupació. Per això és inajornable reformar-lo de manera immediata.
+La posada en marxa del Pla FesCultura 2016-2020 ha suposat un canvi radical en les polítiques públiques en matèria de cultura. Per primera vegada hi ha una estratègia compartida entre la Generalitat i els sectors culturals per a la transformació de l’ecosistema cultural valencià a través de la millora dels drets culturals de la ciutadania, de l’expressió, de la participació i de la construcció de les identitats individuals i col·lectives, a més d’incrementar la innovació i la productivitat de la cultura perquè comporte un valor afegit i genere llocs de treball de qualitat. El compromís pressupostari progressiu és el camí per a aquesta recuperació del sector.
 
-La proposta d’un nou model de finançament definida pel grup d’experts nomenats pel Govern Valencià respon a criteris que permetrien a totes les comunitats autònomes accedir a un finançament equilibrat amb les competències que té transferides; assegurar que els serveis es puguen prestar en les mateixes condicions a tota la ciutadania, amb independència del seu lloc de residència, i permetre l’exercici real de l’autonomia de cada comunitat en el desenvolupament de les seus polítiques d’ingressos i despeses.
+Al mateix temps, apostem perquè l’esport siga un element de cohesió social, reductor de desigualtats i generador de salut.
 
 </div>
 
@@ -17,11 +17,15 @@ La proposta d’un nou model de finançament definida pel grup d’experts nomen
 
 #### Propostes
 
-1. Exigirem al Govern de l’Estat l’establiment d’un calendari per a la reforma immediata del sistema de finançament autonòmic, basada en les recomanacions dels experts nomenats pel Consell; així com l'aprovació de mecanismes temporals de compensació mentre aquesta reforma no es produïsca
-2. Defensarem que la reforma immediata i profunda del sistema de finançament autonòmic es produïsca amb efectes d'1 de gener de 2014 i possibilite als valencians i a les valencianes disposar d'uns serveis públics fonamentals (sanitat, educació, serveis socials i protecció social) de qualitat, i permeta, d'igual manera, l'exercici de les competències pròpies (ocupació, habitatge, medi ambient, infraestructures, cultura, promoció econòmica, etc.) per tal d’assolir,  almenys, la mitjana de finançament per habitant del conjunt de comunitats autònomes.
-3. Proposarem que el nou sistema de finançament contemple un tram a través del qual les administracions autonòmiques puguen desenvolupar un altre tipus de competències no bàsiques. Aquest tram hauria de poder ser finançat, en bona mesura, amb tributs propis que recaptara la pròpia Comunitat Autònoma o, en cas d’insuficiència fiscal, amb transferències d’anivellament. A través d’aquest mecanisme asseguraríem una major corresponsabilitat fiscal i, al mateix temps, un major grau d’autonomia.
-4. Exigirem el reconeixement del deute històric des que es van dur a terme les transferències de competències a la Generalitat Valenciana, xifrats en, si més no, 20.000 milions d'euros; com també la definició i l'establiment d'un mecanisme de compensació d'aquests dèficits.
-5. Continuarem desplegant l’Agència Tributària Valenciana com a instrument per assumir la descentralització dels ingressos i millorar l’eficiència i l’autonomia en la gestió dels tributs propis, aprofitant el coneixement i la implantació territorial de la Generalitat.
-6. Defensarem una reforma del sistema de finançament de les entitats locals que els garantisca un espai fiscal propi amb el qual fer front a les seues competències i que tinga en compte la diversitat del món local amb vista a una segona descentralització.
+1.	Crearem la campanya “Tria un llibre” per a impulsar els hàbits de lectura a través a la llibreries: regalarem un llibre a cada xiquet/a en complir 6 anys i aprofundirem en el pla de foment del llibre i la lectura que ja hem iniciat.
+2.	Impulsarem un plaça virtual de trobada (Market Place) entre creatius de continguts, productors de continguts i exhibidors de continguts per intercanviar talents, continguts, coneixements i know-how.
+3.	Elaborarem la Llei de les arts escèniques valencianes que impulsarà la formació i l’acompanyament per a companyies d’arts escèniques en qüestions relatives a mecenatge, gestió, comunicació i internacionalització; crearem centres de referència escènica com a espais d’investigació i experimentació de les noves dramatúrgies; promourem noves relacions per consolidar programes de residència, mobilitat i intercanvi amb altres centres territorials del món, i establirem un programa plurianual d’ajudes.
+4.	Crearem espais culturals a les ciutats d’Alacant i Castelló seguint el model d’èxit del Centre de Cultura Contemporània el Carme (CCCC), situat a València, com a universos de promoció, producció, investigació i residència cultural.
+5.	Impulsarem, en col·laboració amb els ajuntaments, el programa Patrimoni Edificant. Per a això delegarem les competències necessàries i dotarem econòmicament els ajuntaments valencians que s’aderisquen al pla, per tal d’impulsar el patrimoni cultural valencià en tot el territori.
+6.	Aprovarem l’Estatut de la Música i per donar resposta a la falta d’adequació de la reglamentació existent en matèria laboral i jurídica, així com a les necessitats de les diverses professions de la música valenciana.
+7.	Crearem un Centre d’Alt Rendiment Esportiu en el territori valencià.
+8.	Posarem en marxa el Pla Estratègic de l’Esport que s’ha estat treballant i redactant amb la participació del sector durant aquesta legislatura. 
+9.	Crearem un programa d’assessorament i d’atenció a esportistes d’elit no professionals i ex-professionals, tant pel que fa al vessant acadèmic i formatiu, com al d’inserció laboral, durant la seua trajectòria esportiva i els anys posteriors.
+10.	Augmentarem les ajudes a la construcció i reforma d’infraestructures esportives municipals establertes en l’actual legislatura.
 
 </div>
