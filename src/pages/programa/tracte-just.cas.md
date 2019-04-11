@@ -1,27 +1,27 @@
 ---
-title: "Finançament"
-category: "Tracte Just"
+title: "Financiación"
+category: "Trato Justo"
 order: 0
 class: "tracte-just"
 ---
 
 <div class="programa-intro">
 
-L’actual model de finançament autonòmic, vigent des de 2009 i caducat des de 2014, discrimina els valencians i valencianes i no ens permet desenvolupar les nostres competències, especialment en matèria social i promoció de l’ocupació. Per això és inajornable reformar-lo de manera immediata.
+El actual modelo de financiación autonómica, vigente desde 2009 y caducado desde 2014, discrimina a los valencianos y valencianas y no nos permite desarrollar nuestras competencias, especialmente en materia social y promoción del empleo. Por eso es inaplazable reformarlo de manera inmediata.
 
-La proposta d’un nou model de finançament definida pel grup d’experts nomenats pel Govern Valencià respon a criteris que permetrien a totes les comunitats autònomes accedir a un finançament equilibrat amb les competències que té transferides; assegurar que els serveis es puguen prestar en les mateixes condicions a tota la ciutadania, amb independència del seu lloc de residència, i permetre l’exercici real de l’autonomia de cada comunitat en el desenvolupament de les seus polítiques d’ingressos i despeses.
+La propuesta de un nuevo modelo de financiación definida por el grupo de expertos nombrados por el Govern Valencià responde a criterios que permitirían a todas las comunidades autónomas acceder a una financiación equilibrada con las competencias que tiene transferidas; asegurar que los servicios se puedan prestar en iguales condiciones a toda la ciudadanía, con independencia de su lugar de residencia; y permitir el ejercicio real de la autonomía de cada comunidad en el desarrollo de sus políticas de ingresos y gastos.
 
 </div>
 
 <div class="programa-box">
 
-#### Propostes
+#### Propuestas
 
-1. Exigirem al Govern de l’Estat l’establiment d’un calendari per a la reforma immediata del sistema de finançament autonòmic, basada en les recomanacions dels experts nomenats pel Consell; així com l'aprovació de mecanismes temporals de compensació mentre aquesta reforma no es produïsca
-2. Defensarem que la reforma immediata i profunda del sistema de finançament autonòmic es produïsca amb efectes d'1 de gener de 2014 i possibilite als valencians i a les valencianes disposar d'uns serveis públics fonamentals (sanitat, educació, serveis socials i protecció social) de qualitat, i permeta, d'igual manera, l'exercici de les competències pròpies (ocupació, habitatge, medi ambient, infraestructures, cultura, promoció econòmica, etc.) per tal d’assolir,  almenys, la mitjana de finançament per habitant del conjunt de comunitats autònomes.
-3. Proposarem que el nou sistema de finançament contemple un tram a través del qual les administracions autonòmiques puguen desenvolupar un altre tipus de competències no bàsiques. Aquest tram hauria de poder ser finançat, en bona mesura, amb tributs propis que recaptara la pròpia Comunitat Autònoma o, en cas d’insuficiència fiscal, amb transferències d’anivellament. A través d’aquest mecanisme asseguraríem una major corresponsabilitat fiscal i, al mateix temps, un major grau d’autonomia.
-4. Exigirem el reconeixement del deute històric des que es van dur a terme les transferències de competències a la Generalitat Valenciana, xifrats en, si més no, 20.000 milions d'euros; com també la definició i l'establiment d'un mecanisme de compensació d'aquests dèficits.
-5. Continuarem desplegant l’Agència Tributària Valenciana com a instrument per assumir la descentralització dels ingressos i millorar l’eficiència i l’autonomia en la gestió dels tributs propis, aprofitant el coneixement i la implantació territorial de la Generalitat.
-6. Defensarem una reforma del sistema de finançament de les entitats locals que els garantisca un espai fiscal propi amb el qual fer front a les seues competències i que tinga en compte la diversitat del món local amb vista a una segona descentralització.
+1.	Exigiremos al Gobierno del Estado el establecimiento de un calendario para la reforma inmediata del sistema de financiación autonómica, basada en las recomendaciones de los expertos nombrados por el Consell; así como la aprobación de mecanismos temporales de compensación mientras esta reforma no se produzca.
+2.	Defenderemos que la reforma inmediata y profunda del sistema de financiación autonómica se produzca con efectos del 1 de enero de 2014 y posibilite así a los valencianos y valencianas disponer de unos servicios públicos fundamentales (sanidad, educación, servicios sociales y protección social) de calidad, y permita, de igual manera, el ejercicio de las competencias propias (empleo, vivienda, medio ambiente, infraestructuras, cultura, promoción económica, etc.) con el fin de alcanzar, al menos, la media de financiación por habitante del conjunto de comunidades autónomas.
+3.	Propondremos que el nuevo sistema de financiación contemple un tramo a través del cual las administraciones autonómicas puedan desarrollar otro tipo de competencias no básicas. Este tramo debería poder ser financiado, en buena medida, con tributos propios que recaudara la propia comunidad autónoma o, en caso de insuficiencia fiscal, con transferencias de nivelación. A través de este mecanismo aseguraríamos una mayor corresponsabilidad fiscal y, al mismo tiempo, un mayor grado de autonomía.
+4.	Exigiremos el reconocimiento de la deuda histórica desde que se produjeron las transferencias de competencias a la Generalitat Valenciana, cifrada en, por lo menos, 20.000 millones de euros; así como la definición y el establecimiento de un mecanismo de compensación de estos déficits.
+5.	Continuaremos desplegando la Agencia Tributaria Valenciana como instrumento para asumir la descentralización de los ingresos y mejorar la eficiencia y la autonomía en la gestión de los tributos propios, aprovechando el conocimiento y la implantación territorial de la Generalitat.
+6.	Defenderemos una reforma del sistema de financiación de las entidades locales que les garantice un espacio fiscal propio con el que hacer frente a sus competencias y que tenga en cuenta la diversidad del mundo local con vista a una segunda descentralización.
 
 </div>

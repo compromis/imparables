@@ -4,8 +4,8 @@ import Imparables from "./elements/imparables"
 import { FormattedMessage } from "react-intl"
 import Fade from "react-reveal/Fade"
 
-import VideoMp4 from "../video/hero.mp4"
-import VideoWebM from "../video/hero.webm"
+import VideoMp4 from "../Video/hero.mp4"
+import VideoWebM from "../Video/hero.webm"
 import VideoCover from "../images/candidates/monica-oltra.jpg"
 
 const Hero = () => (

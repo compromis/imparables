@@ -1,15 +1,15 @@
 ---
-title: "Cultura i esport"
-category: "Cuidem de la gent"
+title: "Cultura y deporte"
+category: "Cuidamos de la gente"
 order: 4
 class: "cultura-esports"
 ---
 
 <div class="programa-intro">
 
-La posada en marxa del Pla FesCultura 2016-2020 ha suposat un canvi radical en les polítiques públiques en matèria de cultura. Per primera vegada hi ha una estratègia compartida entre la Generalitat i els sectors culturals per a la transformació de l’ecosistema cultural valencià a través de la millora dels drets culturals de la ciutadania, de l’expressió, de la participació i de la construcció de les identitats individuals i col·lectives, a més d’incrementar la innovació i la productivitat de la cultura perquè comporte un valor afegit i genere llocs de treball de qualitat. El compromís pressupostari progressiu és el camí per a aquesta recuperació del sector.
+La puesta en marcha del Plan FesCultura 2016-2020 ha supuesto un cambio radical en las políticas públicas en materia de cultura. Por primera vez hay una estrategia compartida entre la Generalitat y los sectores culturales para la transformación del ecosistema cultural valenciano a través de la mejora de los derechos culturales de la ciudadanía, de la expresión, de la participación y de la construcción de las identidades individuales y colectivas, además de incrementar la innovación y la productividad de la cultura para que conlleve un valor añadido y genere puestos de trabajo de calidad. El compromiso presupuestario progresivo es el camino para esta recuperación del sector.
 
-Al mateix temps, apostem perquè l’esport siga un element de cohesió social, reductor de desigualtats i generador de salut.
+Al mismo tiempo, apostamos por que el deporte sea un elemento de cohesión social, reductor de desigualdades y generador de salud.
 
 </div>
 
@@ -17,15 +17,15 @@ Al mateix temps, apostem perquè l’esport siga un element de cohesió social, 
 
 #### Propostes
 
-1.	Crearem la campanya “Tria un llibre” per a impulsar els hàbits de lectura a través a la llibreries: regalarem un llibre a cada xiquet/a en complir 6 anys i aprofundirem en el pla de foment del llibre i la lectura que ja hem iniciat.
-2.	Impulsarem un plaça virtual de trobada (Market Place) entre creatius de continguts, productors de continguts i exhibidors de continguts per intercanviar talents, continguts, coneixements i know-how.
-3.	Elaborarem la Llei de les arts escèniques valencianes que impulsarà la formació i l’acompanyament per a companyies d’arts escèniques en qüestions relatives a mecenatge, gestió, comunicació i internacionalització; crearem centres de referència escènica com a espais d’investigació i experimentació de les noves dramatúrgies; promourem noves relacions per consolidar programes de residència, mobilitat i intercanvi amb altres centres territorials del món, i establirem un programa plurianual d’ajudes.
-4.	Crearem espais culturals a les ciutats d’Alacant i Castelló seguint el model d’èxit del Centre de Cultura Contemporània el Carme (CCCC), situat a València, com a universos de promoció, producció, investigació i residència cultural.
-5.	Impulsarem, en col·laboració amb els ajuntaments, el programa Patrimoni Edificant. Per a això delegarem les competències necessàries i dotarem econòmicament els ajuntaments valencians que s’aderisquen al pla, per tal d’impulsar el patrimoni cultural valencià en tot el territori.
-6.	Aprovarem l’Estatut de la Música i per donar resposta a la falta d’adequació de la reglamentació existent en matèria laboral i jurídica, així com a les necessitats de les diverses professions de la música valenciana.
-7.	Crearem un Centre d’Alt Rendiment Esportiu en el territori valencià.
-8.	Posarem en marxa el Pla Estratègic de l’Esport que s’ha estat treballant i redactant amb la participació del sector durant aquesta legislatura. 
-9.	Crearem un programa d’assessorament i d’atenció a esportistes d’elit no professionals i ex-professionals, tant pel que fa al vessant acadèmic i formatiu, com al d’inserció laboral, durant la seua trajectòria esportiva i els anys posteriors.
-10.	Augmentarem les ajudes a la construcció i reforma d’infraestructures esportives municipals establertes en l’actual legislatura.
+1.	Crearemos la campaña “Elige un libro” para impulsar los hábitos de lectura a través de las librerías: regalaremos un libro a cada niño/a al cumplir 6 años y profundizaremos en el plan de fomento del libro y la lectura que ya hemos iniciado.
+2.	Impulsaremos una plaza virtual de encuentro (Market Place) entre creativos de contenidos, productores de contenidos y exhibidores de contenidos para intercambiar talentos, contenidos, conocimientos y know-how.
+3.	Elaboraremos la Ley de las Artes Escénicas Valencianas que impulsará la formación y el acompañamiento para compañías de artes escénicas en cuestiones relativas a mecenazgo, gestión, comunicación e internacionalización; crearemos centros de referencia escénica como espacios de investigación y experimentación de las nuevas dramaturgias; promoveremos nuevas relaciones para consolidar programas de residencia, movilidad e intercambio con otros centros territoriales del mundo, y estableceremos un programa plurianual de ayudas.
+4.	Crearemos espacios culturales en las ciudades de Alicante y Castelló siguiendo el modelo de éxito del Centre de Cultura Contemporània del Carme (CCCC), situado en València, como universos de promoción, producción, investigación y residencia cultural.
+5.	Impulsaremos, en colaboración con los ayuntamientos, el programa Patrimonio Edificante. Para ello delegaremos las competencias necesarias y dotaremos económicamente a los ayuntamientos valencianos que se adhieran al plan, para impulsar el patrimonio cultural valenciano en todo el territorio.
+6.	Aprobaremos el Estatuto de la Música para dar respuesta a la falta de adecuación de la reglamentación existente en materia laboral y jurídica, así como a las necesidades de las distintas profesiones de la música valenciana.
+7.	Crearemos un Centro de Alto Rendimiento Deportivo en el territorio valenciano.
+8.	Pondremos en marcha el Plan Estratégico del Deporte en el que se ha estado trabajando y redactando con la participación del sector durante esta legislatura. 
+9.	Crearemos un programa de asesoramiento y de atención a deportistas de élite no profesionales y exprofesionales, tanto en lo relativo a la vertiente académica y formativa como a la inserción laboral, durante su trayectoria deportiva y los años posteriores.
+10.	Aumentaremos las ayudas a la construcción y reforma de infraestructuras deportivas municipales establecidas en la actual legislatura.
 
 </div>

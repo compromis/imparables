@@ -1,15 +1,15 @@
 ---
-title: "Feminismes"
-category: "Garantim drets"
+title: "Feminismos"
+category: "Garantizamos derechos"
 order: 12
 class: "feminismes"
 ---
 
 <div class="programa-intro">
 
-Vivim en un moment històric del feminisme, en el qual les dones, a través de les xarxes i les connexions globals, estan generant un canvi, una revolució que no té marxa enrere i que ho ha d’impregnar tot. Des de Compromís desenvoluparem les polítiques d’igualtat, mitjançant polítiques públiques dirigides a promoure la igualtat en totes les polítiques i accions, a tots els nivells i en totes les fases de planificació, execució i avaluació.
+Vivimos en un momento histórico del feminismo, en el cual las mujeres, a través de las redes y las conexiones globales, están generando un cambio, una revolución que no tiene marcha atrás y que debe impregnarlo todo. Desde Compromís desarrollaremos las políticas de igualdad, mediante políticas públicas dirigidas a promover la igualdad en todas las políticas y acciones, a todos los niveles y en todas las fases de planificación, ejecución y evaluación.
 
-Farem especial incidència en la igualtat laboral. L'ocupació i la cultura empresarial han de ser els camps d'acció per a trencar tant l'escletxa salarial com el sostre de vidre i el terra enganxós, així com d'altres elements que frenen la igualtat en el món laboral. També en l’àmbit del llenguatge i els mitjans. La comunicació és la forma amb la qual ens arriba la informació, per això cal incidir en les formes que utilitzem per descriure el món i substituir la visió patriarcal per una d’igualitària. 
+Haremos especial hincapié en la igualdad laboral. El empleo y la cultura empresarial tienen que ser los campos de acción para romper tanto la brecha salarial como el techo de cristal y el suelo pegajoso, así como otros elementos que frenan la igualdad en el mundo laboral. También en el ámbito del lenguaje y los medios. La comunicación es la forma con la que nos llega la información, por eso hay que incidir en las formas que utilizamos para describir el mundo y sustituir la visión patriarcal por otra igualitaria. 
 
 </div>
 
@@ -17,13 +17,13 @@ Farem especial incidència en la igualtat laboral. L'ocupació i la cultura empr
 
 #### Propostes
 
-1.	Impulsarem una nova Llei d’igualtat capdavantera en tot l’Estat que garantisca la igualtat real entre dones i homes des d’un vessant feminista, transversal i inclusiu per construir una societat realment democràtica.
-2.	Implementarem un programa d’educació afectiu-sexual a les aules, a partir dels 6 anys, com eina de prevenció de la violència masclista, de foment dels bons tractes i de dret a la sexualitat.
-3.	Reformarem la Llei d'igualtat estatal per garantir la paritat en els espais de decisió de tots els àmbits, incloent-hi les grans empreses. Així com, impulsarem un nou Pacte “Empresa i Gènere” que incloga la perspectiva de gènere en l’òptica empresarial i laboral amb mesures de corresponsabilitat, igualtat salarial i participació de les dones en els òrgans de decisió.
-4.	Desenvoluparem una estratègia valenciana per l’erradicació de la violència sexual que incorpore la prostitució com una forma de violència cap a les dones.
-5.	Desenvoluparem el Pacte valencià contra la violència de gènere i masclista, i el dotarem amb pressupost necessari perquè siga efectiu.
-6.	Implementació, en tres anys de forma progressiva, dels permisos iguals, intransferibles i irrenunciables per naixement, acolliment i adopció fins a les 24 setmanes per part de les dues persones progenitores. En el cas, de les famílies monoparentals, es disfrutará de la suma dels dos permisos. A més, en el cas, que els xiquets i xiquetes amb diversitat funcional o necessitats especials s’ampliarà fins a les 26 setmanes.
-7.	Crearem una programa específic contra l'escletxa salarial i lluitarem contra les formes de precarietat que castiguen especialment les dones.
-8.	Eliminarem de la normativa estatal l'obligatorietat de mantindre els concerts educatius als centres que segreguen l'alumnat per raó de sexe, i impulsarem mesures que enfortisquen la coeducació entre els xiquets i xiquetes.
+1.	Impulsaremos una nueva Ley de Igualdad puntera en todo el Estado que garantice la igualdad real entre mujeres y hombres desde una vertiente feminista, transversal e inclusiva para construir una sociedad realmente democrática.
+2.	Implementaremos un programa de educación afectivo-sexual a las aulas, a partir de los 6 años, como herramienta de prevención de la violencia machista, de fomento de los buenos tratos y de derecho a la sexualidad.
+3.	Reformaremos la Ley de Igualdad Estatal para garantizar la paridad en los espacios de decisión de todos los ámbitos, incluyendo las grandes empresas. Además, impulsaremos un nuevo Pacto “Empresa y Género” que incluya la perspectiva de género en la óptica empresarial y laboral con medidas de corresponsabilidad, igualdad salarial y participación de las mujeres en los órganos de decisión.
+4.	Desarrollaremos una estrategia valenciana para la erradicación de la violencia sexual que incorpore la prostitución como una forma de violencia hacia las mujeres.
+5.	Desarrollaremos el Pacto Valenciano contra la Violencia de Género y Machista, y lo dotaremos del presupuesto necesario para que sea efectivo.
+6.	Implementaremos, en tres años de forma progresiva, los permisos iguales, intransferibles e irrenunciables por nacimiento, acogida y adopción hasta las 24 semanas por parte de ambas personas progenitoras. En el caso de las familias monoparentales, se disfrutará de la suma de los dos permisos. Además, en el caso de los niños y niñas con diversidad funcional o necesidades especiales se ampliará hasta las 26 semanas.
+7.	Crearemos un programa específico contra la brecha salarial y lucharemos contra las formas de precariedad que castigan especialmente a las mujeres.
+8.	Eliminaremos de la normativa estatal la obligatoriedad de mantener los conciertos educativos a los centros que segregan el alumnado por razón de sexo, e impulsaremos medidas que fortalezcan la coeducación entre los niños y niñas.
 
 </div>
