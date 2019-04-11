@@ -8,11 +8,11 @@ import { addLocaleData } from "react-intl"
 import localeData from "react-intl/locale-data/ca"
 addLocaleData(localeData)
 
-export default ({...props}) => {
+export default ({data, ...props}) => {
   return (
     <Layout locale="ca" messages={messages}>
-      <SEO lang="ca" title="Programa 2019" />
-      <Programa isFrontPage={false} {...props} />
+      <SEO lang="ca" title={data.markdownRemark.frontmatter.title + " - Programa 2019"} />
+      <Programa isFrontPage={false} data={data} {...props} />
     </Layout>
   )
 }
