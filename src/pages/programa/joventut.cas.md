@@ -1,8 +1,8 @@
 ---
-title: "Territori"
-category: "Protegim la terra"
-order: 7
-class: "territori"
+title: "Joventut"
+category: "Garantim drets"
+order: 11
+class: "joventut"
 ---
 
 <div class="programa-intro">

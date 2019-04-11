@@ -3,6 +3,7 @@ import IntLink from "../components/elements/int-link"
 import { Link } from "gatsby"
 import { StickyContainer, Sticky } from "react-sticky"
 import { FaFileAlt } from "react-icons/fa"
+import { FormattedMessage } from "react-intl"
 
 const ProgramaList = ({ list, current }) => (
   <div className="programa-sections">
@@ -13,7 +14,7 @@ const ProgramaList = ({ list, current }) => (
 
 const ProgramaBlock = ({ fields, frontmatter, current }) => (
   <>
-    <div className={['programa-category', frontmatter['class']].join(' ')}>{ frontmatter.category }</div>
+    <div className={['programa-category', frontmatter['class'], current === frontmatter['class'] ? 'programa-current' : ''].join(' ')}>{ frontmatter.category }</div>
     <Link to={ fields.slug } className={['programa-block', frontmatter['class']].join(' ')}>
       <span>{ frontmatter.title }</span>
     </Link>
@@ -47,8 +48,7 @@ const Programa = ({ isFrontPage, data }) => (
                   <div className="programa-background d-none d-md-block" style={ isSticky ? {marginTop: 70} : null}>Programa<br />2019</div>
                   { data.markdownRemark ? <ProgramaList list={data.allMarkdownRemark.edges} current={false} /> : '' }
                   <ul className="programa-download">
-                    <li><a href="/"><FaFileAlt /> Descarrega en PDF</a> (Valencià)</li>
-                    <li><a href="/"><FaFileAlt /> Descargar en PDF</a> (Castellano)</li>
+                    <li><a href="/"><FaFileAlt /> <FormattedMessage id="programa_download" /></a></li>
                   </ul>
                 </div>
               </div>

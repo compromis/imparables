@@ -1,8 +1,8 @@
 ---
-title: "Territori"
+title: "Medi Ambient"
 category: "Protegim la terra"
-order: 7
-class: "territori"
+order: 6
+class: "medi-ambient"
 ---
 
 <div class="programa-intro">

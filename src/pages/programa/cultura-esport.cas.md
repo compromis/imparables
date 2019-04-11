@@ -1,8 +1,8 @@
 ---
-title: "Territori"
-category: "Protegim la terra"
-order: 7
-class: "territori"
+title: "Cultura i esport"
+category: "Cuidem de la gent"
+order: 4
+class: "cultura-esports"
 ---
 
 <div class="programa-intro">

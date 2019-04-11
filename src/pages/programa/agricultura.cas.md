@@ -1,8 +1,8 @@
 ---
-title: "Territori"
+title: "Agricultura"
 category: "Protegim la terra"
-order: 7
-class: "territori"
+order: 9
+class: "agricultura"
 ---
 
 <div class="programa-intro">

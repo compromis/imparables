@@ -92,7 +92,7 @@
       min-height: 7rem;
       background: $gray-200;
       color: $white;
-      border: .25rem $gray-200 solid;
+      border: .2rem $gray-200 solid;
       -webkit-box-decoration-break: clone;
       transition: .25s ease-in-out;
 
@@ -233,7 +233,7 @@
     color: $gray-800;
 
     &.serveis-socials,
-    &.canvi-climatic,
+    &.medi-ambient,
     &.drets-ciutadania {
       display: block;
     }
