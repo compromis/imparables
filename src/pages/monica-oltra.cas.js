@@ -5,6 +5,11 @@ import SEO from "../components/seo"
 import Presidenta from "../components/elements/presidenta"
 import MonicaPhoto from "../images/candidates/monica-oltra-2.jpg"
 import MonicaSignature from "../images/candidates/signatura-monica.svg"
+import FranPhoto from "../images/candidates/fran-ferri.jpg"
+import AitanaPhoto from "../images/candidates/aitana-mas.jpg"
+import MarzaPhoto from "../images/candidates/vicent-marza.jpg"
+import CandidateItem from "../components/candidate-list-item"
+
 import { FaFacebook, FaTwitter, FaInstagram } from "react-icons/fa"
 
 const IndexPage = () => (
@@ -53,6 +58,22 @@ const IndexPage = () => (
 
           <div className="embed-responsive embed-responsive-16by9">
             <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XJDvtP1PM8" frameBorder={0} allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" title="Vídeo 2 anys" allowFullScreen></iframe>
+          </div>
+        </div>
+        <div className="col-md-12 candidate-more">
+          <hr className="my-4" />
+
+          <h3>Candidatura a Corts</h3>
+          <div className="row candidate-list">
+            <div className="col-md-4">
+              <CandidateItem image={AitanaPhoto} name="Aitana Mas" id="aitanamas"  social={{facebook: 'aitana.mas', twitter: 'AitanaMas', instagram: 'aitana_mas'}} size="sm" />
+            </div>
+            <div className="col-md-4">
+              <CandidateItem image={FranPhoto} name="Fran Ferri" id="franferri" social={{facebook: 'fraferfa', twitter: 'franferri_', instagram: 'franferri'}} size="sm" />
+            </div>
+            <div className="col-md-4">
+              <CandidateItem image={MarzaPhoto} name="Vicent Marzà" id="vicentmarza" social={{facebook: 'vicentmarzaibanez', twitter: 'VicentMarza', instagram: 'vicentmarza'}} size="sm" />
+            </div>
           </div>
         </div>
       </div>

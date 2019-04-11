@@ -30,21 +30,21 @@ const CandidateList = () => (
     </div>
     <div className="row">
       <div className="col-lg-4">    
-        <CandidateItem image={AitanaPhoto} name="Aitana Mas" id="aitanamas" size="sm" />
+        <CandidateItem image={AitanaPhoto} name="Aitana Mas" id="aitanamas" social={{facebook: 'aitana.mas', twitter: 'AitanaMas', instagram: 'aitana_mas'}} size="sm" />
       </div>
       <div className="col-lg-4">    
-        <CandidateItem image={FranPhoto} name="Fran Ferri" id="franferri" size="sm" />
+        <CandidateItem image={FranPhoto} name="Fran Ferri" id="franferri" social={{facebook: 'fraferfa', twitter: 'franferri_', instagram: 'franferri'}} size="sm" />
       </div>
       <div className="col-lg-4">    
-        <CandidateItem image={MarzaPhoto} name="Vicent Marzà" id="vicentmarza" size="sm" />
+        <CandidateItem image={MarzaPhoto} name="Vicent Marzà" id="vicentmarza" social={{facebook: 'vicentmarzaibanez', twitter: 'VicentMarza', instagram: 'vicentmarza'}} size="sm" />
       </div>
     </div>
     <div className="row">
       <div className="col-lg-4 offset-lg-2">
-        <CandidateItem image={IgnasiPhoto} name="Ignasi Candela" id="ignasicandela" size="sm" />
+        <CandidateItem image={IgnasiPhoto} name="Ignasi Candela" id="ignasicandela" social={{facebook: 'IgnasiCandelaSerna', twitter: 'IgnasiCandela', instagram: 'ignasi_candela_serna'}} size="sm" />
       </div>
       <div className="col-lg-4">
-        <CandidateItem image={MartaPhoto} name="Marta Sorlí" id="martasorli" size="sm" />
+        <CandidateItem image={MartaPhoto} name="Marta Sorlí" id="martasorli" social={{facebook: 'martasorlifresquet', twitter: 'MartaSorli_', instagram: 'martasorli_'}} size="sm" />
       </div>
     </div>
   </div>

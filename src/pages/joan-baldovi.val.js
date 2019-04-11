@@ -5,6 +5,10 @@ import SEO from "../components/seo"
 import ImparablesShort from "../components/elements/imparables-short"
 import BaldoPhoto from "../images/candidates/joan-baldovi-2.jpg"
 import BaldoSignature from "../images/candidates/signature-baldo.svg"
+import IgnasiPhoto from "../images/candidates/ignasi-candela.jpg"
+import MartaPhoto from "../images/candidates/marta-sorli.jpg"
+import CandidateItem from "../components/candidate-list-item"
+
 import { FaFacebook, FaTwitter, FaInstagram } from "react-icons/fa"
 
 const IndexPage = () => (
@@ -54,6 +58,19 @@ const IndexPage = () => (
 
           <div className="embed-responsive embed-responsive-16by9">
             <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YV9Z-lsRRY4" frameBorder={0} allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" title="Vídeo 2 anys" allowFullScreen></iframe>
+          </div>
+        </div>
+        <div className="col-md-12 candidate-more">
+          <hr className="my-4" />
+
+          <h3>Candidatura al Congrés</h3>
+          <div className="row candidate-list">
+            <div className="col-md-4">
+              <CandidateItem image={IgnasiPhoto} name="Ignasi Candela" id="ignasicandela" social={{facebook: 'IgnasiCandelaSerna', twitter: 'IgnasiCandela', instagram: 'ignasi_candela_serna'}} size="sm" />
+            </div>
+            <div className="col-md-4">
+              <CandidateItem image={MartaPhoto} name="Marta Sorlí" id="martasorli" social={{facebook: 'martasorlifresquet', twitter: 'MartaSorli_', instagram: 'martasorli_'}} size="sm" />
+            </div>
           </div>
         </div>
       </div>

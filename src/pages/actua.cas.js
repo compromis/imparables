@@ -6,7 +6,7 @@ import TakeAction from "../components/take-action"
 
 const ActuaPage = () => (
   <Layout>
-    <SEO lang="es" title="Actua!" />
+    <SEO lang="es" title="Actúa!" />
     <TakeAction />
   </Layout>
 )

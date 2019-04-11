@@ -44,14 +44,14 @@ class Candidates extends React.Component {
               <div className="candidates-img candidates-img-monica"></div>
               <div className="candidates-txt">
                 <h2>Mónica Oltra</h2>
-                <p><FormattedMessage id="candidates_monica_desc" /></p>
+                <p><FormattedMessage id="candidates_monicaoltra_desc" /></p>
               </div>
             </IntLink>
             <IntLink to="/joan-baldovi" onMouseEnter={() => this.focusCandidate('baldo')} className={['candidates-img-wrapper', focused === 'baldo' ? 'focused' : ''].join(' ')}>
               <div className="candidates-img candidates-img-baldo"></div>
               <div className="candidates-txt">
                 <h2>Joan Baldoví</h2>
-                <p><FormattedMessage id="candidates_baldo_desc" /></p>
+                <p><FormattedMessage id="candidates_joanbaldovi_desc" /></p>
               </div>  
             </IntLink>
             <IntLink to="/candidatura" className="candidates-all"><FormattedMessage id="candidates_all" /></IntLink>
