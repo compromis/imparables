@@ -4,7 +4,7 @@ module.exports = {
     description: `Amb tu, podrem continuar millorant la vida de les persones. Aquest 28 d'abril, serem #Imparables`,
     keywords: [`compromís`, `28 abril`, `eleccions autonòmiques`, `eleccions generals`, `mónica oltra`, `joan baldoví`, `mónica presidenta`],
     author: `@compromis`,
-    image: 'https://imparables.compromis.net/images/thumbnail.png'
+    image: 'https://imparables.compromis.net/images/thumbnail.jpg'
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
