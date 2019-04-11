@@ -36,7 +36,24 @@ module.exports = {
       options: {
         langKeyDefault: 'val',
         useLangKeyLayout: true,
-        prefixDefault: false
+        prefixDefault: false,
+        markdownRemark: {
+          postPage: 'src/templates/programa-section.val.js',
+          query: `
+          {
+            allMarkdownRemark {
+              edges {
+                node {
+                  fields {
+                    slug,
+                    langKey
+                  }
+                }
+              }
+            }
+          }
+          `
+        }
       }
     },
     {

@@ -17,6 +17,7 @@ const Hero = () => (
     </div>
     <div className="hero-video">
       <iframe
+        title="Imparables"
         src="https://player.vimeo.com/video/329846976?background=1&autoplay=1&loop=1&byline=0&title=0"
         frameBorder={0}
         allowFullScreen>
