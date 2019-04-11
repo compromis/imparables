@@ -4,10 +4,6 @@ import Imparables from "./elements/imparables"
 import { FormattedMessage } from "react-intl"
 import Fade from "react-reveal/Fade"
 
-import VideoMp4 from "../video/hero.mp4"
-import VideoWebM from "../video/hero.webm"
-import VideoCover from "../images/candidates/monica-oltra.jpg"
-
 const Hero = () => (
   <div className="hero">
     <div className="container-fluid hero-content">
@@ -20,10 +16,11 @@ const Hero = () => (
       </ul>
     </div>
     <div className="hero-video">
-      <video autoPlay loop poster={VideoCover}>
-        <source src={VideoWebM} type="video/webm" />
-        <source src={VideoMp4} type="video/mp4" />
-      </video>
+      <iframe
+        src="https://player.vimeo.com/video/329846976?background=1&autoplay=1&loop=1&byline=0&title=0"
+        frameBorder={0}
+        allowFullScreen>
+      </iframe>
     </div>
   </div>
 )
