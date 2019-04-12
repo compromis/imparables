@@ -6,7 +6,7 @@ import Fade from "react-reveal/Fade"
 
 import VideoMp4 from "../Video/hero.mp4"
 import VideoWebM from "../Video/hero.webm"
-import VideoCover from "../images/candidates/monica-oltra.jpg"
+import VideoCover from "../Video/poster.jpg"
 
 const Hero = () => (
   <div className="hero">
