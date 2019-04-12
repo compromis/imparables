@@ -32,11 +32,11 @@ class CandidateItem extends React.Component {
 
     return (
       <CandidateItemWrapper to={to} className={['candidate-list-item', 'candidate-list-item-' + size].join(' ')}>
-        <div className="candidate-list-item-image" onClick={() => { this.toggleBio()}} >
+        <div className="candidate-list-item-image" onClick={() => {this.toggleBio()}} >
           <img src={image} alt={name} />
         </div>
         <div className="candidate-list-item-name">
-          <h3 onClick={() => { this.toggleBio()}}>{name}</h3>
+          <h3 onClick={() => {this.toggleBio()}}>{name}</h3>
           <p className="candidate-list-item-description"><FormattedMessage id={'candidates_' + id + '_desc'} /></p>
           <div className={['candidate-list-item-bio', bioDisplayed ? '' : 'd-none'].join(' ')}>
             { social ? 

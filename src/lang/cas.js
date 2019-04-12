@@ -29,7 +29,7 @@ module.exports = {
   programa_download: "Libro de medidas",
   actions_title: "¡Actúa!",
   actions_donate_title: "Ayúdanos a hacer la campaña",
-  actions_donate_text: "Con una simple donación, ayudas a hacer a Mónica Oltra Preisdenta de la Generalitat y a Joan Baldoví portavoz del primer grupo valenciano en el Congreso.",
+  actions_donate_text: "Con una simple donación, ayudas a hacer a Mónica Oltra Presidenta de la Generalitat y a Joan Baldoví portavoz del primer grupo valenciano en el Congreso.",
   actions_donate_other: "Otra ...",
   actions_observers_title: "Sé garantía de democracia",
   actions_observers_text: "El 28 de abril, hazte interventor/a o apoderado/a de Compromís para garantizar que cada voto cuente.",

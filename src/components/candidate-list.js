@@ -40,7 +40,7 @@ const CandidateList = () => (
       </div>
     </div>
     <div className="row">
-      <div className="col-lg-4 offset-lg-2">
+      <div className="col-lg-4">
         <CandidateItem image={IgnasiPhoto} name="Ignasi Candela" id="ignasicandela" social={{facebook: 'IgnasiCandelaSerna', twitter: 'IgnasiCandela', instagram: 'ignasi_candela_serna'}} size="sm" />
       </div>
       <div className="col-lg-4">
