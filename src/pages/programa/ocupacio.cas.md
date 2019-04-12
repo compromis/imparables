@@ -1,30 +1,30 @@
 ---
-title: "Ocupació"
-category: "Cuidem de la gent"
+title: "Empleo"
+category: "Cuidamos de la gente"
 order: 5
 class: "ocupacio"
 ---
 
 <div class="programa-intro">
 
-Els darrers anys hem experimentat transformacions econòmiques estructurals que han modificat el mercat de treball: la globalització i l’extensió de les noves tecnologies, l’automatització i la precarització. També hem experimentat, però, la inclusió en el debat de la sostenibilitat ambiental, la perspectiva de gènere, la inclusió social i la conciliació, entre d’altres.
+Estos últimos años hemos experimentado transformaciones económicas estructurales que han modificado el mercado de trabajo: la globalización y la extensión de las nuevas tecnologías, la automatización y la precarización. También hemos experimentado, sin embargo, la inclusión en el debate de la sostenibilidad ambiental, la perspectiva de género, la inclusión social y la conciliación, entre otros.
 
-Cal aplicar mesures concretes per generar ocupació estable i de qualitat, que reduïsquen la taxa d’atur sense caure en una precarietat que afecte a les capes més vulnerables de la societat.  Les persones, les seues oportunitats i el seu benestar han d’estar en el centre de les polítiques d’ocupació. 
+Hace falta aplicar medidas concretas para generar empleo estable y de calidad, que reduzcan la tasa de paro sin caer en una precariedad que afecte a las capas más vulnerables de la sociedad. Las personas, sus oportunidades y su bienestar tienen que estar en el centro de las políticas de empleo. 
 
 </div>
 
 <div class="programa-box">
 
-#### Propostes
+#### Propuestas
 
-1.	Elaborarem una Llei valenciana d’ocupació que estructure tot el sistema d’agents i institucions que intervenen en matèria de polítiques d’ocupació i desenvolupament territorial.
-2.	Proposarem l’establiment, a nivell estatal, de la jornada laboral de 32 hores com a instrument per a la creació d'ocupació. Mentrestant, des de la Generalitat posarem en marxa un programa d’ajudes per empreses que vulguen, voluntàriament, reduir la seua jornada laboral, tot mantenint els salaris i creant nous llocs de treball.
-3.	Treballarem contra la precarietat a través d’ajudes i programes específics que subvencionen la contractació estable i de qualitat.
-4.	Impulsarem un programa de control i sancions per evitar les hores extra no remunerades. 
-5.	Incidirem en la incorporació de la perspectiva de gènere en tots els programes d’ocupació com a eina per a facilitar la inclusió sociolaboral de les dones
-6.	Intensificarem les campanyes d’inspecció i prevenció de l’economia irregular, principalment en aquells sectors amb més incidència i en els quals les dones es veuen més afectades. Introduirem sessions formatives en drets laborals adreçades a l’alumnat de les últimes etapes obligatòries.
-7.	Derogarem les reformes laborals dutes a terme pels governs del PP i el PSOE, i promourem una nou marc laboral que recupere els drets de les persones treballadores per impulsar una economia sostenible.
-8.	Impulsarem polítiques de reconeixement dels drets de les persones treballadores de la llar, tot exigint la ratificació del Conveni 189 de l’Organització Internacional del Treball.
-9.	Exigirem el traspàs de la inspecció de treball a aquelles comunitats autònomes que ho demanen, amb l’establiment de mecanismes de coordinació en l’àmbit estatal.
+1.	Elaboraremos una Ley Valenciana de Empleo que estructure todo el sistema de agentes e instituciones que intervienen en materia de políticas de empleo y desarrollo territorial.
+2.	Propondremos el establecimiento, a nivel estatal, de la jornada laboral de 32 horas como instrumento para la creación de empleo. Mientras tanto, desde la Generalitat pondremos en marcha un programa de ayudas para empresas que quieran, voluntariamente, reducir su jornada laboral, manteniendo los salarios y creando nuevos puestos de trabajo.
+3.	Trabajaremos contra la precariedad mediante ayudas y programas específicos que subvencionen la contratación estable y de calidad.
+4.	Impulsaremos un programa de control y sanciones para evitar las horas extra no remuneradas. 
+5.	Incidiremos en la incorporación de la perspectiva de género en todos los programas de empleo como herramienta para facilitar la inclusión sociolaboral de las mujeres.
+6.	Intensificaremos las campañas de inspección y prevención de la economía irregular, principalmente en aquellos sectores con más incidencia y en los que las mujeres se ven más afectadas. Introduciremos sesiones formativas en derechos laborales dirigidas al alumnado de las últimas etapas obligatorias.
+7.	Derogaremos las reformas laborales desarrolladas por los gobiernos del PP y el PSOE, y promoveremos un nuevo marco laboral que recupere los derechos de las personas trabajadoras para impulsar una economía sostenible.
+8.	Impulsaremos políticas de reconocimiento de los derechos de las personas trabajadoras del hogar, exigiendo la ratificación del Convenio 189 de la Organización Internacional del Trabajo.
+9.	Exigiremos el traspaso de la inspección de trabajo a aquellas comunidades autónomas que lo pidan, con el establecimiento de mecanismos de coordinación en el ámbito estatal.
 
 </div>

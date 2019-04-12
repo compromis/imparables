@@ -1,29 +1,29 @@
 ---
-title: "Joventut"
-category: "Garantim drets"
+title: "Juventud"
+category: "Garantizamos derechos"
 order: 11
 class: "joventut"
 ---
 
 <div class="programa-intro">
 
-La joventut valenciana volem tindre la garantia de poder definir i construir el nostre projecte vital, individual i col·lectiu, en igualtat d’oportunitats, considerant el nostre origen, situació social i context. Per respondre a aquest objectiu apostem per unes polítiques de joventut integrals, que ens consideren a les persones joves com a subjectes des de totes les dimensions: educativa, laboral, emancipadora, d’oci i de salut.
+La juventud valenciana queremos tener la garantía de poder definir y construir nuestro proyecto vital, individual y colectivo, en igualdad de oportunidades, considerando nuestro origen, situación social y contexto. Para responder a este objetivo apostamos por unas políticas de juventud integrales, que nos consideren a las personas jóvenes como sujetos desde todas las dimensiones: educativa, laboral, emancipadora, de ocio y de salud.
 
-A més, aquestes polítiques de joventut han d’estar ben coordinades, suficientment finançades, i han de ser protagonistes de l’agenda de la Generalitat i de tots els seus departaments.
+Además, estas políticas de juventud deben estar muy coordinadas, suficientemente financiadas, y tienen que ser protagonistas de la agenda de la Generalitat y de todos sus departamentos.
 
 </div>
 
 <div class="programa-box">
 
-#### Propostes
+#### Propuestas
 
-1.	Desenvoluparem l’Estratègia Valenciana de la Joventut com a eix vertebrador de les polítiques de joventut de la Generalitat, amb el pressupost necessari per a la seua execució.
-2.	Crearem un Observatori de la Joventut al si de l'IVAJ, amb capacitat per a realitzar estudis i conéixer la realitat de la joventut valenciana i per orientar les polítiques de totes les conselleries.
-3.	Integrarem en un únic abonament de transport, amb tarifa reduïda, l'ús de les diferents modalitats de transport públic per tal de fomentar el seu ús, lluitar contra el canvi climàtic i garantir el dret a la mobilitat de la joventut valenciana.
-4.	Fomentarem la creació de projectes empresarials joves, especialment a través de cooperatives, facilitant la cessió d’espais públics de treball compartit i acompanyant-los durant tot el seu procés de creació i consolidació.
-5.	Incrementarem el pressupost de la línia d’ajudes específica per facilitar l'accés dels i les joves a un habitatge digne a través de lloguer, establint criteris de renda; crearem una xarxa d'habitatge públic i exigirem un 30% d'habitatge protegit en les noves promocions i un 7% específic per a joves.
-6.	Ampliarem els recursos i personal de la Xarxa Jove i dels Centres d’Informació Juvenil (CIJ) i crearem una mesa entre les entitats juvenils d’oci educatiu i l’IVAJ.
-7.	Modificarem la Llei orgànica del règim electoral general per establir el dret a vot en els 16 anys.
-8.	Exigirem al govern central la modificació del Programa de Garantia Juvenil amb una major dotació per a les polítiques actives d'ocupació de la joventut i una major participació en el programa de les comunitats autònomes i dels instruments de participació jove.
+1.	Desarrollaremos la Estrategia Valenciana de la Juventud como eje vertebrador de las políticas de juventud de la Generalitat, con el presupuesto necesario para su ejecución.
+2.	Crearemos un Observatorio de la Juventud en el seno del IVAJ, con capacidad para realizar estudios y conocer la realidad de la juventud valenciana y para orientar las políticas de todas las Conselleries.
+3.	Integraremos en un único abono de transporte, con tarifa reducida, el uso de las distintas modalidades de transporte público para fomentar su uso, luchar contra el cambio climático y garantizar el derecho a la movilidad de la juventud valenciana.
+4.	Fomentaremos la creación de proyectos empresariales jóvenes, especialmente a través de cooperativas, facilitando la cesión de espacios públicos de trabajo compartido y acompañándolos durando todo su proceso de creación y consolidación.
+5.	Incrementaremos el presupuesto de la línea de ayudas específica para facilitar el acceso de los jóvenes y las jóvenes a una vivienda digna a través del alquiler, estableciendo criterios de renta; crearemos una red de vivienda pública y exigiremos un 30% de vivienda de protección oficial en las nuevas promociones y un 7% específico para jóvenes.
+6.	Ampliaremos los recursos y el personal de la Red Joven y de los Centros de Información Juvenil (CIJ) y crearemos una mesa entre las entidades juveniles de ocio educativo y el IVAJ.
+7.	Modificaremos la Ley Orgánica del Régimen Electoral General para establecer el derecho a voto en los 16 años.
+8.	Exigiremos al Gobierno central la modificación del Programa de Garantía Juvenil con una mayor dotación para las políticas activas de empleo de la juventud y una mayor participación en el programa de las comunidades autónomas y de los instrumentos de participación joven.
 
 </div>

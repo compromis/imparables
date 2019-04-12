@@ -1,34 +1,34 @@
 ---
-title: "Serveis socials"
-category: "Cuidem de la gent"
+title: "Servicios sociales"
+category: "Cuidamos de la gente"
 order: 1
 class: "serveis-socials"
 ---
 
 <div class="programa-intro">
 
-L’aprovació de la Llei de serveis socials inclusius suposa crear, estructurar i generar un vertader Sistema Públic de Serveis Socials que els reconeix com d’interés general i essencials per a les persones, i garanteix l’exercici efectiu dels seus drets fonamentals i un elevat nivell de protecció social, que reforça la cohesió social i territorial.
+La aprobación de la Ley de Servicios Sociales Inclusivos supone crear, estructurar y generar un verdadero Sistema Público de Servicios Sociales que los reconoce como de interés general y esenciales para las personas, y garantiza el ejercicio efectivo de sus derechos fundamentales y un elevado nivel de protección social, que refuerza la cohesión social y territorial.
 
-Recuperem la centralitat de la persona en tot el sistema, garantint els seus drets i oferint una atenció continuada al llarg del seu cicle vital, amb l’acompanyament de professionals.
+Recuperamos la centralidad de la persona en todo el sistema, garantizando sus derechos y ofreciendo una atención continuada a lo largo de su ciclo vital, con el acompañamiento de profesionales.
 
-Les polítiques inclusives també incorporen les propostes en matèria de solucions residencials i d'habitatge públic  i de 
-migració i cooperació internacional, perquè són una continuïtat dels drets socials.
+Las políticas inclusivas también incorporan las propuestas en materia de soluciones residenciales y de vivienda pública y de migración y cooperación internacional, porque son una continuidad de los derechos sociales.
 
 </div>
 
 <div class="programa-box">
 
-#### Propostes
+#### Propuestas
 
-1.	Desplegarem intensament la nova Llei de serveis socials inclusius, per garantir els drets socials de la ciutadania. En aquest sentit, dissenyarem el Sistema d'Informació Valencià en Serveis Socials, per poder desenvolupar la Història Social Única, i crearem el Comité Valencià d'Ètica per vetlar per un funcionament professional i de qualitat, amb garanties i empatia en els serveis socials.
-2.	Potenciarem i implementarem el Pla Valencià d’Inclusió i Cohesió Social com a full de ruta compartit del govern i la societat civil, per garantir una societat més justa, igualitària i feliç.
-3.	Regularem la professionalització de les persones cuidadores en l'entorn familiar.
-4.	Posarem en marxa, en col·laboració amb les diputacions provincials, una xarxa de centres socials públics, comarcals, basats en un model que fomente l'autonomia personal, la solidaritat intergeneracional i evite el desarrelament.
-5.	Impulsarem l'Estratègia Estatal d’Envelliment Actiu 2020-2025 la qual, junt als programes d’estances vacacionals i el termalisme, incloga una programació cultural, esportiva i social que fomente l’envelliment actiu, saludable i inclusiu.
-6.	Flexibilitzarem la regla de despesa que actualment s'aplica als ajuntaments i que dificulta la reinversió dels superàvits, perquè es puguen destinar recursos a habitatge i lloguer social.
-7.	Elaborarem i posarem en marxa la Llei valenciana d'accessibilitat universal, per garantir els drets de les persones en el seu accés a tots els espais públics i privats, entorns naturals, sistemes de transport, mitjans de comunicació i serveis d’atenció a la ciutadania.
-8.	Desenvoluparem la Llei per la funció social de l'habitatge, per fer efectiu el dret a un habitatge digne i acabar amb els desnonaments de les persones més vulnerables de la societat. En aquesta línia, ampliarem el parc públic d'habitatges per posar-lo a disposició del lloguer social i del lloguer assequible, de manera que cap unitat familiar hi destine més del 30% dels ingressos.
-9.	Promourem una Llei estatal que garantisca el dret a un habitatge digne, que contemple la regulació del preu del lloguer, la dació en pagament de la primera vivenda, la destinació d'un 30% de la nova construcció a vivenda protegida, de la qual un 7% anirà destinada a lloguer jove, i que ature els desnonaments.
-10.	Simplificarem i unificarem les diferents prestacions per desocupació de llarga durada, com la renda activa d’inserció (RAI) i el programa d'activació per a l’ocupació (PAO),  i  el dotarem de major estabilitat i el referenciarem al 60% del SMI. A més, afegirem un increment sobre la prestació del 20% per cada filla o fill menor d’edat, i facilitarem la complementarietat amb la Renda Valenciana d’Inclusió.
+1.	Desplegaremos intensamente la nueva Ley de Servicios Sociales Inclusivos, para garantizar los derechos sociales de la ciudadanía. En este sentido, diseñaremos el Sistema de Información Valenciano en Servicios Sociales, para poder desarrollar la Historia Social Única, y crearemos el Comité Valenciano de Ética para velar por un funcionamiento profesional y de calidad, con garantías y empatía en los servicios sociales.
+2.	Potenciaremos e implementaremos el Plan Valenciano de Inclusión y Cohesión Social como hoja de ruta compartida del Govern y la sociedad civil, para garantizar una sociedad más justa, igualitaria y feliz.
+3.	Regularemos la profesionalización de las personas cuidadoras en el entorno familiar.
+4.	Pondremos en marcha, en colaboración con las diputaciones provinciales, una red de centros sociales públicos, comarcales, basados en un modelo que fomente la autonomía personal, la solidaridad intergeneracional y evite el desarraigo.
+5.	Impulsaremos la Estrategia Estatal de Envejecimiento Activo 2020-2025 que incluya, junto a los programas de estancias vacacionales y el termalismo, una programación cultural, deportiva y social que fomente el envejecimiento activo, saludable e inclusivo.
+6.	Flexibilizaremos la regla de gasto que actualmente se aplica en los ayuntamientos y que dificulta la reinversión de los superávits, para que se puedan destinar recursos a vivienda y alquiler social.
+7.	Elaboraremos y pondremos en marcha la Ley Valenciana de Accesibilidad Universal, para garantizar los derechos de las personas en su acceso a todos los espacios públicos y privados, entornos naturales, sistemas de transporte, medios de comunicación y servicios de atención a la ciudadanía.
+8.	Desarrollaremos la Ley para la Función Social de la Vivienda, para hacer efectivo el derecho a una vivienda digna y acabar con los desahucios de las personas más vulnerables de la sociedad. En esta línea, ampliaremos el parque público de viviendas para ponerlo a disposición del alquiler social y del alquiler asequible, de forma que ninguna unidad familiar destine más del 30% de los ingresos.
+9.	Promoveremos una ley estatal que garantice el derecho a una vivienda digna; que contemple la regulación del precio del alquiler, la dación en pago de la primera vivienda, la destinación de un 30% de la nueva construcción a vivienda protegida, de la cual un 7% irá destinada a alquiler joven; y que pare los desahucios.
+10.	Simplificaremos y unificaremos las distintas prestaciones por desempleo de larga duración, como la renta activa de inserción (RAI) y el programa de activación para el empleo (PAE), y lo dotaremos de mayor estabilidad y lo referenciaremos al 60% del SMI. Además, añadiremos un incremento sobre la prestación del 20% por cada hija o hijo menor de edad, y facilitaremos la complementariedad con la Renta Valenciana de Inclusión.
+11.	Continuaremos desplegando la Ley Valenciana de Cooperación y Desarrollo Sostenible y el IV Plan Director de la Cooperación Valenciana para cumplir los compromisos del Pacto Valenciano contra la Pobreza y promover el desarrollo humano sostenible. Impulsaremos procesos de democratización, buen gobierno, fomento de la paz y el respecto de los derechos humanos de las mujeres y de los hombres, que consideran a las personas como titulares de derechos y a las administraciones como titulares de obligaciones.
 
 </div>

@@ -1,33 +1,33 @@
 ---
 title: "Agricultura"
-category: "Protegim la terra"
+category: "Protegemos la tierra"
 order: 9
 class: "agricultura"
 ---
 
 <div class="programa-intro">
 
-L’agricultura, la ramaderia, la pesca i el desenvolupament rural constitueixen una part fonamental de la nostra economia, del nostre paisatge i de la nostra manera d’entendre el món. Les persones han de poder viure del camp, per això l’aplicació de polítiques encaminades a la seua sostenibilitat són fonamentals per garantir un territori amb futur i que al mateix temps genere oportunitats laborals dignes.
+La agricultura, la ganadería, la pesca y el desarrollo rural constituyen una parte fundamental de nuestra economía, de nuestro paisaje y de nuestra manera de entender el mundo. Las personas tienen que poder vivir del campo, por eso la aplicación de políticas encaminadas a su sostenibilidad es fundamental para garantizar un territorio con futuro y que a su vez genere oportunidades laborales dignas.
 
-Les condicions naturals del País Valencià han consolidat al llarg del temps un sector econòmic clau i potent com és l’agroalimentari, essencial i estratègic per a la nostra comunitat a molts nivells: polític, territorial, econòmic, social i ambiental. L’estima per la terra implica un sentiment comú de defensa del territori.
+Las condiciones naturales del País Valenciano han consolidado a lo largo del tiempo un sector económico clave y potente como es el agroalimentario, esencial y estratégico para nuestra comunidad a muchos niveles: político, territorial, económico, social y ambiental. El amor por la tierra implica un sentimiento común de defensa del territorio.
 
 </div>
 
 <div class="programa-box">
 
-#### Propostes
+#### Propuestas
 
-1.	Impulsarem la Llei per a les eleccions al camp valencià i el Consell Agrari Valencià, com a òrgan consultiu de la Conselleria, amb representació de les organitzacions professionals agràries més representatives. A més, promourem el Consell Agroalimentari Valencià:  un instrument de participació i consulta amb presència de les entitats representatives en l’àmbit del món rural i la cadena alimentària.
-2.	Millorarem el model de servei del sector agrari, mitjançant la reactivació de les oficines comarcals com a oficines d’atenció i promoció del sector primari valencià, desenvolupant un paper impulsor i promotor del sector agroalimentari i del medi rural valencià.
-3.	Incorporarem especialistes en matèria agrària a l’Oficina de la Comunitat Valenciana a Brussel·les, nexe de la Generalitat Valenciana amb la UE i els subsectors agraris valencians, referència i vehicle per la vertebració dels subsectors agraris valencians, amb l’objecte d’articular un lobby valencià real a les institucions comunitàries. 
-4.	Impulsarem una estratègia per a la indústria agroalimentària valenciana basada en el producte de proximitat, de qualitat i ecològic, prioritzant el finançament d’inversions i/o nous projectes que donen valor a la cadena.
-5.	Elaborarem una Llei valenciana d’estructures comercials que unifique la legislació actual i incorpore una nova regulació sobre mercats locals i de proximitat, així com mesures de millora de la competitivitat.
-6.	Impulsarem iniciatives per a la conversió de l’agricultura de secà i la ramaderia extensiva cap a la producció ecològica, que haurà de contemplar mesures econòmiques i fiscals, mesures de R+D+i i de formació continuada i instruments de finançament.
-7.	Implementarem la Llei d’estructures agràries de la Comunitat Valenciana, que afavorirà la viabilitat i racionalitat de les explotacions agràries, mantenint la biodiversitat dels agrosistemes, béns patrimonials i tots aquells factors de diferenciació que vagen en benefici de la qualitat agroalimentària.
-8.	Promourem la Llei de pasturatge racional, en la qual es reconega el seu valor ambiental, amb l’equilibri de les càrregues ramaderes a les nostres muntanyes, i es garantisquen els serveis necessaris per a la transhumància, transtermitància i la pastura.
-9.	Desenvoluparem la Llei de pesca marítima i aqüicultura per promoure la diversificació de l’activitat pesquera l’atur biològic i el foment de la gastronomia i el turisme d’aquest sector primari.
-10.	Presentarem el Pla director citrícola de la Comunitat Valenciana (2019-2023), amb l'objectiu de millorar la posició competitiva de la citricultura valenciana.
-11.	Defensarem que l’agroalimentació quede fora del acords comercials extracomunitaris per protegir la seguretat fitosanitària i alimentària de les nostres produccions, la sobirania alimentària i el futur del món agrari i el seu desenvolupament rural; així com tots els serveis ecosistèmics que aporta al conjunt de la UE.
-12.	Reclamarem al govern de l’Estat que recupere les taxes d’inversió pressupostària per tal de realitzar polítiques efectives de manteniment i defensa dels recursos agraris, ramaders, forestals i pesquers.
+1.	Impulsaremos la Ley para las Elecciones en el Campo Valenciano y el Consejo Agrario Valenciano, como órgano consultivo de la Conselleria, con representación de las organizaciones profesionales agrarias más representativas. Además, promoveremos el Consejo Agroalimentario Valenciano: un instrumento de participación y consulta con presencia de las entidades representativas en el ámbito del mundo rural y la cadena alimentaria.
+2.	Mejoraremos el modelo de servicio del sector agrario, mediante la reactivación de las oficinas comarcales como oficinas de atención y promoción del sector primario valenciano, desarrollando un papel impulsor y promotor del sector agroalimentario y del medio rural valenciano.
+3.	Incorporaremos especialistas en materia agraria a la Oficina de la Comunidad Valenciana en Bruselas, nexo de la Generalitat Valenciana con la UE y los subsectores agrarios valencianos, referencia y vehículo para la vertebración de los subsectores agrarios valencianos, con el objeto de articular un lobby valenciano real a las instituciones comunitarias. 
+4.	Impulsaremos una estrategia para la industria agroalimentaria valenciana basada en el producto de proximidad, de calidad y ecológico, priorizando la financiación de inversiones y/o nuevos proyectos que den valor a la cadena.
+5.	Elaboraremos una Ley Valenciana de Estructuras Comerciales que unifique la legislación actual e incorpore una nueva regulación sobre mercados locales y de proximidad, así como medidas de mejora de la competitividad.
+6.	Impulsaremos iniciativas para la conversión de la agricultura de secano y la ganadería extensiva hacia la producción ecológica, que tendrá que contemplar medidas económicas y fiscales, medidas de I+D+i y de formación continuada e instrumentos de financiación.
+7.	Implementaremos la Ley de Estructuras Agrarias de la Comunidad Valenciana, que favorecerá la viabilidad y racionalidad de las explotaciones agrarias, manteniendo la biodiversidad de los agrosistemas, bienes patrimoniales y todos aquellos factores de diferenciación que vayan en beneficio de la calidad agroalimentaria.
+8.	Promoveremos la Ley de Pastoreo Racional, en la que se reconozca su valor ambiental, con el equilibrio de las cargas ganaderas a nuestras montañas, y se garanticen los servicios necesarios para la trashumancia, la transtermitancia y el pasto.
+9.	Desarrollaremos la Ley de Pesca Marítima y Acuicultura para promover la diversificación de la actividad pesquera, el paro biológico y el fomento de la gastronomía y el turismo de este sector primario.
+10.	Presentaremos el Plan Director Citrícola de la Comunidad Valenciana (2019-2023), con el objetivo de mejorar la posición competitiva de la citricultura valenciana.
+11.	Defenderemos que la agroalimentación quede fuera de los acuerdos comerciales extracomunitarios para proteger la seguridad fitosanitaria y alimentaria de nuestras producciones, la soberanía alimentaria y el futuro del mundo agrario y su desarrollo rural; así como todos los servicios ecosistémicos que aporta al conjunto de la UE.
+12.	Reclamaremos al Gobierno del Estado que recupere las tasas de inversión presupuestaria para realizar políticas efectivas de mantenimiento y defensa de los recursos agrarios, ganaderos, forestales y pesqueros.
 
 </div>

@@ -7,7 +7,7 @@ class: "salut"
 
 <div class="programa-intro">
 
-Considerem que la salut i el benestar de les persones és un valor essencial que cal preservar i promoure en tots els àmbits de la vida. Assolir aquest objectiu exigeix  polítiques integrals de salut pública que comencen en les accions de prevenció de danys i de promoció de la salut en l'àmbit laboral. La Generalitat ha de  liderar de manera efectiva la prevenció dels riscos laborals i la promoció de la salut i el benestar de la població treballadora.
+Considerem que la salut i el benestar de les persones són un valor essencial que cal preservar i promoure en tots els àmbits de la vida. Assolir aquest objectiu exigeix polítiques integrals de salut pública que comencen en les accions de prevenció de danys i de promoció de la salut en l'àmbit laboral. La Generalitat ha de  liderar de manera efectiva la prevenció dels riscos laborals i la promoció de la salut i el benestar de la població treballadora.
 
 Defensarem la promoció de la salut com a model útil i necessari per protegir i millorar la salut de les persones, i ens comprometem a reforçar en els entorns de vida, estudi, oci i treball aquells recursos i actius que contribuïsquen a mantindre la salut individual i col·lectiva.
 
