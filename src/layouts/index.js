@@ -4,6 +4,7 @@ import { StaticQuery, graphql } from "gatsby"
 import { IntlProvider } from "react-intl"
 import "intl";
 
+import EasterEgg from "../components/easter-egg"
 import Header from "../components/header"
 import Footer from "../components/footer"
 
@@ -21,6 +22,7 @@ const Layout = ({ isFrontPage, locale, messages, children }) => (
     render={data => (
       <IntlProvider locale={locale} messages={messages}>
         <>
+          <EasterEgg />
           <Header siteTitle={data.site.siteMetadata.title} locale={locale} isFrontPage={isFrontPage} />
           <main>{children}</main>
           <Footer />
