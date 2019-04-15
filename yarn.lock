@@ -2886,6 +2886,11 @@ css-declaration-sorter@^4.0.1:
     postcss "^7.0.1"
     timsort "^0.3.0"
 
+css-element-queries@^1.0.2:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/css-element-queries/-/css-element-queries-1.1.1.tgz#129e104ecb277aa6337b7302cbb6d511c2d1633a"
+  integrity sha512-/PX6Bkk77ShgbOx/mpawHdEvS3PGgy1mmMktcztDPndWdMJxcorcQiivrs+nEljqtBpvNEhAmQky9tQR6FSm8Q==
+
 css-loader@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/css-loader/-/css-loader-1.0.1.tgz#6885bb5233b35ec47b006057da01cc640b6b79fe"
@@ -9345,6 +9350,13 @@ react-bootstrap@^1.0.0-beta.6:
     react-transition-group "^2.6.0"
     uncontrollable "^6.1.0"
     warning "^4.0.3"
+
+react-compare-image@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/react-compare-image/-/react-compare-image-1.1.0.tgz#c8a545596808896aac6d9d2a79e0c381bd02d47a"
+  integrity sha512-NCzheud9ybTyhYZc7GYitMa+WvOseCQDj62BIBNSXvWeY/YfywpzcyIGxzywkfCcYAUTdqIsxyei79e+tfh9LA==
+  dependencies:
+    css-element-queries "^1.0.2"
 
 react-context-toolbox@^2.0.2:
   version "2.0.2"
