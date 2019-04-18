@@ -6,6 +6,7 @@ import Hero from "../components/hero"
 import Candidates from "../components/candidates"
 import TakeAction from "../components/take-action"
 import BCampgaign from "../components/b-campaign"
+import News from "../components/news"
 
 const IndexPage = () => (
   <Layout isFrontPage={true}>
@@ -14,6 +15,7 @@ const IndexPage = () => (
     <Candidates />
     <BCampgaign />
     <TakeAction />
+    <News />
   </Layout>
 )
 

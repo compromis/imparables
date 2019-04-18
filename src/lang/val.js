@@ -45,6 +45,7 @@ module.exports = {
   bcampaign_ADOCTRINAN: "Hi ha polítics que es van a esforçar perquè oblides que, enguany, el curs ha començat amb més de 14.000 places gratuïtes a escoles infantils de 0 a 3 anys.",
   bcampaign_button: "Dis-me'n una altra",
   bcampaign_link: "Descobreix més al nostre Programa 2019",
+  news_read_more: "Continua llegint...",
   footer_follow: "Segueix l'activitat de",
   footer_campaign: "{imparables} és una campanya de {compromis}"
 };

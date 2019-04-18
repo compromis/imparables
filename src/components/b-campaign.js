@@ -52,7 +52,7 @@ class BCampaign extends React.Component {
     const nextPoster = this.state.currentPoster + 1
     const allPosters = this.state.posters.length - 1
     const newPoster = nextPoster <= allPosters ? nextPoster : 0
-    console.log(nextPoster, this.state.posters.length)
+
     this.setState({
       posterVisible: false
     }, () => {

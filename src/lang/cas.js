@@ -45,6 +45,7 @@ module.exports = {
   bcampaign_ADOCTRINAN: "Hay políticos que se van a esforzar en que te olvides de que, este año, el curso ha empezado con más de 14.000 plaza gratuitas en escuelas infantiles de 0 a 3 años.",
   bcampaign_button: "Dime otra",
   bcampaign_link: "Descubre más en nuestro Programa 2019",
+  news_read_more: "Leer más...",
   footer_follow: "Sigue la actividad de",
   footer_campaign: "{imparables} es una campaña de {compromis}"
 };
