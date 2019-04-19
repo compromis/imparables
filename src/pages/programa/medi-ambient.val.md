@@ -9,7 +9,7 @@ class: "medi-ambient"
 
 El canvi climàtic és el repte més gran al qual haurem de fer front com a societat en les pròximes dècades. És urgent la necessitat de reduir les emissions de gasos d’efecte d’hivernacle per evitar escenaris de canvi climàtic catastròfic. Hem d’actuar en una doble via: anar cap a una producció i consum més responsable amb el medi ambient i desenvolupar estratègies de benestar basades a reduir el consum de recursos naturals i d’energia, conservar i recuperar els espais forestals, fluvials i agraris i la seua biodiversitat, així com en la distribució justa dels costos i beneficis d’aquesta transició ecològica necessària i inajornable.
 
-En aquest sentit és clau l'alineament d’energia, clima i polítiques ambientals amb l'objectiu d'accelerar la transició a una economia sostenible, circular i competitiva.
+En aquest sentit és clau l'alineament d’energia, clima i polítiques ambientals amb l'objectiu d'accelerar la transició energètica i cap a una economia sostenible, circular i competitiva.
 
 </div>
 

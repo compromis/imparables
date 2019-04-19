@@ -9,7 +9,7 @@ class: "medi-ambient"
 
 El cambio climático es el reto más grande al que debemos hacer frente como sociedad en las próximas décadas. Urge la necesidad de reducir las emisiones de gases de efecto invernadero para evitar escenarios de cambio climático catastrófico. Tenemos que actuar en una doble vía: ir hacia una producción y un consumo más responsable con el medio ambiente y desarrollar estrategias de bienestar basadas en reducir el consumo de recursos naturales y de energía, conservar y recuperar los espacios forestales, fluviales y agrarios y su biodiversidad, así como en la distribución justa de los costes y beneficios de esta transición ecológica necesaria e inaplazable.		
 
-En este sentido es clave el alineamiento de energía, clima y políticas ambientales con el objetivo de acelerar la transición a una economía sostenible, circular y competitiva.
+En este sentido es clave el alineamiento de energía, clima y políticas ambientales con el objetivo de acelerar la transición energética y hacia una economía sostenible, circular y competitiva.
 
 </div>
 
