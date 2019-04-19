@@ -46,6 +46,8 @@ module.exports = {
   bcampaign_button: "Dime otra",
   bcampaign_link: "Descubre más en nuestro Programa 2019",
   news_read_more: "Leer más...",
+  news_header: "Noticias",
+  news_more_on: "Más noticias en compromis.net",
   footer_follow: "Sigue la actividad de",
   footer_campaign: "{imparables} es una campaña de {compromis}"
 };

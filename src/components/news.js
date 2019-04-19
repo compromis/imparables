@@ -1,5 +1,6 @@
 import React from "react"
 import axios from "axios"
+import moment from "moment"
 import { FormattedMessage } from "react-intl"
 
 const NewsStory = ({story}) => (
@@ -9,7 +10,7 @@ const NewsStory = ({story}) => (
     </div>
     <div className="news-story-headline">
       <h5>{story.title.rendered}</h5>
-      <div className="news-story-readmore"><FormattedMessage id="news_read_more" /></div>
+      <div className="news-story-readmore">{ moment(story.date).format("D/M/YYYY") }</div>
     </div>
   </a>
 )
@@ -39,12 +40,12 @@ class News extends React.Component {
   render () {
     return (
       <div className="news container">
-        <h2>Notícies</h2>
+        <h2><FormattedMessage id="news_header" /></h2>
         <div className="news-list">
           { this.state.stories.map(story => <NewsStory key={story.id} story={story} />) }
         </div>
         <div className="news-more">
-          <a href="https://compromis.net">Més notícies en compromis.net</a>
+          <a href="https://compromis.net"><FormattedMessage id="news_more_on" /></a>
         </div>
       </div>
     )

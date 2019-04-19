@@ -1,6 +1,6 @@
 import React from "react"
 import PropTypes from "prop-types"
-import { injectIntl, intlShape } from "react-intl";
+import { injectIntl, intlShape } from "react-intl"
 import { Link } from "gatsby"
 
 const IntLink = ({ to, locale, intl, children, ...props }) => {
