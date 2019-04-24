@@ -1,7 +1,7 @@
 import React from "react"
 import axios from "axios"
 import moment from "moment"
-import { FormattedMessage } from "react-intl"
+import { FormattedMessage, injectIntl, intlShape } from "react-intl"
 
 const NewsStory = ({story}) => (
   <a href={story.link} target="_blank" rel="noopener noreferrer" className="news-story">
@@ -29,7 +29,8 @@ class News extends React.Component {
   }
 
   fetchNews () {
-    axios.get('https://compromis.net/wp-json/wp/v2/posts/?per_page=3&_embed')
+    const categories = this.props.intl.locale === 'es' ? '&categories=1939' : '&categories_exclude=1939'
+    axios.get('https://compromis.net/wp-json/wp/v2/posts/?per_page=3&_embed' + categories)
       .then(response => {
         this.setState({
           stories: response.data
@@ -45,11 +46,15 @@ class News extends React.Component {
           { this.state.stories.map(story => <NewsStory key={story.id} story={story} />) }
         </div>
         <div className="news-more">
-          <a href="https://compromis.net"><FormattedMessage id="news_more_on" /></a>
+          <a href="https://compromis.net/?skip=1"><FormattedMessage id="news_more_on" /></a>
         </div>
       </div>
     )
   }
 }
 
-export default News
+News.propTypes = {
+  intl: intlShape.isRequired
+}
+
+export default injectIntl(News)
