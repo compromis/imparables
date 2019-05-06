@@ -1,6 +1,31 @@
 .candidates {
   margin: 1rem auto;
 
+  &-europe {
+    &-wrapper {
+      display: grid;
+      padding-bottom: 2rem;
+      grid-template-columns: 1fr;
+      grid-template-areas: 
+        "title"
+        "img"
+        "name"
+    }
+
+    &-title {
+      grid-area: title;
+    }
+
+    &-name {
+      grid-area: name;
+    }
+
+    &-img {
+      grid-area: img;
+    }
+  }
+
+
   &-txt {
     margin-top: 1rem;
     margin-bottom: 4rem;
@@ -54,8 +79,8 @@
       }
     }
 
-    &-monica {
-      background-image:  url('../images/candidates/monica-oltra.jpg');
+    &-jordi {
+      background-image:  url('../images/candidates/jordi-sebastia.jpg');
       background-position: right top;
     }
 
@@ -83,6 +108,16 @@
 @include media-breakpoint-up(lg) {
   .candidates {
     margin: 3rem auto;
+
+    &-europe {
+      &-wrapper {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-areas: 
+        "title img"
+        "name img"
+      }
+    }
 
     &-imgs {
       display: flex;
@@ -117,8 +152,8 @@
       &-lg {
         position: relative;
         display: flex;
-        flex-direction: column;
-        text-justify: end;
+        flex-direction: row;
+        align-items: flex-end; 
 
         h2 {
           font-weight: bold;

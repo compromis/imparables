@@ -15,6 +15,7 @@ module.exports = {
   candidates_alacant_desc: "Candidat a l'alcaldia d'Alacant",
   candidates_cast_desc: "Candidat a l'alcaldia de Castelló",
   candidates_elx_desc: "Candidata a l'alcaldia d'Elx",
+  candidates_europe_desc: "Candidat al Parlament Europeu",
   candidates_monicaoltra_bio: "-",
   candidates_joanbaldovi_bio: "-",
   candidates_aitanamas_desc: "Candidata a Corts per Alacant",
