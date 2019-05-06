@@ -1,5 +1,6 @@
 import React from "react"
 import axios from "axios"
+import { IoIosSearch } from "react-icons/io"
 
 class LocalSites extends React.Component {
   constructor (props) {
@@ -20,7 +21,6 @@ class LocalSites extends React.Component {
   fetchSites () {
     axios.get('https://compromis.net/common/json_municipis.php')
       .then(response => {
-        console.log(response)
         this.setState({
           sites: response.data,
           filteredSites: response.data
@@ -46,10 +46,10 @@ class LocalSites extends React.Component {
     return (
       <div className="local-sites">
         <div className="container-fluid">
-          <h2>Compromís al teu municipi</h2>
-          <p>Lorem ipsum...</p>
+          <h2 className="sr-only">Compromís al teu municipi</h2>
           <div className="local-sites-filter">
-            <input type="search" value={searchTerm} placeholder="Troba el teu municipi..." onChange={(event) => this.handleSearchTerm(event)} />
+            <input type="search" value={searchTerm} placeholder="Quin és el teu municipi?" onChange={(event) => this.handleSearchTerm(event)} />
+            <span className="local-sites-filter-icon"><IoIosSearch /></span>
           </div>
           <div className={['local-sites-list', !searchTerm && compact && !overrideCompact ? 'local-sites-list--compact' : ''].join(' ')}>
             <ul>

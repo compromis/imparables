@@ -1,5 +1,5 @@
 .local-sites {
-  padding: 4rem 0;
+  padding: 0 0 3rem;
 
   h2 {
     font-family: $font-family-headings;
@@ -10,11 +10,43 @@
   }
 
   &-filter {
+    position: relative;
+
     input {
       width: 100%;
-      font-size: 2rem;
-      padding: 1rem 2rem;
-      border: 1px $gray-400 solid;
+      font-size: 4rem;
+      font-family: $font-family-headings;
+      text-transform: uppercase;
+      color: $orange;
+      border: 0;
+      border-bottom: 2px $gray-400 solid;
+      outline: 0;
+      transition: .25s ease-in-out;
+      letter-spacing: -1px;
+      padding-left: 4rem;
+
+      &:focus {
+        border-bottom-color: $orange;
+      }
+
+      &::placeholder {
+        color: $gray-500;
+      }
+    }
+
+    &:focus-within {
+      .local-sites-filter-icon {
+        color: $orange;
+      }
+    }
+
+    &-icon {
+      display: block;
+      position: absolute;
+      top: 1rem;
+      left: 0;
+      color: $gray-500;
+      font-size: 3rem;
     }
   }
 
@@ -73,8 +105,15 @@
 
 @include media-breakpoint-up(md) {
   .local-sites {
+    padding-top: 0;
+
     h2 {
       font-size: 4rem;
+    }
+
+    &-list--compact {
+      min-height: 2rem;
+      max-height: 24rem;
     }
   }
 }
