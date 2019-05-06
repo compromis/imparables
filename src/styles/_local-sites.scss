@@ -1,0 +1,80 @@
+.local-sites {
+  padding: 4rem 0;
+
+  h2 {
+    font-family: $font-family-headings;
+    text-transform: uppercase;
+    font-size: 3rem;
+    margin-top: -1.75rem;
+    letter-spacing: -1px;
+  }
+
+  &-filter {
+    input {
+      width: 100%;
+      font-size: 2rem;
+      padding: 1rem 2rem;
+      border: 1px $gray-400 solid;
+    }
+  }
+
+  &-list {
+    ul {
+      margin: 1rem 0;
+      padding: 0;
+      list-style: none;
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    li {
+      margin: 0 1rem 1rem 0;
+    }
+
+    a {
+      display: block;
+      color: $orange;
+      padding: .5rem 1rem;
+      transition: .25s ease-in-out;
+      border: 2px $orange solid;
+      background: $white;
+
+      &:hover {
+        background: $orange;
+        color: $white;
+        text-decoration: none;
+      }
+    }
+
+    &--compact {
+      position: relative;
+      min-height: 2rem;
+      max-height: 16rem;
+      overflow: hidden;
+
+      .local-sites-more {
+        content: '';
+        cursor: pointer;
+        display: block;
+        position: absolute;
+        background: linear-gradient(to top, $white, rgba($white, 0));
+        top: 50%;
+        right: 0;
+        left: 0;
+        bottom: 0;
+
+        &:hover {
+          background: linear-gradient(to top, $white 10%, rgba($white, 0));
+        }
+      }
+    }
+  }
+}
+
+@include media-breakpoint-up(md) {
+  .local-sites {
+    h2 {
+      font-size: 4rem;
+    }
+  }
+}
