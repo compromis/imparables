@@ -8,6 +8,7 @@ import LocalSites from "../components/local-sites"
 import TakeAction from "../components/take-action"
 import BCampgaign from "../components/b-campaign"
 import News from "../components/news"
+import CandidatesEurope from "../components/candidates-europe";
 
 const IndexPage = () => (
   <Layout isFrontPage={true}>
@@ -15,6 +16,7 @@ const IndexPage = () => (
     <Hero />
     <Candidates />
     <LocalSites compact={true} />
+    <CandidatesEurope /> 
     <BCampgaign />
     <TakeAction />
     <News />
