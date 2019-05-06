@@ -7,7 +7,7 @@ class Candidates extends React.Component {
     super(props)
 
     this.state = {
-      focused: 'monica'
+      focused: null
     }
   }
 
@@ -22,39 +22,39 @@ class Candidates extends React.Component {
 
     return (
       <div className="container-fluid candidates">
+        <div className="candidates-txt-lg-button">
+          <IntLink to="/candidatura" className="candidates">Candidatura Municipal</IntLink>
+        </div>
         <div className="row">
-          <div className="candidates-txt-lg col-lg-5">
-              <div className="candidates-txt-lg-button">
-                <IntLink to="/candidatura"><FormattedMessage id="candidates_header" /></IntLink>
-              </div>
-              <div className="candidates-txt-lg-names">
-                <IntLink to="/monica-oltra" className={['candidates-txt-lg-name monica', focused === 'monica' ? 'focused' : ''].join(' ')}>
-                  <h2>Mónica Oltra</h2>
-                  <p><FormattedMessage id="candidates_monicaoltra_desc" /></p>
-                </IntLink>
-                <IntLink to="/joan-baldovi" className={['candidates-txt-lg-name baldo', focused === 'baldo' ? 'focused' : ''].join(' ')}>
-                  <h2>Joan Baldoví</h2>
-                  <p><FormattedMessage id="candidates_joanbaldovi_desc" /></p>
-                </IntLink>
-              </div>
-          </div>
-
-          <div className="candidates-imgs col-lg-7">
-            <IntLink to="/monica-oltra" onMouseEnter={() => this.focusCandidate('monica')} className={['candidates-img-wrapper', focused === 'monica' ? 'focused' : ''].join(' ')}>
+          <div className="candidates-imgs col-lg-12">
+            <IntLink to="/monica-oltra" onMouseEnter={() => this.focusCandidate('ribo')} onMouseLeave ={() => this.focusCandidate(null)} className={['candidates-img-wrapper', focused === 'ribo' ? 'focused' : ''].join(' ')}>
               <div className="candidates-img candidates-img-monica"></div>
               <div className="candidates-txt">
-                <h2>Mónica Oltra</h2>
-                <p><FormattedMessage id="candidates_monicaoltra_desc" /></p>
+                <h2>Joan Ribó</h2>
+                <p><FormattedMessage id="candidates_vlc_desc" /></p>
               </div>
             </IntLink>
-            <IntLink to="/joan-baldovi" onMouseEnter={() => this.focusCandidate('baldo')} className={['candidates-img-wrapper', focused === 'baldo' ? 'focused' : ''].join(' ')}>
-              <div className="candidates-img candidates-img-baldo"></div>
+            <IntLink to="/joan-baldovi" onMouseEnter={() => this.focusCandidate('natxo')} onMouseLeave ={() => this.focusCandidate(null)} className={['candidates-img-wrapper', focused === 'natxo' ? 'focused' : ''].join(' ')}>
+              <div className="candidates-img candidates-img-natxo"></div>
               <div className="candidates-txt">
-                <h2>Joan Baldoví</h2>
-                <p><FormattedMessage id="candidates_joanbaldovi_desc" /></p>
+                <h2>Natxo Bellido</h2>
+                <p><FormattedMessage id="candidates_alacant_desc" /></p>
               </div>  
             </IntLink>
-            <IntLink to="/candidatura" className="candidates-all"><FormattedMessage id="candidates_all" /></IntLink>
+            <IntLink to="/joan-baldovi" onMouseEnter={() => this.focusCandidate('ignasi')} onMouseLeave ={() => this.focusCandidate(null)} className={['candidates-img-wrapper', focused === 'ignasi' ? 'focused' : ''].join(' ')}>
+              <div className="candidates-img candidates-img-ignasi"></div>
+              <div className="candidates-txt">
+                <h2>Ignasi Garcia</h2>
+                <p><FormattedMessage id="candidates_cast_desc" /></p>
+              </div>  
+            </IntLink>
+            <IntLink to="/joan-baldovi" onMouseEnter={() => this.focusCandidate('mireia')} onMouseLeave ={() => this.focusCandidate(null)} className={['candidates-img-wrapper', focused === 'mireia' ? 'focused' : ''].join(' ')}>
+              <div className="candidates-img candidates-img-baldo"></div>
+              <div className="candidates-txt">
+                <h2>Mireia Mollà</h2>
+                <p><FormattedMessage id="candidates_elx_desc" /></p>
+              </div>  
+            </IntLink>
           </div>
         </div>
       </div>
