@@ -30,6 +30,7 @@ module.exports = {
   candidates_martasorli_bio: "-",
   candidates_all: "Tots els candidats i candidates...",
   programa_download: "Programa complet",
+  programa_europe: "Programa Europa 2019",
   programa_abridged_download: "Libro de medidas",
   actions_title: "Actua!",
   actions_donate_title: "Ajuda'ns a fer la campanya",

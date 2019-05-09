@@ -48,6 +48,8 @@ const Programa = ({ isFrontPage, data }) => (
                   <div className="programa-background d-none d-md-block" style={ isSticky ? {marginTop: 70} : null}>Programa<br />2019</div>
                   { data.markdownRemark ? <ProgramaList list={data.allMarkdownRemark.edges} current={false} /> : '' }
                   <ul className="programa-download">
+                    <li><a href="/docs/programa_europa_val.pdf" className="programa-download-europe"><FaFileAlt /> Programa Europa 2019 (VAL)</a></li>
+                    <li><a href="/docs/programa_europa_cas.pdf" className="programa-download-europe"><FaFileAlt /> Programa Europa 2019 (CAS)</a></li>
                     <li><a href="/docs/programa_complet_VAL.pdf"><FaFileAlt /> <FormattedMessage id="programa_download" /></a></li>
                     <li><a href="/docs/llibret_mesures.pdf"><FaFileAlt /> <FormattedMessage id="programa_abridged_download" /></a></li>
                   </ul>

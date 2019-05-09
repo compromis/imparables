@@ -111,6 +111,7 @@ class Header extends React.Component {
                     <li><a href="https://compromis.net/info/transparencia/"><FormattedMessage id="menu_transparency" /></a></li>
                     <li><a href="https://compromis.net/vot-correu"><FormattedMessage id="menu_absenteeballot" /></a></li>
                     <li><a href="https://compromis.net/?skip=1">compromis.net</a></li>
+                    <li><a href="https://compromisoporeuropa.eu/">compromisoporeuropa.eu</a></li>
                   </ul>
                 </div>
                 <div className="col-lg-6 col-xl-4 d-none d-lg-block">

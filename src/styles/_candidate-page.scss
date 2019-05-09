@@ -6,7 +6,6 @@
 
   .candidate-photo {
     margin-bottom: 1rem;
-    max-height: 450px;
     overflow: hidden;
 
     img {
@@ -83,17 +82,17 @@
   }
 }
 
-.europe-website {
+.europe-block {
   display: block;
+  width: 100%;
   font-weight: bold;
-  font-size: 2rem;
+  font-size: 1.25rem;
   padding: 2rem;
   color: $white;
-  background-image: repeating-radial-gradient(circle farthest-corner at right bottom,#53b2ac 0,#a4c852 23.9%,#ed9444 54.2%,#d93c67 77.9%,#bc5b9c 100%);
-  background-size: 600%;
-  animation: EuroBackground 60s ease infinite;
   transition: .25s ease-in-out;
   border-radius: .25rem;
+  line-height: 1;
+  margin-bottom: 1rem;
 
   span {
     opacity: 0;
@@ -109,6 +108,36 @@
       opacity: 1;
     }
   }
+
+  &--website {
+    background-image: repeating-radial-gradient(circle farthest-corner at right bottom,#53b2ac 0,#a4c852 23.9%,#ed9444 54.2%,#d93c67 77.9%,#bc5b9c 100%);
+    background-size: 600%;
+    animation: EuroBackground 60s ease infinite;  
+  }
+
+  &--programa {
+    background: #003399;
+  }
+}
+
+.candidate-header {
+  &-link {
+    margin-top: 1rem;
+
+    a {
+      color: $white;
+    }
+  }
+
+  &--europe {
+    background-image: repeating-radial-gradient(circle farthest-corner at right bottom,#53b2ac 0,#a4c852 23.9%,#ed9444 54.2%,#d93c67 77.9%,#bc5b9c 100%);
+    background-size: 600%;
+    animation: EuroBackground 60s ease infinite;
+    color: $white;
+    text-align: center;
+    padding: 2rem 1rem;
+    margin-bottom: 1rem;
+  }
 }
 
 @include media-breakpoint-up(md) {
@@ -116,6 +145,52 @@
     .candidate-photo {
       max-height: none;
     }
+  }
+
+  .candidate-header {
+    .container {
+      position: relative;
+    }
+
+    &-link {
+      position: absolute;
+      top: 4rem;
+      right: 0;
+
+      a {
+        display: inline-block;
+        border: 1px $white solid;
+        padding: .5rem .75rem;
+        transition: .25s ease-in-out;
+        border-radius: .25rem;
+
+        &:hover {
+          background: $white;
+          color: #000;
+          text-decoration: none;
+          mix-blend-mode: lighten;
+        }
+      }
+    }
+
+    &--europe {
+      text-align: left;
+
+      .container {
+        padding: 4rem 1rem 9rem;
+      }
+    }
+  }
+
+  .jordi-sebastia {
+    background: $white;
+    padding: 1rem;
+    margin-top: -6rem;
+  }
+
+  .europe-block {
+    font-size: 2rem;
+    margin-bottom: 0;
   }
 }
 
