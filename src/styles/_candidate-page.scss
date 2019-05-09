@@ -83,10 +83,52 @@
   }
 }
 
+.europe-website {
+  display: block;
+  font-weight: bold;
+  font-size: 2rem;
+  padding: 2rem;
+  color: $white;
+  background-image: repeating-radial-gradient(circle farthest-corner at right bottom,#53b2ac 0,#a4c852 23.9%,#ed9444 54.2%,#d93c67 77.9%,#bc5b9c 100%);
+  background-size: 600%;
+  animation: EuroBackground 60s ease infinite;
+  transition: .25s ease-in-out;
+  border-radius: .25rem;
+
+  span {
+    opacity: 0;
+    transition: .25s ease-in-out;
+  }
+
+  &:hover {
+    color: $white;
+    text-decoration: none;
+    opacity: .75;
+
+    span {
+      opacity: 1;
+    }
+  }
+}
+
 @include media-breakpoint-up(md) {
   .candidate-page {
     .candidate-photo {
       max-height: none;
     }
+  }
+}
+
+@keyframes EuroBackground { 
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% { 
+    background-position: 100% 50%;
+  }
+
+  100% { 
+    background-position: 0% 50%;
   }
 }

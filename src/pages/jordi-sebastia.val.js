@@ -5,12 +5,12 @@ import SEO from "../components/seo"
 import ImparablesShort from "../components/elements/imparables-short"
 import SebastiaPhoto from "../images/candidates/sebastia-2.jpg"
 
-import { FaFacebook, FaTwitter, FaInstagram } from "react-icons/fa"
+import { FaFacebook, FaTwitter, FaInstagram, FaChevronRight } from "react-icons/fa"
 
 const SebastiaPage = () => (
   <Layout>
     <SEO lang="ca" title="Jordi Sebastià - Eleccions Europees 2019" />
-    <div className="container candidate-page monica-oltra">
+    <div className="container candidate-page jordi-sebastia">
       <div className="row">
         <div className="col-12 candidate-header">
           <ImparablesShort />
@@ -46,6 +46,10 @@ const SebastiaPage = () => (
           </div>
         </div>
         <div className="col-md-12">
+          <a href="https://www.compromisoporeuropa.eu/" target="_blank" rel="noopener noreferrer" className="europe-website">
+            Més informació en <u>compromispereuropa.eu</u> <span className="europe-website-icon"><FaChevronRight /></span>
+          </a>
+
           <hr className="my-4" />
 
           <div className="embed-responsive embed-responsive-16by9">
