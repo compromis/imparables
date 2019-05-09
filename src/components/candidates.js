@@ -27,34 +27,34 @@ class Candidates extends React.Component {
         </h2>
         <div className="row">
           <div className="candidates-imgs col-lg-12">
-            <IntLink to="/monica-oltra" onMouseEnter={() => this.focusCandidate('ribo')} onMouseLeave ={() => this.focusCandidate(null)} className={['candidates-img-wrapper', focused === 'ribo' ? 'focused' : ''].join(' ')}>
-              <div className="candidates-img candidates-img-monica"></div>
+            <a href="https://www.joambribo.com" target="_blank" rel="noopener noreferrer" onMouseEnter={() => this.focusCandidate('ribo')} onMouseLeave ={() => this.focusCandidate(null)} className={['candidates-img-wrapper', focused === 'ribo' ? 'focused' : ''].join(' ')}>
+              <div className="candidates-img candidates-img-ribo"></div>
               <div className="candidates-txt">
                 <h3>Joan Ribó</h3>
                 <p><FormattedMessage id="candidates_vlc_desc" /></p>
               </div>
-            </IntLink>
-            <IntLink to="/joan-baldovi" onMouseEnter={() => this.focusCandidate('natxo')} onMouseLeave ={() => this.focusCandidate(null)} className={['candidates-img-wrapper', focused === 'natxo' ? 'focused' : ''].join(' ')}>
+            </a>
+            <a href="https://alacant.compromis.net" target="_blank" rel="noopener noreferrer" onMouseEnter={() => this.focusCandidate('natxo')} onMouseLeave ={() => this.focusCandidate(null)} className={['candidates-img-wrapper', focused === 'natxo' ? 'focused' : ''].join(' ')}>
               <div className="candidates-img candidates-img-natxo"></div>
               <div className="candidates-txt">
                 <h3>Natxo Bellido</h3>
                 <p><FormattedMessage id="candidates_alacant_desc" /></p>
               </div>  
-            </IntLink>
-            <IntLink to="/joan-baldovi" onMouseEnter={() => this.focusCandidate('ignasi')} onMouseLeave ={() => this.focusCandidate(null)} className={['candidates-img-wrapper', focused === 'ignasi' ? 'focused' : ''].join(' ')}>
+            </a>
+            <a href="https://castello.compromis.net" target="_blank" rel="noopener noreferrer" onMouseEnter={() => this.focusCandidate('ignasi')} onMouseLeave ={() => this.focusCandidate(null)} className={['candidates-img-wrapper', focused === 'ignasi' ? 'focused' : ''].join(' ')}>
               <div className="candidates-img candidates-img-ignasi"></div>
               <div className="candidates-txt">
                 <h3>Ignasi Garcia</h3>
                 <p><FormattedMessage id="candidates_cast_desc" /></p>
               </div>  
-            </IntLink>
-            <IntLink to="/joan-baldovi" onMouseEnter={() => this.focusCandidate('mireia')} onMouseLeave ={() => this.focusCandidate(null)} className={['candidates-img-wrapper', focused === 'mireia' ? 'focused' : ''].join(' ')}>
-              <div className="candidates-img candidates-img-baldo"></div>
+            </a>
+            <a href="https://elx.compromis.net" target="_blank" rel="noopener noreferrer" onMouseEnter={() => this.focusCandidate('mireia')} onMouseLeave ={() => this.focusCandidate(null)} className={['candidates-img-wrapper', focused === 'mireia' ? 'focused' : ''].join(' ')}>
+              <div className="candidates-img candidates-img-mireia"></div>
               <div className="candidates-txt">
                 <h3>Mireia Mollà</h3>
                 <p><FormattedMessage id="candidates_elx_desc" /></p>
               </div>  
-            </IntLink>
+            </a>
           </div>
         </div>
       </div>
