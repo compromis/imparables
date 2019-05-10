@@ -14,7 +14,7 @@ const SebastiaPage = () => (
       <div className="container">
         <LogoEurope />
         <div className="candidate-header-link">
-          <a href="https://www.compromisoporeuropa.org" target="_blank" rel="noopener noreferrer">compromisoporeuropa.eu <FaChevronRight /></a>
+          <a href="https://www.compromisoporeuropa.eu" target="_blank" rel="noopener noreferrer">compromisoporeuropa.eu <FaChevronRight /></a>
         </div>
       </div>
     </div>
