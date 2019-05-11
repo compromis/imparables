@@ -9,7 +9,7 @@ import { FaFacebook, FaTwitter, FaInstagram, FaChevronRight } from "react-icons/
 
 const SebastiaPage = () => (
   <Layout>
-    <SEO lang="es" title="Jordi Sebastià - Elecciones Europeas 2019" image="https://imparables.compromis.net/images/europe.jpg" />
+    <SEO lang="es" title="Jordi Sebastià - Elecciones Europeas 2019 - Compromís" image="https://imparables.compromis.net/images/europe.jpg" />
     <div className="candidate-header candidate-header--europe">
       <div className="container">
         <LogoEurope />
