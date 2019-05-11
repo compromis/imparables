@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
     title: `Imparables - Compromís`,
-    description: `Amb tu, podrem continuar millorant la vida de les persones. Aquest 28 d'abril, serem #Imparables`,
-    keywords: [`compromís`, `28 abril`, `eleccions autonòmiques`, `eleccions generals`, `mónica oltra`, `joan baldoví`, `mónica presidenta`],
+    description: `Eleccions Municipals i Europees 2019. Aquest 26 de maig, serem #Imparables`,
+    keywords: [`compromís`, `28 abril`, `26 de maig`, `eleccions autonòmiques`, `eleccions generals`, `eleccions municipals`, `eleccions europees`, `parlament europeu`, `elecciones europas`, `mónica oltra`, `joan baldoví`, `mónica presidenta`, `joan ribó`, `jordi sebastià`],
     author: `@compromis`,
-    image: 'https://imparables.compromis.net/images/thumbnail.jpg'
+    image: 'https://imparables.compromis.net/images/thumbnail-municipals.jpg'
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
