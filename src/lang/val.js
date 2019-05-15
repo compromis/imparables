@@ -10,6 +10,7 @@ module.exports = {
   hero_cta1: "Candidatura",
   hero_cta2: "Programa",
   hero_cta3: "Ajuda'ns en la campanya",
+  hero_cta4: "Eleccions Europees",
   candidates_header: "Candidatura",
   candidates_vlc_desc: "Candidat a l'alcaldia de València",
   candidates_alacant_desc: "Candidat a l'alcaldia d'Alacant",

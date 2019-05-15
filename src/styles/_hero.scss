@@ -100,6 +100,16 @@
         border-color: $white;
       }
     }
+
+    &--europe {
+      background: #039;
+      border-color: #039;
+
+      &:hover {
+        border-color: $white;
+        color: #039;
+      }
+    }
   }
 }
 
