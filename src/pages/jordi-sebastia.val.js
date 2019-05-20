@@ -9,7 +9,7 @@ import { FaFacebook, FaTwitter, FaInstagram, FaChevronRight } from "react-icons/
 
 const SebastiaPage = () => (
   <Layout>
-    <SEO lang="es" title="Jordi Sebastià - Elecciones Europeas 2019" />
+    <SEO lang="es" title="Jordi Sebastià - Eleccions Europees 2019 - Compromís" image="https://imparables.compromis.net/images/europe.jpg" />
     <div className="candidate-header candidate-header--europe">
       <div className="container">
         <LogoEurope />
@@ -66,7 +66,7 @@ const SebastiaPage = () => (
         <div className="col">
           <hr className="my-4" />
           <div className="embed-responsive embed-responsive-16by9">
-            <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ql4Moxdos3k" frameBorder={0} allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" title="Vídeo 2 anys" allowFullScreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B9VZW_Mw59Y" frameBorder={0} allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" title="Vídeo 2 anys" allowFullScreen></iframe>
           </div>
         </div>
       </div>
