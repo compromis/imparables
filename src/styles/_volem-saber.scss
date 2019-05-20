@@ -1,0 +1,50 @@
+.volem-saber {
+  background: #fff;
+  color: $gray-800;
+
+  h2 {
+    font-size: 4rem;
+    font-weight: bold;
+    padding-bottom: 1rem;
+    background-image: $europa-gradient;
+    background-size: 600%;
+    animation: EuroBackground 70s ease infinite;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  h3 {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+
+  .volem-intro {
+    p {
+      padding-top: 1rem;
+      font-size: 1.5rem;
+    }
+  }
+
+  .volem-features {
+    margin-top: 1rem;
+
+    &-icon {
+      font-size: 3em;
+    }
+  }
+
+  .volem-form {
+    margin-top: 2rem;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+@include media-breakpoint-up(md) {
+  .volem-saber {
+    padding: 1.75rem;
+    margin-top: -6rem;
+  }
+}
