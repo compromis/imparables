@@ -110,7 +110,7 @@
   }
 
   &--website {
-    background-image: repeating-radial-gradient(circle farthest-corner at right bottom,#53b2ac 0,#a4c852 23.9%,#ed9444 54.2%,#d93c67 77.9%,#bc5b9c 100%);
+    background-image: $europa-gradient;
     background-size: 600%;
     animation: EuroBackground 60s ease infinite;  
   }
@@ -130,7 +130,7 @@
   }
 
   &--europe {
-    background-image: repeating-radial-gradient(circle farthest-corner at right bottom,#53b2ac 0,#a4c852 23.9%,#ed9444 54.2%,#d93c67 77.9%,#bc5b9c 100%);
+    background-image: $europa-gradient;
     background-size: 600%;
     animation: EuroBackground 60s ease infinite;
     color: $white;
