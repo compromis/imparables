@@ -3,7 +3,7 @@
   color: $gray-800;
 
   h2 {
-    font-size: 4rem;
+    font-size: 2.5rem;
     font-weight: bold;
     padding-bottom: 1rem;
     background-image: $europa-gradient;
@@ -14,14 +14,14 @@
   }
 
   h3 {
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: bold;
   }
 
   .volem-intro {
     p {
       padding-top: 1rem;
-      font-size: 1.5rem;
+      font-size: 1.25rem;
     }
   }
 
@@ -40,11 +40,40 @@
     align-items: center;
     justify-content: center;
   }
+
+  .volem-vote {
+    background: $gray-200;
+    margin: 1rem 0;
+    padding: 2rem;
+    font-size: 1.25rem;
+    border-radius: .25rem;
+    line-height: 1.5;
+  }
 }
 
 @include media-breakpoint-up(md) {
   .volem-saber {
     padding: 1.75rem;
     margin-top: -6rem;
+    
+    h2 {
+      font-size: 4rem;
+    }
+
+    h3 {
+      font-size: 2rem;
+    }
+
+    .volem-intro {
+      p {
+        font-size: 1.5rem;
+      }
+    }
+
+    .volem-vote {
+      margin: 2rem 0;
+      font-size: 1.75rem;
+      line-height: 1.25;
+    }
   }
 }
