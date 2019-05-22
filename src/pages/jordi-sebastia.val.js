@@ -1,5 +1,6 @@
 import React from "react"
 
+import { Link } from "gatsby"
 import Layout from "../layouts/cas"
 import SEO from "../components/seo"
 import LogoEurope from "../components/elements/logo-europe"
@@ -51,14 +52,19 @@ const SebastiaPage = () => (
       </div>
       <div className="row">
         <hr className="my-4" />
-        <div className="col-md-6 d-flex align-items-stretch">
-          <a href="https://www.compromisoporeuropa.eu" target="_blank" rel="noopener noreferrer" className="europe-block europe-block--website">
-            Més informació a <u>compromisoporeuropa.eu</u> <span className="europe-block-icon"><FaChevronRight /></span>
-          </a>
+        <div className="col-md-4 d-flex align-items-stretch">
+          <Link to="/volem-saber" className="europe-block europe-block--volemsaber">
+            VolemSaber.eu <span className="europe-block-icon"><FaChevronRight /></span>
+          </Link>
         </div>
-        <div className="col-md-6 d-flex align-items-stretch">
+        <div className="col-md-4 d-flex align-items-stretch">
           <a href="/docs/programa_europa_val.pdf" target="_blank" rel="noopener noreferrer" className="europe-block europe-block--programa">
             Programa Europa 2019 <span className="europe-block-icon"><FaChevronRight /></span>
+          </a>
+        </div>
+        <div className="col-md-4 d-flex align-items-stretch">
+          <a href="https://www.compromisoporeuropa.eu" target="_blank" rel="noopener noreferrer" className="europe-block europe-block--website">
+            Més informació a <u>compromisoporeuropa.eu</u> <span className="europe-block-icon"><FaChevronRight /></span>
           </a>
         </div>
       </div>

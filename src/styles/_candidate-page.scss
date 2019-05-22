@@ -118,6 +118,11 @@
   &--programa {
     background: #003399;
   }
+
+  &--volemsaber {
+    background-color: $orange;
+    background-size: 600%;
+  }
 }
 
 .candidate-header {
@@ -189,7 +194,7 @@
   }
 
   .europe-block {
-    font-size: 2rem;
+    font-size: 1.5rem;
     margin-bottom: 0;
   }
 }
