@@ -1,6 +1,6 @@
 import React from "react"
 
-import Layout from "../layouts/cas"
+import Layout from "../layouts/val"
 import SEO from "../components/seo"
 import LogoEurope from "../components/elements/logo-europe"
 
@@ -8,7 +8,7 @@ import { FaChevronRight, FaQuestionCircle, FaExclamationCircle, FaComments, FaAr
 
 const VolemSaber = () => (
   <Layout>
-    <SEO lang="es" title="Volem Saber - Eleccions Europees 2019 - Compromís" image="https://imparables.compromis.net/images/thumbnail-volemsaber-val.jpg" />
+    <SEO lang="ca" title="Volem Saber - Eleccions Europees 2019 - Compromís" image="https://imparables.compromis.net/images/thumbnail-volemsaber-val.jpg" />
     <div className="candidate-header candidate-header--europe">
       <div className="container">
         <LogoEurope />
