@@ -8,7 +8,7 @@ import { FaChevronRight, FaQuestionCircle, FaExclamationCircle, FaComments, FaAr
 
 const VolemSaber = () => (
   <Layout>
-    <SEO lang="es" title="Volem Saber - Elecciones Europeas 2019 - Compromís" image="https://imparables.compromis.net/images/europe.jpg" />
+    <SEO lang="es" title="Volem Saber - Elecciones Europeas 2019 - Compromís" image="https://imparables.compromis.net/images/thumbnail-volemsaber-cas.jpg" />
     <div className="candidate-header candidate-header--europe">
       <div className="container">
         <LogoEurope />
